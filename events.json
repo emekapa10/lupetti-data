@@ -1,0 +1,3945 @@
+{
+ "schemaVersion": 1,
+ "checkedAt": "2026-10-02",
+ "events": [
+  {
+   "id": "curated:troc-chavornay-automne-2026",
+   "title": "Troc de Chavornay (automne-hiver)",
+   "category": "swap_market",
+   "venue": "Grande Salle de Chavornay",
+   "city": "Chavornay",
+   "canton": "VD",
+   "address": "Le Verneret 12, 1373 Chavornay",
+   "slots": [
+    {
+     "start": "2026-10-03T08:30:00+02:00",
+     "end": "2026-10-03T12:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.trocdechavornay.ch/",
+   "description": "Troc semestriel : vente et achat de vêtements, jouets et articles pour enfants d'occasion. Paiement en espèces uniquement.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "troc-chavornay-automne-2026",
+    "url": "https://www.trocdechavornay.ch/",
+    "licenseUrl": "https://www.trocdechavornay.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:troc-cheserex-automne-2026",
+   "title": "Troc de Chéserex (automne)",
+   "category": "swap_market",
+   "city": "Chéserex",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-03T09:00:00+02:00",
+     "end": "2026-10-03T12:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.trocdecheserex.ch/",
+   "description": "Vente-échange d'habits, jouets et matériel pour enfants de seconde main, le samedi matin.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "troc-cheserex-automne-2026",
+    "url": "https://www.trocdecheserex.ch/",
+    "licenseUrl": "https://www.trocdecheserex.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:troc-belmont-automne-2026",
+   "title": "Troc de Belmont",
+   "category": "swap_market",
+   "venue": "Salle de gymnastique",
+   "city": "Belmont-sur-Lausanne",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-03T08:00:00+02:00",
+     "end": "2026-10-03T12:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.belmont.ch/fr/actualites-et-infos/agenda-des-manifestation/",
+   "description": "Troc d'automne-hiver : vêtements de saison, jouets et articles pour enfants à petits prix.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "troc-belmont-automne-2026",
+    "url": "https://www.belmont.ch/fr/actualites-et-infos/agenda-des-manifestation/",
+    "licenseUrl": "https://www.belmont.ch/fr/actualites-et-infos/agenda-des-manifestation/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:vide-grenier-familles-renens-2026",
+   "title": "Vide-grenier spécial familles",
+   "category": "swap_market",
+   "venue": "Salle de spectacles de Renens",
+   "city": "Renens",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-03"
+    }
+   ],
+   "officialUrl": "https://bulledairrenens.com/vide-grenier/",
+   "description": "Vide-grenier pour les familles avec stands de particuliers, petite restauration et spectacle de Billy Cookie à 14h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "vide-grenier-familles-renens-2026",
+    "url": "https://bulledairrenens.com/vide-grenier/",
+    "licenseUrl": "https://bulledairrenens.com/vide-grenier/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:braderie-aef-pully-automne-2026",
+   "title": "Braderie d'automne de l'Entraide familiale",
+   "category": "swap_market",
+   "venue": "Grande Salle de la Maison Pulliérane",
+   "city": "Pully",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-03T20:00:00+01:00",
+     "end": "2026-11-03T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-04T10:00:00+01:00",
+     "end": "2026-11-04T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.aef-ppb.ch/",
+   "description": "Grande braderie de seconde main : articles d'enfants, jouets, livres, matériel de sport et objets de maison. Espèces et TWINT.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "braderie-aef-pully-automne-2026",
+    "url": "https://www.aef-ppb.ch/",
+    "licenseUrl": "https://www.aef-ppb.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:troc-blonay-2026",
+   "title": "Troc de Blonay",
+   "category": "swap_market",
+   "venue": "Salle de gym Ancienne de Bahyse",
+   "city": "Blonay",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-06T12:00:00+01:00",
+     "end": "2026-11-06T19:30:00+01:00"
+    },
+    {
+     "start": "2026-11-07T09:15:00+01:00",
+     "end": "2026-11-07T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.trocdeblonay.ch/",
+   "description": "Troc d'habits et d'articles pour enfants sur deux jours. Paiement en espèces uniquement ; parking devant la salle fermé (travaux).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "troc-blonay-2026",
+    "url": "https://www.trocdeblonay.ch/",
+    "licenseUrl": "https://www.trocdeblonay.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:troc-jeux-jouets-nyon-2026",
+   "title": "Troc de jeux et jouets de la Ludothèque",
+   "category": "swap_market",
+   "venue": "Salle communale de Nyon",
+   "city": "Nyon",
+   "canton": "VD",
+   "address": "Rue des Marchandises 4, 1260 Nyon",
+   "slots": [
+    {
+     "start": "2026-11-21T09:00:00+01:00",
+     "end": "2026-11-21T13:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.ludonyonregion.ch/troc/",
+   "description": "Le troc annuel de la ludothèque : jeux de société et jouets d'occasion à prix réduits, achat ou vente.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "troc-jeux-jouets-nyon-2026",
+    "url": "https://www.ludonyonregion.ch/troc/",
+    "licenseUrl": "https://www.ludonyonregion.ch/troc/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:puces-de-nyon-2026",
+   "title": "Les Puces de Nyon",
+   "category": "swap_market",
+   "venue": "Quartier de Rive",
+   "city": "Nyon",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-25T08:00:00+01:00",
+     "end": "2026-10-25T18:30:00+01:00"
+    },
+    {
+     "start": "2026-11-29T08:00:00+01:00",
+     "end": "2026-11-29T18:30:00+01:00"
+    },
+    {
+     "start": "2026-12-13T08:00:00+01:00",
+     "end": "2026-12-13T18:30:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.vaud.ch/tourisme/tous-les-evenements/les-puces-de-nyon-quartier-de-rive-nyon/",
+   "description": "Marché aux puces au bord du lac, quartier de Rive : brocante, objets anciens et trouvailles en tout genre.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "puces-de-nyon-2026",
+    "url": "https://www.vaud.ch/tourisme/tous-les-evenements/les-puces-de-nyon-quartier-de-rive-nyon/",
+    "licenseUrl": "https://www.vaud.ch/tourisme/tous-les-evenements/les-puces-de-nyon-quartier-de-rive-nyon/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:courges-en-fete-echallens-2026",
+   "title": "Courges en fête (30e édition)",
+   "category": "food",
+   "venue": "Place du Château",
+   "city": "Echallens",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-24T10:00:00+02:00",
+     "end": "2026-10-24T17:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://ace-echallens.ch/2026/09/04/courges-en-fete-2026/",
+   "description": "Fête de la courge : animations et grimage pour enfants, soupe à la courge offerte, stands de nourriture et marché fermier.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "courges-en-fete-echallens-2026",
+    "url": "https://ace-echallens.ch/2026/09/04/courges-en-fete-2026/",
+    "licenseUrl": "https://ace-echallens.ch/2026/09/04/courges-en-fete-2026/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:fete-courge-cpo-ouchy-2026",
+   "title": "Fête de la courge du CPO",
+   "category": "food",
+   "venue": "CPO – Centre Pluriculturel et social d'Ouchy",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Chemin de Beau-Rivage 2, 1006 Lausanne",
+   "slots": [
+    {
+     "start": "2026-10-24T14:00:00+02:00",
+     "end": "2026-10-24T19:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.cpo-ouchy.ch/activites/fete-de-la-courge/",
+   "description": "Ateliers décoration de courges (4-10 ans, sur réservation), bricolages (2-6 ans), contes, grimage, disco Halloween et soupe.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fete-courge-cpo-ouchy-2026",
+    "url": "https://www.cpo-ouchy.ch/activites/fete-de-la-courge/",
+    "licenseUrl": "https://www.cpo-ouchy.ch/activites/fete-de-la-courge/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:fete-courge-cheseaux-2026",
+   "title": "Fête de la courge de Cheseaux",
+   "category": "food",
+   "venue": "Maison de Commune",
+   "city": "Cheseaux-sur-Lausanne",
+   "canton": "VD",
+   "address": "Route de Lausanne 2, 1033 Cheseaux-sur-Lausanne",
+   "slots": [
+    {
+     "start": "2026-10-28"
+    }
+   ],
+   "officialUrl": "https://www.cheseaux.ch/fr/agenda-87.html",
+   "description": "Fête de la courge villageoise à la Maison de commune.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fete-courge-cheseaux-2026",
+    "url": "https://www.cheseaux.ch/fr/agenda-87.html",
+    "licenseUrl": "https://www.cheseaux.ch/fr/agenda-87.html",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:fete-noel-cheseaux-2026",
+   "title": "Fête de Noël de Cheseaux",
+   "category": "christmas",
+   "venue": "Maison de Commune",
+   "city": "Cheseaux-sur-Lausanne",
+   "canton": "VD",
+   "address": "Route de Lausanne 2, 1033 Cheseaux-sur-Lausanne",
+   "slots": [
+    {
+     "start": "2026-12-12"
+    }
+   ],
+   "officialUrl": "https://www.cheseaux.ch/fr/agenda-87.html",
+   "description": "Fête de Noël villageoise à la Maison de commune.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fete-noel-cheseaux-2026",
+    "url": "https://www.cheseaux.ch/fr/agenda-87.html",
+    "licenseUrl": "https://www.cheseaux.ch/fr/agenda-87.html",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:boum-enfants-penthaz-2026",
+   "title": "Boum pour enfants et parents",
+   "category": "festival",
+   "city": "Penthaz",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-07"
+    }
+   ],
+   "officialUrl": "https://www.penthaz.ch/animations-villageoises-et-culture-fr75.html",
+   "description": "Boum villageoise pour enfants et parents organisée à Penthaz.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "boum-enfants-penthaz-2026",
+    "url": "https://www.penthaz.ch/animations-villageoises-et-culture-fr75.html",
+    "licenseUrl": "https://www.penthaz.ch/animations-villageoises-et-culture-fr75.html",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:sonnailles-romainmotier-2026",
+   "title": "Foire d'automne et bourse aux sonnailles",
+   "category": "festival",
+   "venue": "Champbaillard",
+   "city": "Romainmôtier-Envy",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-09"
+    },
+    {
+     "start": "2026-10-10"
+    },
+    {
+     "start": "2026-10-11"
+    }
+   ],
+   "officialUrl": "https://romainmotier.ch/actualite-manifestations/agenda/",
+   "description": "Rencontre automnale traditionnelle avec plus de 80 exposants, musique et animations. Du vendredi midi au dimanche 17h, entrée payante.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "sonnailles-romainmotier-2026",
+    "url": "https://romainmotier.ch/actualite-manifestations/agenda/",
+    "licenseUrl": "https://romainmotier.ch/actualite-manifestations/agenda/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:foire-st-martin-vevey-2026",
+   "title": "Foire de la Saint-Martin",
+   "category": "food",
+   "venue": "Place du Marché",
+   "city": "Vevey",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-30"
+    },
+    {
+     "start": "2026-10-31"
+    },
+    {
+     "start": "2026-11-01"
+    }
+   ],
+   "officialUrl": "https://foire-st-martin.ch/",
+   "description": "555e foire : cortège aux flambeaux des enfants le vendredi, grande foire et animations le samedi, brunch campagnard le dimanche.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "foire-st-martin-vevey-2026",
+    "url": "https://foire-st-martin.ch/",
+    "licenseUrl": "https://foire-st-martin.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:nuit-epouvante-chillon-2026",
+   "title": "La Nuit de l'épouvante",
+   "category": "halloween",
+   "venue": "Château de Chillon",
+   "city": "Veytaux",
+   "canton": "VD",
+   "address": "Avenue de Chillon 21, 1820 Veytaux",
+   "slots": [
+    {
+     "start": "2026-10-10T18:30:00+02:00",
+     "end": "2026-10-10T23:30:00+02:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.chillon.ch/en/monagenda/scary-night-at-the-castle-2/",
+   "description": "Le château de Chillon hanté le temps d'une soirée théâtralisée. Dès 6 ans, billets uniquement en prévente.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "nuit-epouvante-chillon-2026",
+    "url": "https://www.chillon.ch/en/monagenda/scary-night-at-the-castle-2/",
+    "licenseUrl": "https://www.chillon.ch/en/monagenda/scary-night-at-the-castle-2/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:halloween-fort-chillon-2026",
+   "title": "Halloween au Fort de Chillon",
+   "category": "halloween",
+   "venue": "Fort de Chillon",
+   "city": "Veytaux",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-10",
+     "end": "2026-10-31"
+    }
+   ],
+   "officialUrl": "https://fortdechillon.ch/en/halloween-2026-au-fort-de-chillon/",
+   "description": "Légendes et créatures des Alpes vaudoises : chasse au trésor, contes et chasse aux bonbons costumée le 31.10. Inclus dans le billet.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "halloween-fort-chillon-2026",
+    "url": "https://fortdechillon.ch/en/halloween-2026-au-fort-de-chillon/",
+    "licenseUrl": "https://fortdechillon.ch/en/halloween-2026-au-fort-de-chillon/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:halloween-explorit-2026",
+   "title": "Halloween en famille à EXPLORiT",
+   "category": "halloween",
+   "venue": "EXPLORiT",
+   "city": "Yverdon-les-Bains",
+   "canton": "VD",
+   "address": "Avenue des Découvertes 1, 1400 Yverdon-les-Bains",
+   "slots": [
+    {
+     "start": "2026-10-31"
+    },
+    {
+     "start": "2026-11-01"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.loisirs.ch/agenda/halloween-en-famille-a-explorit-yverdon-les-bains-vd/",
+   "description": "Sciencity plongée dans le noir : parcours à frissons et atelier bricolage pour les 4-12 ans (10 CHF/enfant, adultes gratuits).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "halloween-explorit-2026",
+    "url": "https://www.loisirs.ch/agenda/halloween-en-famille-a-explorit-yverdon-les-bains-vd/",
+    "licenseUrl": "https://www.loisirs.ch/agenda/halloween-en-famille-a-explorit-yverdon-les-bains-vd/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:bo-noel-lausanne-2026",
+   "title": "Bô Noël – marchés de Noël de Lausanne",
+   "category": "christmas",
+   "venue": "Centre-ville",
+   "city": "Lausanne",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-20"
+    },
+    {
+     "start": "2026-11-21"
+    },
+    {
+     "start": "2026-11-22"
+    },
+    {
+     "start": "2026-11-23"
+    },
+    {
+     "start": "2026-11-24"
+    },
+    {
+     "start": "2026-11-25"
+    },
+    {
+     "start": "2026-11-26"
+    },
+    {
+     "start": "2026-11-27"
+    },
+    {
+     "start": "2026-11-28"
+    },
+    {
+     "start": "2026-11-29"
+    },
+    {
+     "start": "2026-11-30"
+    },
+    {
+     "start": "2026-12-01"
+    },
+    {
+     "start": "2026-12-02"
+    },
+    {
+     "start": "2026-12-03"
+    },
+    {
+     "start": "2026-12-04"
+    },
+    {
+     "start": "2026-12-05"
+    },
+    {
+     "start": "2026-12-06"
+    },
+    {
+     "start": "2026-12-07"
+    },
+    {
+     "start": "2026-12-08"
+    },
+    {
+     "start": "2026-12-09"
+    },
+    {
+     "start": "2026-12-10"
+    },
+    {
+     "start": "2026-12-11"
+    },
+    {
+     "start": "2026-12-12"
+    },
+    {
+     "start": "2026-12-13"
+    },
+    {
+     "start": "2026-12-14"
+    },
+    {
+     "start": "2026-12-15"
+    },
+    {
+     "start": "2026-12-16"
+    },
+    {
+     "start": "2026-12-17"
+    },
+    {
+     "start": "2026-12-18"
+    },
+    {
+     "start": "2026-12-19"
+    },
+    {
+     "start": "2026-12-20"
+    },
+    {
+     "start": "2026-12-21"
+    },
+    {
+     "start": "2026-12-22"
+    },
+    {
+     "start": "2026-12-23"
+    },
+    {
+     "start": "2026-12-24"
+    },
+    {
+     "start": "2026-12-25"
+    },
+    {
+     "start": "2026-12-26"
+    },
+    {
+     "start": "2026-12-27"
+    },
+    {
+     "start": "2026-12-28"
+    },
+    {
+     "start": "2026-12-29"
+    },
+    {
+     "start": "2026-12-30"
+    },
+    {
+     "start": "2026-12-31"
+    }
+   ],
+   "officialUrl": "https://www.commercants-lausannois.ch/evenement/bo-noel-2026-marche-noel-lausanne-2026/",
+   "description": "Le centre-ville de Lausanne en fête : chalets d'artisans, illuminations et lieux de rencontre conviviaux.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "bo-noel-lausanne-2026",
+    "url": "https://www.commercants-lausannois.ch/evenement/bo-noel-2026-marche-noel-lausanne-2026/",
+    "licenseUrl": "https://www.commercants-lausannois.ch/evenement/bo-noel-2026-marche-noel-lausanne-2026/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:montreux-noel-2026",
+   "title": "Montreux Noël",
+   "category": "christmas",
+   "city": "Montreux",
+   "canton": "VD",
+   "address": "Grand-Rue 24, 1820 Montreux",
+   "slots": [
+    {
+     "start": "2026-11-20T11:00:00+01:00",
+     "end": "2026-11-20T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-21T10:00:00+01:00",
+     "end": "2026-11-21T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-22T10:00:00+01:00",
+     "end": "2026-11-22T20:00:00+01:00"
+    },
+    {
+     "start": "2026-11-23T11:00:00+01:00",
+     "end": "2026-11-23T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-24T11:00:00+01:00",
+     "end": "2026-11-24T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-25T11:00:00+01:00",
+     "end": "2026-11-25T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-26T11:00:00+01:00",
+     "end": "2026-11-26T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-27T11:00:00+01:00",
+     "end": "2026-11-27T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00+01:00",
+     "end": "2026-11-28T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00+01:00",
+     "end": "2026-11-29T20:00:00+01:00"
+    },
+    {
+     "start": "2026-11-30T11:00:00+01:00",
+     "end": "2026-11-30T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-01T11:00:00+01:00",
+     "end": "2026-12-01T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-02T11:00:00+01:00",
+     "end": "2026-12-02T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-03T11:00:00+01:00",
+     "end": "2026-12-03T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-04T11:00:00+01:00",
+     "end": "2026-12-04T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-07T11:00:00+01:00",
+     "end": "2026-12-07T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-08T11:00:00+01:00",
+     "end": "2026-12-08T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-09T11:00:00+01:00",
+     "end": "2026-12-09T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-10T11:00:00+01:00",
+     "end": "2026-12-10T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-11T11:00:00+01:00",
+     "end": "2026-12-11T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-14T11:00:00+01:00",
+     "end": "2026-12-14T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-15T11:00:00+01:00",
+     "end": "2026-12-15T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T11:00:00+01:00",
+     "end": "2026-12-16T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-17T11:00:00+01:00",
+     "end": "2026-12-17T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T11:00:00+01:00",
+     "end": "2026-12-18T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T10:00:00+01:00",
+     "end": "2026-12-20T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-21T11:00:00+01:00",
+     "end": "2026-12-21T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-22T11:00:00+01:00",
+     "end": "2026-12-22T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-23T11:00:00+01:00",
+     "end": "2026-12-23T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-24T11:00:00+01:00",
+     "end": "2026-12-24T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.montreuxnoel.com/search/2026/",
+   "description": "Plus de 170 chalets au bord du lac ; le Père Noël passe en traîneau volant chaque jour à 17h, 18h et 19h (aussi 16h le samedi).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "montreux-noel-2026",
+    "url": "https://www.montreuxnoel.com/search/2026/",
+    "licenseUrl": "https://www.montreuxnoel.com/search/2026/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:vevey-riviera-noel-2026",
+   "title": "Vevey Riviera Noël",
+   "category": "christmas",
+   "venue": "Place du Marché et Place Scanavin",
+   "city": "Vevey",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-20T15:00:00+01:00",
+     "end": "2026-11-20T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-21T10:00:00+01:00",
+     "end": "2026-11-21T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-22T10:00:00+01:00",
+     "end": "2026-11-22T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-23"
+    },
+    {
+     "start": "2026-11-24T15:00:00+01:00",
+     "end": "2026-11-24T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-25T12:00:00+01:00",
+     "end": "2026-11-25T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-26T15:00:00+01:00",
+     "end": "2026-11-26T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-27T15:00:00+01:00",
+     "end": "2026-11-27T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00+01:00",
+     "end": "2026-11-28T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00+01:00",
+     "end": "2026-11-29T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-30"
+    },
+    {
+     "start": "2026-12-01T15:00:00+01:00",
+     "end": "2026-12-01T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-02T12:00:00+01:00",
+     "end": "2026-12-02T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-03T15:00:00+01:00",
+     "end": "2026-12-03T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-04T15:00:00+01:00",
+     "end": "2026-12-04T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-07"
+    },
+    {
+     "start": "2026-12-08T15:00:00+01:00",
+     "end": "2026-12-08T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-09T12:00:00+01:00",
+     "end": "2026-12-09T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-10T15:00:00+01:00",
+     "end": "2026-12-10T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-11T15:00:00+01:00",
+     "end": "2026-12-11T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-14"
+    },
+    {
+     "start": "2026-12-15T15:00:00+01:00",
+     "end": "2026-12-15T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T12:00:00+01:00",
+     "end": "2026-12-16T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-17T15:00:00+01:00",
+     "end": "2026-12-17T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T15:00:00+01:00",
+     "end": "2026-12-18T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T10:00:00+01:00",
+     "end": "2026-12-20T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-21"
+    },
+    {
+     "start": "2026-12-22T15:00:00+01:00",
+     "end": "2026-12-22T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-23T12:00:00+01:00",
+     "end": "2026-12-23T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-24T15:00:00+01:00",
+     "end": "2026-12-24T22:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.vaud.ch/en/tourism/events/vevey-riviera-noel/",
+   "description": "Patinoire, restaurant vaudois et exposants régionaux place du Marché ; feux de bois, chalets et kotas finlandais place Scanavin.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "vevey-riviera-noel-2026",
+    "url": "https://www.vaud.ch/en/tourism/events/vevey-riviera-noel/",
+    "licenseUrl": "https://www.vaud.ch/en/tourism/events/vevey-riviera-noel/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-morges-2026",
+   "title": "Marché de Noël de Morges",
+   "category": "christmas",
+   "venue": "Château de Morges",
+   "city": "Morges",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-02T15:00:00+01:00",
+     "end": "2026-12-02T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-03T15:00:00+01:00",
+     "end": "2026-12-03T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-04T15:00:00+01:00",
+     "end": "2026-12-04T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-09T15:00:00+01:00",
+     "end": "2026-12-09T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-10T15:00:00+01:00",
+     "end": "2026-12-10T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-11T15:00:00+01:00",
+     "end": "2026-12-11T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T15:00:00+01:00",
+     "end": "2026-12-16T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-17T15:00:00+01:00",
+     "end": "2026-12-17T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T15:00:00+01:00",
+     "end": "2026-12-18T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T10:00:00+01:00",
+     "end": "2026-12-20T21:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.morges.ch/agenda/marche-de-noel-de-morges-213841",
+   "description": "Une centaine de chalets d'artisans autour du château, bars et restaurants. Fermé lundi et mardi.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-morges-2026",
+    "url": "https://www.morges.ch/agenda/marche-de-noel-de-morges-213841",
+    "licenseUrl": "https://www.morges.ch/agenda/marche-de-noel-de-morges-213841",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-yverdon-2026",
+   "title": "Marché de Noël d'Yverdon-les-Bains",
+   "category": "christmas",
+   "venue": "Château d'Yverdon-les-Bains",
+   "city": "Yverdon-les-Bains",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-28"
+    },
+    {
+     "start": "2026-11-29"
+    },
+    {
+     "start": "2026-11-30"
+    },
+    {
+     "start": "2026-12-01"
+    },
+    {
+     "start": "2026-12-02"
+    },
+    {
+     "start": "2026-12-03"
+    },
+    {
+     "start": "2026-12-04"
+    },
+    {
+     "start": "2026-12-05"
+    },
+    {
+     "start": "2026-12-06"
+    },
+    {
+     "start": "2026-12-07"
+    },
+    {
+     "start": "2026-12-08"
+    },
+    {
+     "start": "2026-12-09"
+    },
+    {
+     "start": "2026-12-10"
+    },
+    {
+     "start": "2026-12-11"
+    },
+    {
+     "start": "2026-12-12"
+    },
+    {
+     "start": "2026-12-13"
+    },
+    {
+     "start": "2026-12-14"
+    },
+    {
+     "start": "2026-12-15"
+    },
+    {
+     "start": "2026-12-16"
+    },
+    {
+     "start": "2026-12-17"
+    },
+    {
+     "start": "2026-12-18"
+    },
+    {
+     "start": "2026-12-19"
+    },
+    {
+     "start": "2026-12-20"
+    },
+    {
+     "start": "2026-12-21"
+    },
+    {
+     "start": "2026-12-22"
+    },
+    {
+     "start": "2026-12-23"
+    }
+   ],
+   "officialUrl": "https://www.yverdon-les-bains.ch/medias/actualites/detail/marche-de-noel-2026-au-chateau-les-inscriptions-sont-ouvertes",
+   "description": "Marché de Noël de l'Avent au château d'Yverdon, avec artisans et créateurs régionaux.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-yverdon-2026",
+    "url": "https://www.yverdon-les-bains.ch/medias/actualites/detail/marche-de-noel-2026-au-chateau-les-inscriptions-sont-ouvertes",
+    "licenseUrl": "https://www.yverdon-les-bains.ch/medias/actualites/detail/marche-de-noel-2026-au-chateau-les-inscriptions-sont-ouvertes",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-lutry-2026",
+   "title": "Marché de Noël de Lutry",
+   "category": "christmas",
+   "venue": "Bourg de Lutry",
+   "city": "Lutry",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T18:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.sdlutry.ch/march%C3%A9-de-no%C3%ABl",
+   "description": "150 marchands et artisans dans les rues du bourg et au bord du lac, avec animations de la Société de développement.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-lutry-2026",
+    "url": "https://www.sdlutry.ch/march%C3%A9-de-no%C3%ABl",
+    "licenseUrl": "https://www.sdlutry.ch/march%C3%A9-de-no%C3%ABl",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-orbe-2026",
+   "title": "Marché de Noël d'Orbe",
+   "category": "christmas",
+   "city": "Orbe",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-29T09:00:00+01:00",
+     "end": "2026-11-29T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.mdnorbe.ch/",
+   "description": "Animations musicales, contes et bricolages pour les familles ; visite du Père Noël et crèche vivante annoncée.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-orbe-2026",
+    "url": "https://www.mdnorbe.ch/",
+    "licenseUrl": "https://www.mdnorbe.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:noel-medieval-chillon-2026",
+   "title": "Noël médiéval au château de Chillon",
+   "category": "christmas",
+   "venue": "Château de Chillon",
+   "city": "Veytaux",
+   "canton": "VD",
+   "address": "Avenue de Chillon 21, 1820 Veytaux",
+   "slots": [
+    {
+     "start": "2026-11-28T10:00:00+01:00",
+     "end": "2026-11-28T17:00:00+01:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00+01:00",
+     "end": "2026-11-29T17:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T17:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T17:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T17:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.chillon.ch/en/monagenda/medieval-christmas-at-the-castle/",
+   "description": "Le château vit au Moyen Âge : artisans, danses, animaux, théâtre et musique. Tarif famille 55 CHF.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "noel-medieval-chillon-2026",
+    "url": "https://www.chillon.ch/en/monagenda/medieval-christmas-at-the-castle/",
+    "licenseUrl": "https://www.chillon.ch/en/monagenda/medieval-christmas-at-the-castle/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:pere-noel-patinoire-morges-2026",
+   "title": "Fête du Père Noël à la patinoire",
+   "category": "christmas",
+   "venue": "Patinoire des Eaux-Minérales",
+   "city": "Morges",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-16T14:00:00+01:00",
+     "end": "2026-12-16T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.morges.ch/vivre-a-morges/patinoire/fete-du-pere-noel-213672",
+   "description": "Le Père Noël chausse ses patins et accueille les familles, petits cadeaux à la clé. Entrée gratuite pour les enfants (location de patins payante).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "pere-noel-patinoire-morges-2026",
+    "url": "https://www.morges.ch/vivre-a-morges/patinoire/fete-du-pere-noel-213672",
+    "licenseUrl": "https://www.morges.ch/vivre-a-morges/patinoire/fete-du-pere-noel-213672",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-autour-du-feu",
+   "title": "Autour du feu (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2026-10-03T14:00:00+02:00",
+     "end": "2026-10-03T15:00:00+02:00"
+    },
+    {
+     "start": "2026-10-03T17:00:00+02:00",
+     "end": "2026-10-03T18:00:00+02:00"
+    },
+    {
+     "start": "2026-10-04T11:00:00+02:00",
+     "end": "2026-10-04T12:00:00+02:00"
+    },
+    {
+     "start": "2026-10-04T15:00:00+02:00",
+     "end": "2026-10-04T16:00:00+02:00"
+    },
+    {
+     "start": "2026-10-07T15:00:00+02:00",
+     "end": "2026-10-07T16:00:00+02:00"
+    },
+    {
+     "start": "2026-10-10T14:00:00+02:00",
+     "end": "2026-10-10T15:00:00+02:00"
+    },
+    {
+     "start": "2026-10-10T17:00:00+02:00",
+     "end": "2026-10-10T18:00:00+02:00"
+    },
+    {
+     "start": "2026-10-11T11:00:00+02:00",
+     "end": "2026-10-11T12:00:00+02:00"
+    },
+    {
+     "start": "2026-10-11T15:00:00+02:00",
+     "end": "2026-10-11T16:00:00+02:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/autour-du-feu/?contexte=programme",
+   "description": "Spectacle improvisé qui invente un monde à partir des propositions des enfants, avec musique live. Dès 6 ans, ~60 min. Presque complet.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-autour-du-feu",
+    "url": "https://lepetittheatre.ch/spectacle/autour-du-feu/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/autour-du-feu/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-moomin",
+   "title": "Moomin et la comète (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2026-10-28T15:00:00+01:00",
+     "end": "2026-10-28T15:55:00+01:00"
+    },
+    {
+     "start": "2026-10-31T14:00:00+01:00",
+     "end": "2026-10-31T14:55:00+01:00"
+    },
+    {
+     "start": "2026-10-31T17:00:00+01:00",
+     "end": "2026-10-31T17:55:00+01:00"
+    },
+    {
+     "start": "2026-11-01T11:00:00+01:00",
+     "end": "2026-11-01T11:55:00+01:00"
+    },
+    {
+     "start": "2026-11-01T15:00:00+01:00",
+     "end": "2026-11-01T15:55:00+01:00"
+    },
+    {
+     "start": "2026-11-04T15:00:00+01:00",
+     "end": "2026-11-04T15:55:00+01:00"
+    },
+    {
+     "start": "2026-11-07T14:00:00+01:00",
+     "end": "2026-11-07T14:55:00+01:00"
+    },
+    {
+     "start": "2026-11-07T17:00:00+01:00",
+     "end": "2026-11-07T17:55:00+01:00"
+    },
+    {
+     "start": "2026-11-08T11:00:00+01:00",
+     "end": "2026-11-08T11:55:00+01:00"
+    },
+    {
+     "start": "2026-11-08T15:00:00+01:00",
+     "end": "2026-11-08T15:55:00+01:00"
+    },
+    {
+     "start": "2026-11-11T15:00:00+01:00",
+     "end": "2026-11-11T15:55:00+01:00"
+    },
+    {
+     "start": "2026-11-14T14:00:00+01:00",
+     "end": "2026-11-14T14:55:00+01:00"
+    },
+    {
+     "start": "2026-11-14T17:00:00+01:00",
+     "end": "2026-11-14T17:55:00+01:00"
+    },
+    {
+     "start": "2026-11-15T11:00:00+01:00",
+     "end": "2026-11-15T11:55:00+01:00"
+    },
+    {
+     "start": "2026-11-15T15:00:00+01:00",
+     "end": "2026-11-15T15:55:00+01:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/moomin-et-la-comete/?contexte=programme",
+   "description": "Moomin et Sniff partent à l'observatoire quand une comète apparaît au-dessus de la Vallée des Moomins. Dès 6 ans, ~55 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-moomin",
+    "url": "https://lepetittheatre.ch/spectacle/moomin-et-la-comete/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/moomin-et-la-comete/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-dernier-yeti",
+   "title": "Le Dernier Yéti (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2026-12-02T15:00:00+01:00",
+     "end": "2026-12-02T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T14:00:00+01:00",
+     "end": "2026-12-05T15:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T17:00:00+01:00",
+     "end": "2026-12-05T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T11:00:00+01:00",
+     "end": "2026-12-06T12:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T15:00:00+01:00",
+     "end": "2026-12-06T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-09T15:00:00+01:00",
+     "end": "2026-12-09T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T14:00:00+01:00",
+     "end": "2026-12-12T15:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T17:00:00+01:00",
+     "end": "2026-12-12T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T12:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T15:00:00+01:00",
+     "end": "2026-12-13T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T15:00:00+01:00",
+     "end": "2026-12-16T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T14:00:00+01:00",
+     "end": "2026-12-19T15:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T17:00:00+01:00",
+     "end": "2026-12-19T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00+01:00",
+     "end": "2026-12-20T12:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T15:00:00+01:00",
+     "end": "2026-12-20T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-23T15:00:00+01:00",
+     "end": "2026-12-23T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-26T14:00:00+01:00",
+     "end": "2026-12-26T15:00:00+01:00"
+    },
+    {
+     "start": "2026-12-26T17:00:00+01:00",
+     "end": "2026-12-26T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-27T11:00:00+01:00",
+     "end": "2026-12-27T12:00:00+01:00"
+    },
+    {
+     "start": "2026-12-27T15:00:00+01:00",
+     "end": "2026-12-27T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-29T17:00:00+01:00",
+     "end": "2026-12-29T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-30T15:00:00+01:00",
+     "end": "2026-12-30T16:00:00+01:00"
+    },
+    {
+     "start": "2026-12-31T17:00:00+01:00",
+     "end": "2026-12-31T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-31T21:00:00+01:00",
+     "end": "2026-12-31T22:00:00+01:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/le-dernier-yeti/?contexte=programme",
+   "description": "Marionnettes et musique : la petite Pilou se transforme et part en montagne découvrir ses origines. Dès 6 ans, ~60 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-dernier-yeti",
+    "url": "https://lepetittheatre.ch/spectacle/le-dernier-yeti/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/le-dernier-yeti/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-toi-maimes",
+   "title": "Toi m'aimes ! (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2027-01-16T11:00:00+01:00",
+     "end": "2027-01-16T11:35:00+01:00"
+    },
+    {
+     "start": "2027-01-16T15:00:00+01:00",
+     "end": "2027-01-16T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-16T17:00:00+01:00",
+     "end": "2027-01-16T17:35:00+01:00"
+    },
+    {
+     "start": "2027-01-17T11:00:00+01:00",
+     "end": "2027-01-17T11:35:00+01:00"
+    },
+    {
+     "start": "2027-01-17T15:00:00+01:00",
+     "end": "2027-01-17T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-17T17:00:00+01:00",
+     "end": "2027-01-17T17:35:00+01:00"
+    },
+    {
+     "start": "2027-01-19T15:00:00+01:00",
+     "end": "2027-01-19T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-20T15:00:00+01:00",
+     "end": "2027-01-20T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-21T15:00:00+01:00",
+     "end": "2027-01-21T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-23T11:00:00+01:00",
+     "end": "2027-01-23T11:35:00+01:00"
+    },
+    {
+     "start": "2027-01-23T15:00:00+01:00",
+     "end": "2027-01-23T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-23T17:00:00+01:00",
+     "end": "2027-01-23T17:35:00+01:00"
+    },
+    {
+     "start": "2027-01-24T11:00:00+01:00",
+     "end": "2027-01-24T11:35:00+01:00"
+    },
+    {
+     "start": "2027-01-24T15:00:00+01:00",
+     "end": "2027-01-24T15:35:00+01:00"
+    },
+    {
+     "start": "2027-01-24T17:00:00+01:00",
+     "end": "2027-01-24T17:35:00+01:00"
+    }
+   ],
+   "minAge": 2,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/toi-maimes/?contexte=programme",
+   "description": "Cirque, chant et broderie autour du lien entre deux sœurs. Dès 2 ans, 35 min, 12 CHF. Annoncé complet au 2.10.2026.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-toi-maimes",
+    "url": "https://lepetittheatre.ch/spectacle/toi-maimes/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/toi-maimes/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-nos-jours-de-fetes",
+   "title": "Nos jours de fêtes (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2027-02-17T15:00:00+01:00",
+     "end": "2027-02-17T15:40:00+01:00"
+    },
+    {
+     "start": "2027-02-20T14:00:00+01:00",
+     "end": "2027-02-20T14:40:00+01:00"
+    },
+    {
+     "start": "2027-02-20T17:00:00+01:00",
+     "end": "2027-02-20T17:40:00+01:00"
+    },
+    {
+     "start": "2027-02-21T11:00:00+01:00",
+     "end": "2027-02-21T11:40:00+01:00"
+    },
+    {
+     "start": "2027-02-21T15:00:00+01:00",
+     "end": "2027-02-21T15:40:00+01:00"
+    },
+    {
+     "start": "2027-02-21T17:00:00+01:00",
+     "end": "2027-02-21T17:40:00+01:00"
+    },
+    {
+     "start": "2027-02-24T15:00:00+01:00",
+     "end": "2027-02-24T15:40:00+01:00"
+    },
+    {
+     "start": "2027-02-27T14:00:00+01:00",
+     "end": "2027-02-27T14:40:00+01:00"
+    },
+    {
+     "start": "2027-02-27T17:00:00+01:00",
+     "end": "2027-02-27T17:40:00+01:00"
+    },
+    {
+     "start": "2027-02-28T11:00:00+01:00",
+     "end": "2027-02-28T11:40:00+01:00"
+    },
+    {
+     "start": "2027-02-28T15:00:00+01:00",
+     "end": "2027-02-28T15:40:00+01:00"
+    },
+    {
+     "start": "2027-02-28T17:00:00+01:00",
+     "end": "2027-02-28T17:40:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/nos-jours-de-fetes/?contexte=programme",
+   "description": "Spectacle musical tendre sur la fratrie et la famille, chansons acoustiques et électroniques. Dès 4 ans, 40 min. Annoncé complet.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-nos-jours-de-fetes",
+    "url": "https://lepetittheatre.ch/spectacle/nos-jours-de-fetes/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/nos-jours-de-fetes/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-fusees-tkm",
+   "title": "Fusées (Le Petit Théâtre au TKM)",
+   "category": "show",
+   "venue": "TKM – Théâtre Kléber-Méleau",
+   "city": "Renens",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2027-03-02T19:00:00+01:00",
+     "end": "2027-03-02T19:55:00+01:00"
+    },
+    {
+     "start": "2027-03-03T17:00:00+01:00",
+     "end": "2027-03-03T17:55:00+01:00"
+    },
+    {
+     "start": "2027-03-04T19:00:00+01:00",
+     "end": "2027-03-04T19:55:00+01:00"
+    },
+    {
+     "start": "2027-03-06T14:00:00+01:00",
+     "end": "2027-03-06T14:55:00+01:00"
+    },
+    {
+     "start": "2027-03-06T17:30:00+01:00",
+     "end": "2027-03-06T18:25:00+01:00"
+    },
+    {
+     "start": "2027-03-07T11:00:00+01:00",
+     "end": "2027-03-07T11:55:00+01:00"
+    },
+    {
+     "start": "2027-03-07T17:30:00+01:00",
+     "end": "2027-03-07T18:25:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/fusees-au-tkm/?contexte=programme",
+   "description": "Deux cosmonautes bloqués en orbite, entre poésie et burlesque. Dès 7 ans, 55 min. Annoncé complet.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-fusees-tkm",
+    "url": "https://lepetittheatre.ch/spectacle/fusees-au-tkm/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/fusees-au-tkm/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-qui-que-quoi",
+   "title": "Qui que quoi ? (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2027-03-10T15:00:00+01:00",
+     "end": "2027-03-10T15:30:00+01:00"
+    },
+    {
+     "start": "2027-03-11T15:00:00+01:00",
+     "end": "2027-03-11T15:30:00+01:00"
+    },
+    {
+     "start": "2027-03-12T15:00:00+01:00",
+     "end": "2027-03-12T15:30:00+01:00"
+    },
+    {
+     "start": "2027-03-13T11:00:00+01:00",
+     "end": "2027-03-13T11:30:00+01:00"
+    },
+    {
+     "start": "2027-03-13T15:00:00+01:00",
+     "end": "2027-03-13T15:30:00+01:00"
+    },
+    {
+     "start": "2027-03-14T11:00:00+01:00",
+     "end": "2027-03-14T11:30:00+01:00"
+    },
+    {
+     "start": "2027-03-14T15:00:00+01:00",
+     "end": "2027-03-14T15:30:00+01:00"
+    }
+   ],
+   "minAge": 1,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/qui-que-quoi/?contexte=programme",
+   "description": "Danse et chant pour les tout-petits autour de la différence et du vivre-ensemble. Dès 1 an, 30 min, 12 CHF. Annoncé complet.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-qui-que-quoi",
+    "url": "https://lepetittheatre.ch/spectacle/qui-que-quoi/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/qui-que-quoi/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-theatre-tocas",
+   "title": "Tocas (Le Petit Théâtre)",
+   "category": "show",
+   "venue": "Le Petit Théâtre",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Place de la Cathédrale 12, 1005 Lausanne",
+   "slots": [
+    {
+     "start": "2027-03-17T15:00:00+01:00",
+     "end": "2027-03-17T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-18T15:00:00+01:00",
+     "end": "2027-03-18T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-19T15:00:00+01:00",
+     "end": "2027-03-19T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-20T11:00:00+01:00",
+     "end": "2027-03-20T11:40:00+01:00"
+    },
+    {
+     "start": "2027-03-20T15:00:00+01:00",
+     "end": "2027-03-20T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-20T17:00:00+01:00",
+     "end": "2027-03-20T17:40:00+01:00"
+    },
+    {
+     "start": "2027-03-21T11:00:00+01:00",
+     "end": "2027-03-21T11:40:00+01:00"
+    },
+    {
+     "start": "2027-03-21T15:00:00+01:00",
+     "end": "2027-03-21T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-21T17:00:00+01:00",
+     "end": "2027-03-21T17:40:00+01:00"
+    },
+    {
+     "start": "2027-03-23T15:00:00+01:00",
+     "end": "2027-03-23T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-24T15:00:00+01:00",
+     "end": "2027-03-24T15:40:00+01:00"
+    }
+   ],
+   "minAge": 3,
+   "officialUrl": "https://lepetittheatre.ch/spectacle/tocas/?contexte=programme",
+   "description": "Deux musiciens-performeurs explorent la maison comme refuge, entre dedans et dehors. Dès 3 ans, 40 min. Annoncé complet.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-theatre-tocas",
+    "url": "https://lepetittheatre.ch/spectacle/tocas/?contexte=programme",
+    "licenseUrl": "https://lepetittheatre.ch/spectacle/tocas/?contexte=programme",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tkm-carnaval-des-animaux-2027",
+   "title": "Le Carnaval des animaux",
+   "category": "show",
+   "venue": "TKM – Théâtre Kléber-Méleau",
+   "city": "Renens",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2027-01-21T19:00:00+01:00",
+     "end": "2027-01-21T20:10:00+01:00"
+    },
+    {
+     "start": "2027-01-22T20:00:00+01:00",
+     "end": "2027-01-22T21:10:00+01:00"
+    },
+    {
+     "start": "2027-01-23T17:30:00+01:00",
+     "end": "2027-01-23T18:40:00+01:00"
+    },
+    {
+     "start": "2027-01-24T17:30:00+01:00",
+     "end": "2027-01-24T18:40:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.tkm.ch/representation/le-carnaval-des-animaux/",
+   "description": "Danse, musique et masques sur l'œuvre de Saint-Saëns, inspirée du folklore alpin (loups, renards, aigles). Tout public, 1h10.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tkm-carnaval-des-animaux-2027",
+    "url": "https://www.tkm.ch/representation/le-carnaval-des-animaux/",
+    "licenseUrl": "https://www.tkm.ch/representation/le-carnaval-des-animaux/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:casse-noisette-beaulieu-2026",
+   "title": "Casse-Noisette",
+   "category": "show",
+   "venue": "Théâtre de Beaulieu",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Avenue des Bergières 10, 1004 Lausanne",
+   "slots": [
+    {
+     "start": "2026-12-26T19:00:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.lausanne-tourisme.ch/fr/evenement/casse-noisette-beaulieu/",
+   "description": "Ballet classique dans une mise en scène moderne, conte d'hiver pour toute la famille. Dès 4 ans, billets dès 69.20 CHF.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "casse-noisette-beaulieu-2026",
+    "url": "https://www.lausanne-tourisme.ch/fr/evenement/casse-noisette-beaulieu/",
+    "licenseUrl": "https://www.lausanne-tourisme.ch/fr/evenement/casse-noisette-beaulieu/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:concerts-bebe-cpo-2026-2027",
+   "title": "Concerts bébé",
+   "category": "show",
+   "venue": "CPO",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Chemin de Beau-Rivage 2, 1006 Lausanne",
+   "slots": [
+    {
+     "start": "2026-12-09T09:30:00+01:00",
+     "end": "2026-12-09T10:30:00+01:00"
+    },
+    {
+     "start": "2027-03-14T10:00:00+01:00",
+     "end": "2027-03-14T11:00:00+01:00"
+    },
+    {
+     "start": "2027-03-14T15:00:00+01:00",
+     "end": "2027-03-14T16:00:00+01:00"
+    }
+   ],
+   "minAge": 0,
+   "officialUrl": "https://www.lausanne-tourisme.ch/fr/evenement/concerts-bebe/",
+   "description": "Concerts de musique de chambre de 30 min pour les bébés et leurs parents, assis sur coussins et tapis. Dès la naissance.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "concerts-bebe-cpo-2026-2027",
+    "url": "https://www.lausanne-tourisme.ch/fr/evenement/concerts-bebe/",
+    "licenseUrl": "https://www.lausanne-tourisme.ch/fr/evenement/concerts-bebe/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:semaine-olympique-2026",
+   "title": "Semaine Olympique",
+   "category": "sport",
+   "venue": "Le Musée Olympique",
+   "city": "Lausanne",
+   "canton": "VD",
+   "address": "Quai d'Ouchy 1, 1006 Lausanne",
+   "slots": [
+    {
+     "start": "2026-10-11T10:00:00+02:00",
+     "end": "2026-10-11T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-12T10:00:00+02:00",
+     "end": "2026-10-12T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-13T10:00:00+02:00",
+     "end": "2026-10-13T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-14T10:00:00+02:00",
+     "end": "2026-10-14T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-15T10:00:00+02:00",
+     "end": "2026-10-15T17:00:00+02:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.lausanne-tourisme.ch/fr/evenement/semaine-olympique/",
+   "description": "Plus de 40 activités sportives et culturelles gratuites pour les 6-15 ans (skate, wushu, ateliers). Inscription en ligne requise.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "semaine-olympique-2026",
+    "url": "https://www.lausanne-tourisme.ch/fr/evenement/semaine-olympique/",
+    "licenseUrl": "https://www.lausanne-tourisme.ch/fr/evenement/semaine-olympique/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:chillon-ateliers-enluminure-2026",
+   "title": "Ateliers d'automne : l'art de l'enluminure",
+   "category": "workshop",
+   "venue": "Château de Chillon",
+   "city": "Veytaux",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-13T10:00:00+02:00",
+     "end": "2026-10-13T16:00:00+02:00"
+    },
+    {
+     "start": "2026-10-20T10:00:00+02:00",
+     "end": "2026-10-20T16:00:00+02:00"
+    }
+   ],
+   "minAge": 8,
+   "officialUrl": "https://www.chillon.ch/monagenda/ateliers-dautomne-a-la-journee-lart-de-lenluminure/",
+   "description": "Journée au château pour les 8-12 ans : visite, repas médiéval et atelier de lettrines enluminées. 45 CHF, sur réservation.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "chillon-ateliers-enluminure-2026",
+    "url": "https://www.chillon.ch/monagenda/ateliers-dautomne-a-la-journee-lart-de-lenluminure/",
+    "licenseUrl": "https://www.chillon.ch/monagenda/ateliers-dautomne-a-la-journee-lart-de-lenluminure/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:en-famille-aux-musees-riviera-2026",
+   "title": "En famille aux musées (Riviera)",
+   "category": "workshop",
+   "city": "Montreux / Vevey",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-11-07"
+    },
+    {
+     "start": "2026-11-08"
+    }
+   ],
+   "officialUrl": "https://www.montreuxriviera.com/en/PA448/visiting-museums-as-a-family",
+   "description": "Week-end d'ateliers créatifs en famille dans 11 musées de la Riviera (Chillon, Musée de Montreux, musées de Vevey…).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "en-famille-aux-musees-riviera-2026",
+    "url": "https://www.montreuxriviera.com/en/PA448/visiting-museums-as-a-family",
+    "licenseUrl": "https://www.montreuxriviera.com/en/PA448/visiting-museums-as-a-family",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:musee-montreux-ateliers-automne-2026",
+   "title": "Ateliers d'automne : Junk Journal",
+   "category": "workshop",
+   "venue": "Musée de Montreux",
+   "city": "Montreux",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-19T14:00:00+02:00",
+     "end": "2026-10-19T16:30:00+02:00"
+    },
+    {
+     "start": "2026-10-20T14:00:00+02:00",
+     "end": "2026-10-20T16:30:00+02:00"
+    },
+    {
+     "start": "2026-10-21T14:00:00+02:00",
+     "end": "2026-10-21T16:30:00+02:00"
+    },
+    {
+     "start": "2026-10-22T14:00:00+02:00",
+     "end": "2026-10-22T16:30:00+02:00"
+    },
+    {
+     "start": "2026-10-23T14:00:00+02:00",
+     "end": "2026-10-23T16:30:00+02:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.museemontreux.ch/event/ateliers-dautomne-2/",
+   "description": "Les 6-12 ans fabriquent un carnet à partir de vieilles affiches et brochures du musée. 10 CHF, inscription requise.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "musee-montreux-ateliers-automne-2026",
+    "url": "https://www.museemontreux.ch/event/ateliers-dautomne-2/",
+    "licenseUrl": "https://www.museemontreux.ch/event/ateliers-dautomne-2/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:rallye-musee-montreux-2026",
+   "title": "Rallye du Musée de Montreux",
+   "category": "workshop",
+   "venue": "Musée de Montreux",
+   "city": "Montreux",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-24T10:00:00+02:00",
+     "end": "2026-10-24T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-25T10:00:00+01:00",
+     "end": "2026-10-25T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.museemontreux.ch/event/rallye-du-musee-2/",
+   "description": "Rallye gratuit d'énigmes et d'observations dans la Vieille-Ville pendant la Foire des Planches, avec prix pour les gagnants.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "rallye-musee-montreux-2026",
+    "url": "https://www.museemontreux.ch/event/rallye-du-musee-2/",
+    "licenseUrl": "https://www.museemontreux.ch/event/rallye-du-musee-2/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:droits-enfant-nyon-2026",
+   "title": "Nos voix, nos droits – exposition des enfants",
+   "category": "culture",
+   "venue": "Salle des Marchandises",
+   "city": "Nyon",
+   "canton": "VD",
+   "address": "Rue des Marchandises 5, 1260 Nyon",
+   "slots": [
+    {
+     "start": "2026-11-20T10:00:00+01:00",
+     "end": "2026-11-20T20:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.nyon.ch/agenda/celebration-des-droits-de-l-enfant--exposition-20147",
+   "description": "Exposition gratuite de dessins, photos, maquettes et créations d'enfants sur leurs droits, réalisées avec les structures d'accueil.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "droits-enfant-nyon-2026",
+    "url": "https://www.nyon.ch/agenda/celebration-des-droits-de-l-enfant--exposition-20147",
+    "licenseUrl": "https://www.nyon.ch/agenda/celebration-des-droits-de-l-enfant--exposition-20147",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:orbe-a-pas-contes-2026",
+   "title": "Orbe à pas contés",
+   "category": "culture",
+   "city": "Orbe",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-03T10:00:00+02:00",
+     "end": "2026-10-03T18:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.loreillequiparle.ch/agenda/",
+   "description": "Contes et musique dans les rues d'Orbe le matin, contes dans les caves de la ville l'après-midi. Tout public, chapeau.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "orbe-a-pas-contes-2026",
+    "url": "https://www.loreillequiparle.ch/agenda/",
+    "licenseUrl": "https://www.loreillequiparle.ch/agenda/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:histoires-avent-oron-2026",
+   "title": "Histoires de l'Avent au château d'Oron",
+   "category": "culture",
+   "venue": "Château d'Oron",
+   "city": "Oron",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-09T14:45:00+01:00",
+     "end": "2026-12-09T16:30:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://www.loreillequiparle.ch/agenda/",
+   "description": "Contes d'hiver dans le cadre du château. De 7 à 107 ans ; 10 CHF adultes, 5 CHF enfants.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "histoires-avent-oron-2026",
+    "url": "https://www.loreillequiparle.ch/agenda/",
+    "licenseUrl": "https://www.loreillequiparle.ch/agenda/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:brandons-payerne-2027",
+   "title": "Brandons de Payerne",
+   "category": "festival",
+   "city": "Payerne",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2027-02-12"
+    },
+    {
+     "start": "2027-02-13"
+    },
+    {
+     "start": "2027-02-14"
+    },
+    {
+     "start": "2027-02-15"
+    }
+   ],
+   "officialUrl": "https://www.brandonspayerne.ch/infos-pratiques/",
+   "description": "Carnaval broyard avec guggenmusiks et cortège du dimanche (entrée enfants dès 6 ans : 5 CHF).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "brandons-payerne-2027",
+    "url": "https://www.brandonspayerne.ch/infos-pratiques/",
+    "licenseUrl": "https://www.brandonspayerne.ch/infos-pratiques/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:brandons-moudon-2027",
+   "title": "Brandons de Moudon",
+   "category": "festival",
+   "city": "Moudon",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2027-02-25"
+    },
+    {
+     "start": "2027-02-26"
+    },
+    {
+     "start": "2027-02-27"
+    },
+    {
+     "start": "2027-02-28"
+    }
+   ],
+   "officialUrl": "https://brandons.ch/dates-futures/",
+   "description": "Carnaval avec cortège, bal costumé, loto et guggenmusiks ; concours pour les enfants. Programme 2027 en préparation.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "brandons-moudon-2027",
+    "url": "https://brandons.ch/dates-futures/",
+    "licenseUrl": "https://brandons.ch/dates-futures/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:brandons-yverdon-2027",
+   "title": "Brandons d'Yverdon",
+   "category": "festival",
+   "city": "Yverdon-les-Bains",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2027-03-12"
+    },
+    {
+     "start": "2027-03-13"
+    },
+    {
+     "start": "2027-03-14"
+    }
+   ],
+   "officialUrl": "https://www.brandonsyverdon.ch/prochaines-dates/",
+   "description": "Le carnaval d'Yverdon-les-Bains, trois jours de fête en ville.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "brandons-yverdon-2027",
+    "url": "https://www.brandonsyverdon.ch/prochaines-dates/",
+    "licenseUrl": "https://www.brandonsyverdon.ch/prochaines-dates/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:bourse-jouets-fribourg-2026",
+   "title": "Bourse aux jouets et articles de sport",
+   "category": "swap_market",
+   "venue": "L'Atelier",
+   "city": "Fribourg",
+   "canton": "FR",
+   "address": "Place de Notre-Dame 16, 1700 Fribourg",
+   "slots": [
+    {
+     "start": "2026-11-28T09:00:00+01:00",
+     "end": "2026-11-28T16:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://bourse-aux-jouets-fribourg.ch/",
+   "description": "Donner, chercher ou échanger jouets et articles de sport pour enfants, avec animations et boissons toute la journée.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "bourse-jouets-fribourg-2026",
+    "url": "https://bourse-aux-jouets-fribourg.ch/",
+    "licenseUrl": "https://bourse-aux-jouets-fribourg.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:skiboerse-fribourg-2026",
+   "title": "Bourse aux skis de Fribourg",
+   "category": "swap_market",
+   "venue": "Fri-Son",
+   "city": "Fribourg",
+   "canton": "FR",
+   "address": "Route de la Fonderie 13, 1700 Fribourg",
+   "slots": [
+    {
+     "start": "2026-11-17T09:00:00+01:00",
+     "end": "2026-11-17T19:00:00+01:00"
+    },
+    {
+     "start": "2026-11-18T09:00:00+01:00",
+     "end": "2026-11-18T19:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.skiboerse.info/fr/fribourg",
+   "description": "Matériel de ski, snowboard et vêtements d'hiver neufs et d'occasion, avec conseils pour l'équipement d'enfants.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "skiboerse-fribourg-2026",
+    "url": "https://www.skiboerse.info/fr/fribourg",
+    "licenseUrl": "https://www.skiboerse.info/fr/fribourg",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:comptoir-gruerien-2026",
+   "title": "Comptoir gruérien",
+   "category": "festival",
+   "venue": "Espace Gruyère",
+   "city": "Bulle",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-10-22"
+    },
+    {
+     "start": "2026-10-23"
+    },
+    {
+     "start": "2026-10-24"
+    },
+    {
+     "start": "2026-10-25"
+    },
+    {
+     "start": "2026-10-26"
+    },
+    {
+     "start": "2026-10-27"
+    },
+    {
+     "start": "2026-10-28"
+    },
+    {
+     "start": "2026-10-29"
+    },
+    {
+     "start": "2026-10-30"
+    },
+    {
+     "start": "2026-10-31"
+    },
+    {
+     "start": "2026-11-01"
+    }
+   ],
+   "officialUrl": "https://comptoir-gruerien.ch/",
+   "description": "Foire régionale de 150 exposants ; jeux pour enfants (Quête du Code Perdu 6-12 ans, fresque géante). Entrée offerte aux moins de 16 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "comptoir-gruerien-2026",
+    "url": "https://comptoir-gruerien.ch/",
+    "licenseUrl": "https://comptoir-gruerien.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:gouts-et-terroirs-bulle-2026",
+   "title": "Salon suisse des Goûts et Terroirs",
+   "category": "food",
+   "venue": "Espace Gruyère",
+   "city": "Bulle",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-12-02"
+    },
+    {
+     "start": "2026-12-03"
+    },
+    {
+     "start": "2026-12-04"
+    },
+    {
+     "start": "2026-12-05"
+    },
+    {
+     "start": "2026-12-06"
+    }
+   ],
+   "officialUrl": "https://www.gouts-et-terroirs.ch/fr/",
+   "description": "300 producteurs et 5000 produits du terroir à déguster ; espace L'Amuse-Bouche avec jeux sensoriels et ateliers École du Goût.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "gouts-et-terroirs-bulle-2026",
+    "url": "https://www.gouts-et-terroirs.ch/fr/",
+    "licenseUrl": "https://www.gouts-et-terroirs.ch/fr/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:bulle-noel-2026",
+   "title": "Marché de Noël de Bulle",
+   "category": "christmas",
+   "venue": "Place du Marché",
+   "city": "Bulle",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-12-02"
+    },
+    {
+     "start": "2026-12-03"
+    },
+    {
+     "start": "2026-12-04"
+    },
+    {
+     "start": "2026-12-05"
+    },
+    {
+     "start": "2026-12-06"
+    }
+   ],
+   "officialUrl": "https://www.bulle-noel.ch/",
+   "description": "Une centaine de chalets d'artisans et commerçants régionaux, à 3 minutes à pied de la gare.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "bulle-noel-2026",
+    "url": "https://www.bulle-noel.ch/",
+    "licenseUrl": "https://www.bulle-noel.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:noel-gruyeres-2026",
+   "title": "Marché de Noël de Gruyères",
+   "category": "christmas",
+   "city": "Gruyères",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-11-27T14:00:00+01:00",
+     "end": "2026-11-27T20:00:00+01:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00+01:00",
+     "end": "2026-11-28T20:00:00+01:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00+01:00",
+     "end": "2026-11-29T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-04T14:00:00+01:00",
+     "end": "2026-12-04T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-11T14:00:00+01:00",
+     "end": "2026-12-11T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T14:00:00+01:00",
+     "end": "2026-12-18T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T20:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T10:00:00+01:00",
+     "end": "2026-12-20T18:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://fribourg.ch/en/la-gruyere/events/christmas-market-in-gruyeres/",
+   "description": "Quatre week-ends dans la cité médiévale : plus de 40 artisans, visite de saint Nicolas, jeu de piste en famille et ateliers.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "noel-gruyeres-2026",
+    "url": "https://fribourg.ch/en/la-gruyere/events/christmas-market-in-gruyeres/",
+    "licenseUrl": "https://fribourg.ch/en/la-gruyere/events/christmas-market-in-gruyeres/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-aqa-fribourg-2026",
+   "title": "Marché de Noël du Quartier d'Alt",
+   "category": "christmas",
+   "venue": "Arsen'alt",
+   "city": "Fribourg",
+   "canton": "FR",
+   "address": "Derrière-les-Remparts 12, 1700 Fribourg",
+   "slots": [
+    {
+     "start": "2026-11-28T10:00:00+01:00",
+     "end": "2026-11-28T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.quartierdalt.ch/2026/09/22/marche-de-noel-2026-de-laqa-inscription/",
+   "description": "Petit marché de Noël de quartier, avec quatre stands tenus par des enfants et ados du quartier.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-aqa-fribourg-2026",
+    "url": "https://www.quartierdalt.ch/2026/09/22/marche-de-noel-2026-de-laqa-inscription/",
+    "licenseUrl": "https://www.quartierdalt.ch/2026/09/22/marche-de-noel-2026-de-laqa-inscription/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-marche-noel-middes-2026",
+   "title": "Petit Marché de Noël de Middes",
+   "category": "christmas",
+   "venue": "La Crèche à Lukas",
+   "city": "Middes",
+   "canton": "FR",
+   "address": "Chemin du Château 1A, 1749 Middes",
+   "slots": [
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T16:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://fribourg.ch/fr/romontregion/evenements/petit-marche-de-noel-2026/",
+   "description": "Marché 100 % artisanal avec animations pour les familles et grande crèche provençale de plus de 110 santons.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-marche-noel-middes-2026",
+    "url": "https://fribourg.ch/fr/romontregion/evenements/petit-marche-de-noel-2026/",
+    "licenseUrl": "https://fribourg.ch/fr/romontregion/evenements/petit-marche-de-noel-2026/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:saint-nicolas-fribourg-cortege-2026",
+   "title": "Saint-Nicolas de Fribourg – cortège et discours",
+   "category": "christmas",
+   "city": "Fribourg",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-12-05T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://st-nicolas.ch/programme/",
+   "description": "Marchés en Vieille-Ville puis, vers 17h, cortège de saint Nicolas sur son âne et discours depuis la cathédrale vers 18h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "saint-nicolas-fribourg-cortege-2026",
+    "url": "https://st-nicolas.ch/programme/",
+    "licenseUrl": "https://st-nicolas.ch/programme/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:saint-nicolas-fribourg-famille-2026",
+   "title": "Saint-Nicolas de Fribourg – journée des familles",
+   "category": "christmas",
+   "city": "Fribourg",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T16:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://st-nicolas.ch/programme/",
+   "description": "La Vieille-Ville et la bibliothèque MEMO deviennent une zone de jeux bilingue et gratuite avec activités créatives pour enfants.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "saint-nicolas-fribourg-famille-2026",
+    "url": "https://st-nicolas.ch/programme/",
+    "licenseUrl": "https://st-nicolas.ch/programme/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:murten-licht-festival-2027",
+   "title": "Murten Licht-Festival",
+   "category": "culture",
+   "city": "Morat",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2027-01-20T18:00:00+01:00",
+     "end": "2027-01-20T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-21T18:00:00+01:00",
+     "end": "2027-01-21T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-22T18:00:00+01:00",
+     "end": "2027-01-22T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-23T18:00:00+01:00",
+     "end": "2027-01-23T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-24T18:00:00+01:00",
+     "end": "2027-01-24T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-25T18:00:00+01:00",
+     "end": "2027-01-25T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-26T18:00:00+01:00",
+     "end": "2027-01-26T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-27T18:00:00+01:00",
+     "end": "2027-01-27T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-28T18:00:00+01:00",
+     "end": "2027-01-28T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-29T18:00:00+01:00",
+     "end": "2027-01-29T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-30T18:00:00+01:00",
+     "end": "2027-01-30T22:00:00+01:00"
+    },
+    {
+     "start": "2027-01-31T18:00:00+01:00",
+     "end": "2027-01-31T22:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.murtenlichtfestival.ch/",
+   "description": "Parcours d'installations et projections lumineuses dans la vieille ville de Morat, chaque soir.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "murten-licht-festival-2027",
+    "url": "https://www.murtenlichtfestival.ch/",
+    "licenseUrl": "https://www.murtenlichtfestival.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:carnaval-bolzes-2027",
+   "title": "Carnaval des Bolzes",
+   "category": "festival",
+   "venue": "Basse-Ville",
+   "city": "Fribourg",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2027-02-05"
+    },
+    {
+     "start": "2027-02-06"
+    },
+    {
+     "start": "2027-02-07"
+    },
+    {
+     "start": "2027-02-08"
+    },
+    {
+     "start": "2027-02-09"
+    }
+   ],
+   "officialUrl": "https://www.carnavaldesbolzes.ch/",
+   "description": "59e carnaval en Basse-Ville de Fribourg, avec traditionnel cortège des enfants (horaires 2027 pas encore publiés).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "carnaval-bolzes-2027",
+    "url": "https://www.carnavaldesbolzes.ch/",
+    "licenseUrl": "https://www.carnavaldesbolzes.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:fete-chataigne-fully-2026",
+   "title": "Fête de la Châtaigne",
+   "category": "food",
+   "city": "Fully",
+   "canton": "VS",
+   "slots": [
+    {
+     "start": "2026-10-17"
+    },
+    {
+     "start": "2026-10-18"
+    }
+   ],
+   "officialUrl": "https://www.valais.ch/fr/evenements/32e-fete-de-la-chataigne",
+   "description": "32e édition : près de 300 stands de produits régionaux et artisanat, châtaignes sous toutes leurs formes, animations.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fete-chataigne-fully-2026",
+    "url": "https://www.valais.ch/fr/evenements/32e-fete-de-la-chataigne",
+    "licenseUrl": "https://www.valais.ch/fr/evenements/32e-fete-de-la-chataigne",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:fete-courge-chandolin-saviese-2026",
+   "title": "Fête de la Courge et défi des villages",
+   "category": "food",
+   "venue": "Chandolin",
+   "city": "Savièse",
+   "canton": "VS",
+   "slots": [
+    {
+     "start": "2026-10-11"
+    }
+   ],
+   "officialUrl": "https://chando.ch/fete-de-la-courge-2025-2/",
+   "description": "Fête de la courge au village de Chandolin (Savièse) avec le défi des villages. Programme détaillé à venir.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fete-courge-chandolin-saviese-2026",
+    "url": "https://chando.ch/fete-de-la-courge-2025-2/",
+    "licenseUrl": "https://chando.ch/fete-de-la-courge-2025-2/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:halloween-happyland-2026",
+   "title": "Halloween à Happyland",
+   "category": "halloween",
+   "city": "Granges (Sierre)",
+   "canton": "VS",
+   "address": "Rue du Foulon 24, 3977 Granges",
+   "slots": [
+    {
+     "start": "2026-10-17"
+    },
+    {
+     "start": "2026-10-24"
+    },
+    {
+     "start": "2026-10-31"
+    }
+   ],
+   "officialUrl": "https://www.happyland.ch/",
+   "description": "Soirées Halloween au parc d'attractions (jusqu'à 21h, 22h le 31.10) avec maquillage, châtaignes et décors.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "halloween-happyland-2026",
+    "url": "https://www.happyland.ch/",
+    "licenseUrl": "https://www.happyland.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-sion-2026",
+   "title": "Marché de Noël de Sion",
+   "category": "christmas",
+   "venue": "Place du Midi et Espace des Remparts",
+   "city": "Sion",
+   "canton": "VS",
+   "slots": [
+    {
+     "start": "2026-12-05T11:00:00+01:00",
+     "end": "2026-12-05T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T11:00:00+01:00",
+     "end": "2026-12-06T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-07T14:00:00+01:00",
+     "end": "2026-12-07T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-08T11:00:00+01:00",
+     "end": "2026-12-08T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-09T14:00:00+01:00",
+     "end": "2026-12-09T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-10T14:00:00+01:00",
+     "end": "2026-12-10T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-11T14:00:00+01:00",
+     "end": "2026-12-11T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T11:00:00+01:00",
+     "end": "2026-12-12T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-14T14:00:00+01:00",
+     "end": "2026-12-14T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-15T14:00:00+01:00",
+     "end": "2026-12-15T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T14:00:00+01:00",
+     "end": "2026-12-16T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-17T14:00:00+01:00",
+     "end": "2026-12-17T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T14:00:00+01:00",
+     "end": "2026-12-18T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T11:00:00+01:00",
+     "end": "2026-12-19T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00+01:00",
+     "end": "2026-12-20T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-21T14:00:00+01:00",
+     "end": "2026-12-21T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-22T14:00:00+01:00",
+     "end": "2026-12-22T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-23T14:00:00+01:00",
+     "end": "2026-12-23T19:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://mdnsion.ch/",
+   "description": "Plus grand marché de Noël du Valais : 80 tentes d'artisans, spectacles et Chemin des Crèches.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-sion-2026",
+    "url": "https://mdnsion.ch/",
+    "licenseUrl": "https://mdnsion.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:petit-carnaval-monthey-2027",
+   "title": "Petit-Carnaval de Monthey",
+   "category": "festival",
+   "city": "Monthey",
+   "canton": "VS",
+   "slots": [
+    {
+     "start": "2027-01-30"
+    },
+    {
+     "start": "2027-01-31"
+    }
+   ],
+   "officialUrl": "https://www.carnavaldemonthey.com/site3/index.php/infos-pratiques/dates-des-prochains-carnavals",
+   "description": "Le carnaval des enfants de Monthey, une semaine avant le grand carnaval (4-9 février 2027).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petit-carnaval-monthey-2027",
+    "url": "https://www.carnavaldemonthey.com/site3/index.php/infos-pratiques/dates-des-prochains-carnavals",
+    "licenseUrl": "https://www.carnavaldemonthey.com/site3/index.php/infos-pratiques/dates-des-prochains-carnavals",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:ludesco-2027",
+   "title": "Ludesco – festival de jeux",
+   "category": "festival",
+   "city": "La Chaux-de-Fonds",
+   "canton": "NE",
+   "slots": [
+    {
+     "start": "2027-03-12"
+    },
+    {
+     "start": "2027-03-13"
+    },
+    {
+     "start": "2027-03-14"
+    }
+   ],
+   "officialUrl": "https://ludesco.ch/en/home/",
+   "description": "55 heures de jeux : jeux de société, escape games, jeux grandeur nature et espace dédié aux familles.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "ludesco-2027",
+    "url": "https://ludesco.ch/en/home/",
+    "licenseUrl": "https://ludesco.ch/en/home/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-st-ursanne-2026",
+   "title": "Marché de Noël de Saint-Ursanne",
+   "category": "christmas",
+   "city": "Saint-Ursanne",
+   "canton": "JU",
+   "slots": [
+    {
+     "start": "2026-12-05"
+    },
+    {
+     "start": "2026-12-06"
+    }
+   ],
+   "officialUrl": "https://www.noelstursanne.ch/",
+   "description": "Week-end lumineux dans la cité médiévale ; navette gratuite depuis la gare.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-st-ursanne-2026",
+    "url": "https://www.noelstursanne.ch/",
+    "licenseUrl": "https://www.noelstursanne.ch/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:saint-martin-ajoie-2026",
+   "title": "Fête de la Saint-Martin en Ajoie",
+   "category": "food",
+   "city": "Porrentruy",
+   "canton": "JU",
+   "slots": [
+    {
+     "start": "2026-11-13"
+    },
+    {
+     "start": "2026-11-14"
+    },
+    {
+     "start": "2026-11-15"
+    },
+    {
+     "start": "2026-11-16"
+    },
+    {
+     "start": "2026-11-20"
+    },
+    {
+     "start": "2026-11-21"
+    },
+    {
+     "start": "2026-11-22"
+    }
+   ],
+   "officialUrl": "https://www.j3l.ch/en/P73853/things-to-do/events/festivity-festival/feast-of-st-martin",
+   "description": "Repas traditionnels de la Saint-Martin dans les restaurants d'Ajoie, avec concerts et animations ; Revira le week-end suivant.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "saint-martin-ajoie-2026",
+    "url": "https://www.j3l.ch/en/P73853/things-to-do/events/festivity-festival/feast-of-st-martin",
+    "licenseUrl": "https://www.j3l.ch/en/P73853/things-to-do/events/festivity-festival/feast-of-st-martin",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:toosmall-popup-geneve-2026",
+   "title": "Pop-up store vêtements enfants seconde main",
+   "category": "swap_market",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Route de Frontenex 43, 1207 Genève",
+   "slots": [
+    {
+     "start": "2026-10-03T09:00:00+02:00",
+     "end": "2026-10-03T17:00:00+02:00"
+    }
+   ],
+   "minAge": 0,
+   "officialUrl": "https://www.geneve.ch/agenda/store-vetements-seconde-main-enfants",
+   "description": "Vêtements automne-hiver de seconde main pour les 0-12 ans, boissons et petite exposition. Entrée libre.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "toosmall-popup-geneve-2026",
+    "url": "https://www.geneve.ch/agenda/store-vetements-seconde-main-enfants",
+    "licenseUrl": "https://www.geneve.ch/agenda/store-vetements-seconde-main-enfants",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:automnales-geneve-2026",
+   "title": "Les Automnales",
+   "category": "festival",
+   "venue": "Palexpo",
+   "city": "Le Grand-Saconnex",
+   "canton": "GE",
+   "address": "Route François-Peyrot 30, 1218 Le Grand-Saconnex",
+   "slots": [
+    {
+     "start": "2026-11-06T11:00:00+01:00",
+     "end": "2026-11-06T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-07T10:00:00+01:00",
+     "end": "2026-11-07T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-08T10:00:00+01:00",
+     "end": "2026-11-08T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-09T11:00:00+01:00",
+     "end": "2026-11-09T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-10T11:00:00+01:00",
+     "end": "2026-11-10T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-11T11:00:00+01:00",
+     "end": "2026-11-11T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-12T11:00:00+01:00",
+     "end": "2026-11-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-13T11:00:00+01:00",
+     "end": "2026-11-13T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-14T10:00:00+01:00",
+     "end": "2026-11-14T20:30:00+01:00"
+    },
+    {
+     "start": "2026-11-15T10:00:00+01:00",
+     "end": "2026-11-15T18:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://automnales.ch/pratique/",
+   "description": "Grande foire d'automne : marché, Food Festival et espace Émotion avec activités pour petits et grands. Entrée 5-15 CHF.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "automnales-geneve-2026",
+    "url": "https://automnales.ch/pratique/",
+    "licenseUrl": "https://automnales.ch/pratique/",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:escalade-geneve-2026",
+   "title": "Fête de l'Escalade",
+   "category": "festival",
+   "venue": "Vieille-Ville",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-12-11T18:00:00+01:00",
+     "end": "2026-12-11T19:30:00+01:00"
+    },
+    {
+     "start": "2026-12-12T09:00:00+01:00",
+     "end": "2026-12-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T09:00:00+01:00",
+     "end": "2026-12-13T19:30:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.geneve.ch/agenda/fete-escalade-100e-anniversaire-compagnie",
+   "description": "Près de 700 costumes d'époque en Vieille-Ville, cortèges, fifres et tambours ; les enfants peuvent porter des flambeaux. Gratuit.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "escalade-geneve-2026",
+    "url": "https://www.geneve.ch/agenda/fete-escalade-100e-anniversaire-compagnie",
+    "licenseUrl": "https://www.geneve.ch/agenda/fete-escalade-100e-anniversaire-compagnie",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:belle-escalade-bibliotheque-2026",
+   "title": "Ah ! La belle Escalade !",
+   "category": "culture",
+   "venue": "Bibliothèque des Eaux-Vives",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Rue Sillem 2, 1207 Genève",
+   "slots": [
+    {
+     "start": "2026-12-09T16:30:00+01:00",
+     "end": "2026-12-09T17:30:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://www.geneve.ch/agenda/belle-escalade",
+   "description": "Animation gratuite pour découvrir l'histoire de l'Escalade avec la Compagnie 1602 et les images d'Elzingre. Dès 7 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "belle-escalade-bibliotheque-2026",
+    "url": "https://www.geneve.ch/agenda/belle-escalade",
+    "licenseUrl": "https://www.geneve.ch/agenda/belle-escalade",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:meg-nuit-du-conte-2026",
+   "title": "MEG x Nuit du conte : voix",
+   "category": "culture",
+   "venue": "Musée d'ethnographie de Genève (MEG)",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Boulevard Carl-Vogt 65, 1205 Genève",
+   "slots": [
+    {
+     "start": "2026-11-13T18:00:00+01:00"
+    }
+   ],
+   "minAge": 5,
+   "officialUrl": "https://www.geneve.ch/agenda/meg-nuit-conte-2026-voix",
+   "description": "Soirée contée gratuite en famille au MEG pour imaginer les voix du futur. Dès 5 ans, inscription obligatoire par e-mail.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "meg-nuit-du-conte-2026",
+    "url": "https://www.geneve.ch/agenda/meg-nuit-conte-2026-voix",
+    "licenseUrl": "https://www.geneve.ch/agenda/meg-nuit-conte-2026-voix",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:poulpe-fiction-nuit-conte-2026",
+   "title": "Poulpe Fiction – Nuit du conte",
+   "category": "culture",
+   "venue": "Bibliothèque de Saint-Jean",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Avenue des Tilleuls 19, 1203 Genève",
+   "slots": [
+    {
+     "start": "2026-11-13T18:30:00+01:00",
+     "end": "2026-11-13T19:30:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://www.geneve.ch/agenda/poulpe-fiction-nuit-conte",
+   "description": "Ombres géantes et légendes marines (kraken, serpent du Léman) ; les enfants deviennent vagues et tentacules. Dès 7 ans, gratuit.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "poulpe-fiction-nuit-conte-2026",
+    "url": "https://www.geneve.ch/agenda/poulpe-fiction-nuit-conte",
+    "licenseUrl": "https://www.geneve.ch/agenda/poulpe-fiction-nuit-conte",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:creatures-terre-nuit-conte-2026",
+   "title": "Créatures de la Terre – Nuit du conte",
+   "category": "culture",
+   "venue": "Espace de quartier Plainpalais",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Rue des Minoteries 3, 1205 Genève",
+   "slots": [
+    {
+     "start": "2026-11-13T18:30:00+01:00",
+     "end": "2026-11-13T19:30:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://www.geneve.ch/agenda/creatures-terre-nuit-conte",
+   "description": "La conteuse Cathy Sarr partage contes et légendes sur les liens entre humains et animaux. Dès 7 ans, gratuit.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "creatures-terre-nuit-conte-2026",
+    "url": "https://www.geneve.ch/agenda/creatures-terre-nuit-conte",
+    "licenseUrl": "https://www.geneve.ch/agenda/creatures-terre-nuit-conte",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:contes-a-rebours-2026",
+   "title": "Contes à rebours, contes improvisés",
+   "category": "show",
+   "venue": "Théâtre le Monique",
+   "city": "Cointrin",
+   "canton": "GE",
+   "address": "Avenue Louis-Casaï 54, 1216 Cointrin",
+   "slots": [
+    {
+     "start": "2026-10-31T14:00:00+01:00",
+     "end": "2026-10-31T15:00:00+01:00"
+    },
+    {
+     "start": "2026-11-14T14:00:00+01:00",
+     "end": "2026-11-14T15:00:00+01:00"
+    }
+   ],
+   "minAge": 5,
+   "officialUrl": "https://www.geneve.ch/agenda/contes-rebours-contes-improvises",
+   "description": "Une heure de contes improvisés où les enfants tiennent la baguette magique. Dès 5 ans, 8-12 CHF.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "contes-a-rebours-2026",
+    "url": "https://www.geneve.ch/agenda/contes-rebours-contes-improvises",
+    "licenseUrl": "https://www.geneve.ch/agenda/contes-rebours-contes-improvises",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:insectes-entre-les-pages-2026",
+   "title": "Des insectes entre les pages",
+   "category": "workshop",
+   "venue": "Bibliothèque de Saint-Jean",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Avenue des Tilleuls 19, 1203 Genève",
+   "slots": [
+    {
+     "start": "2026-11-07T14:30:00+01:00",
+     "end": "2026-11-07T16:30:00+01:00"
+    }
+   ],
+   "minAge": 8,
+   "officialUrl": "https://www.geneve.ch/agenda/insectes-entre-pages",
+   "description": "Atelier gratuit de reliure d'un mini-livre illustré sur les insectes, avec une illustratrice-biologiste. Dès 8 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "insectes-entre-les-pages-2026",
+    "url": "https://www.geneve.ch/agenda/insectes-entre-pages",
+    "licenseUrl": "https://www.geneve.ch/agenda/insectes-entre-pages",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:dimanche-du-futur-meg-2026",
+   "title": "Dimanche du Futur au MEG",
+   "category": "workshop",
+   "venue": "Musée d'ethnographie de Genève (MEG)",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Boulevard Carl-Vogt 65, 1205 Genève",
+   "slots": [
+    {
+     "start": "2026-10-04T09:30:00+02:00",
+     "end": "2026-10-04T18:00:00+02:00"
+    },
+    {
+     "start": "2026-11-01T09:30:00+01:00",
+     "end": "2026-11-01T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T09:30:00+01:00",
+     "end": "2026-12-06T18:00:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.geneve.ch/agenda/dimanche-futur-1",
+   "description": "Premier dimanche du mois : ateliers créatifs, lectures, jeu libre et projections autour de l'expo « Le futur, c'est quoi ? ». Dès 4 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "dimanche-du-futur-meg-2026",
+    "url": "https://www.geneve.ch/agenda/dimanche-futur-1",
+    "licenseUrl": "https://www.geneve.ch/agenda/dimanche-futur-1",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tmg-rien-2026",
+   "title": "RIEN (Théâtre des Marionnettes)",
+   "category": "show",
+   "venue": "Théâtre des Marionnettes de Genève",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-10-07T15:00:00+02:00",
+     "end": "2026-10-07T15:45:00+02:00"
+    },
+    {
+     "start": "2026-10-10T17:00:00+02:00",
+     "end": "2026-10-10T17:45:00+02:00"
+    },
+    {
+     "start": "2026-10-11T11:00:00+02:00",
+     "end": "2026-10-11T11:45:00+02:00"
+    },
+    {
+     "start": "2026-10-11T17:00:00+02:00",
+     "end": "2026-10-11T17:45:00+02:00"
+    },
+    {
+     "start": "2026-10-14T15:00:00+02:00",
+     "end": "2026-10-14T15:45:00+02:00"
+    },
+    {
+     "start": "2026-10-17T17:00:00+02:00",
+     "end": "2026-10-17T17:45:00+02:00"
+    },
+    {
+     "start": "2026-10-18T11:00:00+02:00",
+     "end": "2026-10-18T11:45:00+02:00"
+    },
+    {
+     "start": "2026-10-18T17:00:00+02:00",
+     "end": "2026-10-18T17:45:00+02:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.marionnettes.ch/spectacle/rien",
+   "description": "Théâtre d'objets minimaliste : une table blanche, une marionnette et quatre mains. Dès 6 ans, 45 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tmg-rien-2026",
+    "url": "https://www.marionnettes.ch/spectacle/rien",
+    "licenseUrl": "https://www.marionnettes.ch/spectacle/rien",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tmg-zone-nono-2026",
+   "title": "La Zone Nono (Théâtre des Marionnettes)",
+   "category": "show",
+   "venue": "Théâtre des Marionnettes de Genève",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-10-28T15:00:00+01:00",
+     "end": "2026-10-28T16:00:00+01:00"
+    },
+    {
+     "start": "2026-10-31T17:00:00+01:00",
+     "end": "2026-10-31T18:00:00+01:00"
+    },
+    {
+     "start": "2026-11-01T11:00:00+01:00",
+     "end": "2026-11-01T12:00:00+01:00"
+    },
+    {
+     "start": "2026-11-01T17:00:00+01:00",
+     "end": "2026-11-01T18:00:00+01:00"
+    },
+    {
+     "start": "2026-11-04T15:00:00+01:00",
+     "end": "2026-11-04T16:00:00+01:00"
+    },
+    {
+     "start": "2026-11-07T17:00:00+01:00",
+     "end": "2026-11-07T18:00:00+01:00"
+    },
+    {
+     "start": "2026-11-08T11:00:00+01:00",
+     "end": "2026-11-08T12:00:00+01:00"
+    },
+    {
+     "start": "2026-11-08T17:00:00+01:00",
+     "end": "2026-11-08T18:00:00+01:00"
+    },
+    {
+     "start": "2026-11-11T15:00:00+01:00",
+     "end": "2026-11-11T16:00:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://www.marionnettes.ch/spectacle/la-zone-nono",
+   "description": "Ode tragicomique et musicale à l'émancipation animale, marionnettes de table et musique live. Dès 7 ans, 60 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tmg-zone-nono-2026",
+    "url": "https://www.marionnettes.ch/spectacle/la-zone-nono",
+    "licenseUrl": "https://www.marionnettes.ch/spectacle/la-zone-nono",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tmg-la-chance-2026",
+   "title": "La Chance ! (Théâtre des Marionnettes)",
+   "category": "show",
+   "venue": "Théâtre des Marionnettes de Genève",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-12-05T17:00:00+01:00",
+     "end": "2026-12-05T17:50:00+01:00"
+    },
+    {
+     "start": "2026-12-06T11:00:00+01:00",
+     "end": "2026-12-06T11:50:00+01:00"
+    },
+    {
+     "start": "2026-12-06T17:00:00+01:00",
+     "end": "2026-12-06T17:50:00+01:00"
+    },
+    {
+     "start": "2026-12-09T15:00:00+01:00",
+     "end": "2026-12-09T15:50:00+01:00"
+    },
+    {
+     "start": "2026-12-12T17:00:00+01:00",
+     "end": "2026-12-12T17:50:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T11:50:00+01:00"
+    },
+    {
+     "start": "2026-12-13T17:00:00+01:00",
+     "end": "2026-12-13T17:50:00+01:00"
+    },
+    {
+     "start": "2026-12-16T15:00:00+01:00",
+     "end": "2026-12-16T15:50:00+01:00"
+    },
+    {
+     "start": "2026-12-19T17:00:00+01:00",
+     "end": "2026-12-19T17:50:00+01:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00+01:00",
+     "end": "2026-12-20T11:50:00+01:00"
+    },
+    {
+     "start": "2026-12-20T17:00:00+01:00",
+     "end": "2026-12-20T17:50:00+01:00"
+    },
+    {
+     "start": "2026-12-23T15:00:00+01:00",
+     "end": "2026-12-23T15:50:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.marionnettes.ch/spectacle/la-chance",
+   "description": "Sacha ne trouve pas le sommeil et part, guidée par un lapin blanc, chercher un remède à la malchance. Dès 4 ans, 50 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tmg-la-chance-2026",
+    "url": "https://www.marionnettes.ch/spectacle/la-chance",
+    "licenseUrl": "https://www.marionnettes.ch/spectacle/la-chance",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tmg-ultra-saucisse-2027",
+   "title": "Ultra Saucisse (Théâtre des Marionnettes)",
+   "category": "show",
+   "venue": "Théâtre des Marionnettes de Genève",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2027-01-13T15:00:00+01:00",
+     "end": "2027-01-13T16:00:00+01:00"
+    },
+    {
+     "start": "2027-01-16T17:00:00+01:00",
+     "end": "2027-01-16T18:00:00+01:00"
+    },
+    {
+     "start": "2027-01-17T11:00:00+01:00",
+     "end": "2027-01-17T12:00:00+01:00"
+    },
+    {
+     "start": "2027-01-17T17:00:00+01:00",
+     "end": "2027-01-17T18:00:00+01:00"
+    },
+    {
+     "start": "2027-01-20T15:00:00+01:00",
+     "end": "2027-01-20T16:00:00+01:00"
+    },
+    {
+     "start": "2027-01-23T17:00:00+01:00",
+     "end": "2027-01-23T18:00:00+01:00"
+    },
+    {
+     "start": "2027-01-24T11:00:00+01:00",
+     "end": "2027-01-24T12:00:00+01:00"
+    },
+    {
+     "start": "2027-01-24T17:00:00+01:00",
+     "end": "2027-01-24T18:00:00+01:00"
+    },
+    {
+     "start": "2027-01-27T15:00:00+01:00",
+     "end": "2027-01-27T16:00:00+01:00"
+    },
+    {
+     "start": "2027-01-30T17:00:00+01:00",
+     "end": "2027-01-30T18:00:00+01:00"
+    },
+    {
+     "start": "2027-01-31T11:00:00+01:00",
+     "end": "2027-01-31T12:00:00+01:00"
+    },
+    {
+     "start": "2027-01-31T17:00:00+01:00",
+     "end": "2027-01-31T18:00:00+01:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.marionnettes.ch/spectacle/ultra-saucisse-0",
+   "description": "Marionnettes-saucisses et humour pour parler du harcèlement vécu par Charlie, 8 ans. Dès 6 ans, 60 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tmg-ultra-saucisse-2027",
+    "url": "https://www.marionnettes.ch/spectacle/ultra-saucisse-0",
+    "licenseUrl": "https://www.marionnettes.ch/spectacle/ultra-saucisse-0",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tmg-sous-larbre-2027",
+   "title": "Sous l'arbre (Théâtre des Marionnettes)",
+   "category": "show",
+   "venue": "Théâtre des Marionnettes de Genève",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2027-02-17T10:30:00+01:00",
+     "end": "2027-02-17T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-17T15:30:00+01:00",
+     "end": "2027-02-17T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-18T10:30:00+01:00",
+     "end": "2027-02-18T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-18T15:30:00+01:00",
+     "end": "2027-02-18T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-19T10:30:00+01:00",
+     "end": "2027-02-19T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-19T15:30:00+01:00",
+     "end": "2027-02-19T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-20T11:00:00+01:00",
+     "end": "2027-02-20T11:25:00+01:00"
+    },
+    {
+     "start": "2027-02-20T15:00:00+01:00",
+     "end": "2027-02-20T15:25:00+01:00"
+    },
+    {
+     "start": "2027-02-20T17:00:00+01:00",
+     "end": "2027-02-20T17:25:00+01:00"
+    },
+    {
+     "start": "2027-02-21T11:00:00+01:00",
+     "end": "2027-02-21T11:25:00+01:00"
+    },
+    {
+     "start": "2027-02-21T15:00:00+01:00",
+     "end": "2027-02-21T15:25:00+01:00"
+    },
+    {
+     "start": "2027-02-21T17:00:00+01:00",
+     "end": "2027-02-21T17:25:00+01:00"
+    },
+    {
+     "start": "2027-02-22T10:30:00+01:00",
+     "end": "2027-02-22T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-22T15:30:00+01:00",
+     "end": "2027-02-22T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-23T10:30:00+01:00",
+     "end": "2027-02-23T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-23T15:30:00+01:00",
+     "end": "2027-02-23T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-24T10:30:00+01:00",
+     "end": "2027-02-24T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-24T15:30:00+01:00",
+     "end": "2027-02-24T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-25T10:30:00+01:00",
+     "end": "2027-02-25T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-25T15:30:00+01:00",
+     "end": "2027-02-25T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-26T10:30:00+01:00",
+     "end": "2027-02-26T10:55:00+01:00"
+    },
+    {
+     "start": "2027-02-26T15:30:00+01:00",
+     "end": "2027-02-26T15:55:00+01:00"
+    },
+    {
+     "start": "2027-02-27T11:00:00+01:00",
+     "end": "2027-02-27T11:25:00+01:00"
+    },
+    {
+     "start": "2027-02-27T15:00:00+01:00",
+     "end": "2027-02-27T15:25:00+01:00"
+    },
+    {
+     "start": "2027-02-27T17:00:00+01:00",
+     "end": "2027-02-27T17:25:00+01:00"
+    },
+    {
+     "start": "2027-02-28T11:00:00+01:00",
+     "end": "2027-02-28T11:25:00+01:00"
+    },
+    {
+     "start": "2027-02-28T15:00:00+01:00",
+     "end": "2027-02-28T15:25:00+01:00"
+    },
+    {
+     "start": "2027-02-28T17:00:00+01:00",
+     "end": "2027-02-28T17:25:00+01:00"
+    },
+    {
+     "start": "2027-03-01T10:30:00+01:00",
+     "end": "2027-03-01T10:55:00+01:00"
+    },
+    {
+     "start": "2027-03-01T15:30:00+01:00",
+     "end": "2027-03-01T15:55:00+01:00"
+    },
+    {
+     "start": "2027-03-02T10:30:00+01:00",
+     "end": "2027-03-02T10:55:00+01:00"
+    },
+    {
+     "start": "2027-03-02T15:30:00+01:00",
+     "end": "2027-03-02T15:55:00+01:00"
+    },
+    {
+     "start": "2027-03-03T10:30:00+01:00",
+     "end": "2027-03-03T10:55:00+01:00"
+    },
+    {
+     "start": "2027-03-03T15:30:00+01:00",
+     "end": "2027-03-03T15:55:00+01:00"
+    },
+    {
+     "start": "2027-03-04T10:30:00+01:00",
+     "end": "2027-03-04T10:55:00+01:00"
+    },
+    {
+     "start": "2027-03-04T15:30:00+01:00",
+     "end": "2027-03-04T15:55:00+01:00"
+    },
+    {
+     "start": "2027-03-05T10:30:00+01:00",
+     "end": "2027-03-05T10:55:00+01:00"
+    },
+    {
+     "start": "2027-03-05T15:30:00+01:00",
+     "end": "2027-03-05T15:55:00+01:00"
+    },
+    {
+     "start": "2027-03-06T11:00:00+01:00",
+     "end": "2027-03-06T11:25:00+01:00"
+    },
+    {
+     "start": "2027-03-06T15:00:00+01:00",
+     "end": "2027-03-06T15:25:00+01:00"
+    },
+    {
+     "start": "2027-03-06T17:00:00+01:00",
+     "end": "2027-03-06T17:25:00+01:00"
+    },
+    {
+     "start": "2027-03-07T11:00:00+01:00",
+     "end": "2027-03-07T11:25:00+01:00"
+    },
+    {
+     "start": "2027-03-07T15:00:00+01:00",
+     "end": "2027-03-07T15:25:00+01:00"
+    },
+    {
+     "start": "2027-03-07T17:00:00+01:00",
+     "end": "2027-03-07T17:25:00+01:00"
+    }
+   ],
+   "minAge": 0,
+   "officialUrl": "https://www.marionnettes.ch/spectacle/sous-larbre",
+   "description": "Pour les 9 mois-3 ans : un grand arbre, des marionnettes animales, puis espace d'exploration et de lecture. 25 min, 40 places.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tmg-sous-larbre-2027",
+    "url": "https://www.marionnettes.ch/spectacle/sous-larbre",
+    "licenseUrl": "https://www.marionnettes.ch/spectacle/sous-larbre",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:tmg-ne-mattends-pas-2027",
+   "title": "Ne m'attends pas (Théâtre des Marionnettes)",
+   "category": "show",
+   "venue": "Théâtre des Marionnettes de Genève",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2027-03-10T15:00:00+01:00",
+     "end": "2027-03-10T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-13T14:00:00+01:00",
+     "end": "2027-03-13T14:40:00+01:00"
+    },
+    {
+     "start": "2027-03-13T17:00:00+01:00",
+     "end": "2027-03-13T17:40:00+01:00"
+    },
+    {
+     "start": "2027-03-14T11:00:00+01:00",
+     "end": "2027-03-14T11:40:00+01:00"
+    },
+    {
+     "start": "2027-03-14T17:00:00+01:00",
+     "end": "2027-03-14T17:40:00+01:00"
+    },
+    {
+     "start": "2027-03-17T15:00:00+01:00",
+     "end": "2027-03-17T15:40:00+01:00"
+    },
+    {
+     "start": "2027-03-20T14:00:00+01:00",
+     "end": "2027-03-20T14:40:00+01:00"
+    },
+    {
+     "start": "2027-03-20T17:00:00+01:00",
+     "end": "2027-03-20T17:40:00+01:00"
+    },
+    {
+     "start": "2027-03-21T11:00:00+01:00",
+     "end": "2027-03-21T11:40:00+01:00"
+    },
+    {
+     "start": "2027-03-21T17:00:00+01:00",
+     "end": "2027-03-21T17:40:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.marionnettes.ch/spectacle/ne-mattends-pas",
+   "description": "Conte fantastique où les maisons voyagent la nuit ; un habitant court après la sienne. Dès 4 ans, 40 min.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Famigo (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tmg-ne-mattends-pas-2027",
+    "url": "https://www.marionnettes.ch/spectacle/ne-mattends-pas",
+    "licenseUrl": "https://www.marionnettes.ch/spectacle/ne-mattends-pas",
+    "collectedAt": "2026-10-02T18:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  }
+ ]
+}

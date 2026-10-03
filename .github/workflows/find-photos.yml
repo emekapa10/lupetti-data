@@ -1,0 +1,23 @@
+name: Chercher des photos
+on:
+  workflow_dispatch:
+  push:
+    paths: [photo-search/places.json, scripts/find_photos.cjs, .github/workflows/find-photos.yml]
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/find_photos.cjs
+      - name: Enregistrer
+        run: |
+          git config user.name lupetti-bot
+          git config user.email lupetti-bot@users.noreply.github.com
+          git add photo-search
+          git diff --cached --quiet || git commit -m "Photos candidates (Commons)"
+          git pull --rebase && git push

@@ -1,0 +1,3204 @@
+{
+ "places": [
+  {
+   "id": "centre-emys",
+   "title": "Centre Emys",
+   "city": "Chavornay",
+   "category": "animals",
+   "lat": 46.7119315,
+   "lon": 6.5479203
+  },
+  {
+   "id": "archeolab",
+   "title": "Archeolab",
+   "city": "Pully",
+   "category": "museum",
+   "lat": 46.5098457,
+   "lon": 6.6619414
+  },
+  {
+   "id": "atelier-musee-encre-plomb",
+   "title": "Atelier-Musée Encre & Plomb",
+   "city": "Chavannes-près-Renens",
+   "category": "museum",
+   "lat": 46.5341317,
+   "lon": 6.577296
+  },
+  {
+   "id": "atelier-musee-espace-gutenberg",
+   "title": "Atelier-musée Espace Gutenberg",
+   "city": "Yvonand",
+   "category": "museum",
+   "lat": 46.7981066,
+   "lon": 6.7553568
+  },
+  {
+   "id": "cave-de-l-etivaz",
+   "title": "Cave de l'Etivaz",
+   "city": "Château-d'Oex",
+   "category": "museum",
+   "lat": 46.4234649,
+   "lon": 7.1456214
+  },
+  {
+   "id": "centre-d-art-contemporain",
+   "title": "Centre d'art contemporain",
+   "city": "Yverdon-les-Bains",
+   "category": "museum",
+   "lat": 46.7783416,
+   "lon": 6.6408973
+  },
+  {
+   "id": "centre-de-documentation-et-de-recherche-pestalozzi",
+   "title": "Centre de documentation et de recherche Pestalozzi",
+   "city": "Yverdon-les-Bains",
+   "category": "museum",
+   "lat": 46.7783689,
+   "lon": 6.6418213
+  },
+  {
+   "id": "espace-ballon",
+   "title": "Espace Ballon",
+   "city": "Château-d'Oex",
+   "category": "museum",
+   "lat": 46.4730806,
+   "lon": 7.1303164
+  },
+  {
+   "id": "espace-des-inventions",
+   "title": "Espace des Inventions",
+   "city": "Lausanne",
+   "category": "museum",
+   "lat": 46.5195145,
+   "lon": 6.6037295
+  },
+  {
+   "id": "expo-fondation-bolle",
+   "title": "Expo Fondation Bolle",
+   "city": "Morges",
+   "category": "museum",
+   "lat": 46.5076835,
+   "lon": 6.4977854
+  },
+  {
+   "id": "fondation-sapa",
+   "title": "Fondation SAPA",
+   "city": "Lausanne",
+   "category": "museum",
+   "lat": 46.5183923,
+   "lon": 6.6383211
+  },
+  {
+   "id": "la-muette-espaces-litteraires",
+   "title": "La Muette – espaces littéraires",
+   "city": "Pully",
+   "category": "museum",
+   "lat": 46.5089576,
+   "lon": 6.6606273
+  },
+  {
+   "id": "maf-musee-artistes-femmes",
+   "title": "MAF - Musée Artistes Femmes",
+   "city": "Lausanne",
+   "category": "museum",
+   "lat": 46.5220089,
+   "lon": 6.6319393
+  },
+  {
+   "id": "maison-de-l-ile-aux-oiseaux",
+   "title": "Maison de l'île aux oiseaux",
+   "city": "Préverenges",
+   "category": "museum",
+   "lat": 46.5083761,
+   "lon": 6.5359619
+  },
+  {
+   "id": "maison-du-dessin-de-presse",
+   "title": "Maison du Dessin de Presse",
+   "city": "Morges",
+   "category": "museum",
+   "lat": 46.50876,
+   "lon": 6.4992433
+  },
+  {
+   "id": "musee-de-leysin",
+   "title": "Musée de Leysin",
+   "city": "Leysin",
+   "category": "museum",
+   "lat": 46.3415827,
+   "lon": 7.0129753
+  },
+  {
+   "id": "musee-de-vacherin",
+   "title": "Musée de vacherin",
+   "city": "Les Charbonnières",
+   "category": "museum",
+   "lat": 46.6667778,
+   "lon": 6.3143063
+  },
+  {
+   "id": "musee-des-migrations-et-des-droits-humains",
+   "title": "Musée des migrations et des droits humains",
+   "city": "Lausanne",
+   "category": "museum",
+   "lat": 46.5219873,
+   "lon": 6.6215539
+  },
+  {
+   "id": "musee-des-ormonts",
+   "title": "Musée des Ormonts",
+   "city": "Vers-l'Eglise",
+   "category": "museum",
+   "lat": 46.353822,
+   "lon": 7.1319932
+  },
+  {
+   "id": "musee-du-pays-d-enhaut",
+   "title": "Musée du Pays-d'Enhaut",
+   "city": "Château-d'Oex",
+   "category": "museum",
+   "lat": 46.476185,
+   "lon": 7.1352953
+  },
+  {
+   "id": "musee-du-vieux-baulmes",
+   "title": "Musée du Vieux Baulmes",
+   "city": "Baulmes",
+   "category": "museum",
+   "lat": 46.7899191,
+   "lon": 6.5214527
+  },
+  {
+   "id": "musee-du-vieux-coppet",
+   "title": "Musée du Vieux-Coppet",
+   "city": "Coppet",
+   "category": "museum",
+   "lat": 46.3163684,
+   "lon": 6.1932568
+  },
+  {
+   "id": "musee-du-vigneron",
+   "title": "Musée du Vigneron",
+   "city": "Mont-sur-Rolle",
+   "category": "museum",
+   "lat": 46.4676231,
+   "lon": 6.3344349
+  },
+  {
+   "id": "musee-eugene-burnand",
+   "title": "Musee Eugene Burnand",
+   "city": "Moudon",
+   "category": "museum",
+   "lat": 46.6695912,
+   "lon": 6.7932702
+  },
+  {
+   "id": "musee-paderewski",
+   "title": "Musée Paderewski",
+   "city": "Morges",
+   "category": "museum",
+   "lat": 46.506648,
+   "lon": 6.4968515
+  },
+  {
+   "id": "musee-patrimoine-au-fil-de-l-eau",
+   "title": "Musée Patrimoine au fil de l'eau",
+   "city": "Orbe",
+   "category": "museum",
+   "lat": 46.7212978,
+   "lon": 6.5328149
+  },
+  {
+   "id": "musee-roger-monney",
+   "title": "Musée Roger Monney",
+   "city": "Bellerive VD",
+   "category": "museum",
+   "lat": 46.9227681,
+   "lon": 7.0221227
+  },
+  {
+   "id": "musee-romain-2",
+   "title": "Musée Romain",
+   "city": "Avenches",
+   "category": "museum",
+   "lat": 46.8810931,
+   "lon": 7.0432206
+  },
+  {
+   "id": "musee-suisse-de-l-orgue",
+   "title": "Musée Suisse de l'Orgue",
+   "city": "Roche VD",
+   "category": "museum",
+   "lat": 46.3596877,
+   "lon": 6.9323017
+  },
+  {
+   "id": "racing-motorcycle-museum-rrm",
+   "title": "Racing Motorcycle Museum RRM",
+   "city": "Mies",
+   "category": "museum",
+   "lat": 46.2974311,
+   "lon": 6.1679697
+  },
+  {
+   "id": "villa-romaine-de-bosceaz",
+   "title": "Villa romaine de Boscéaz",
+   "city": "Orbe",
+   "category": "museum",
+   "lat": 46.7434849,
+   "lon": 6.536577
+  },
+  {
+   "id": "jardin-foret-d-eos",
+   "title": "Jardin-Forêt d'Eos",
+   "city": "Eysins",
+   "category": "nature",
+   "lat": 46.3792221,
+   "lon": 6.2079848
+  },
+  {
+   "id": "promenade-derriere-bourg",
+   "title": "Promenade Derrière-Bourg",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5189508,
+   "lon": 6.6358843
+  },
+  {
+   "id": "promenade-jean-jacques-mercier",
+   "title": "Promenade Jean-Jacques Mercier",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5153938,
+   "lon": 6.6463636
+  },
+  {
+   "id": "sous-l-eglise",
+   "title": "Sous l’église",
+   "city": "Grandson",
+   "category": "playground",
+   "lat": 46.8103234,
+   "lon": 6.6459291
+  },
+  {
+   "id": "piscine-de-perrosalle",
+   "title": "Piscine de Perrosalle",
+   "city": "Ollon",
+   "category": "swimming",
+   "lat": 46.2927214,
+   "lon": 6.9883247
+  },
+  {
+   "id": "piscine-olympique-du-berceau",
+   "title": "Piscine olympique du Berceau",
+   "city": "Château-d'Oex",
+   "category": "swimming",
+   "lat": 46.4669126,
+   "lon": 7.1248461
+  },
+  {
+   "id": "marmottes-paradis",
+   "title": "Marmottes Paradis",
+   "city": "Veytaux",
+   "category": "animals",
+   "lat": 46.4325244,
+   "lon": 6.9783291
+  },
+  {
+   "id": "parc-animalier",
+   "title": "Parc animalier",
+   "city": "Hautemorges",
+   "category": "animals",
+   "lat": 46.5281946,
+   "lon": 6.4437155
+  },
+  {
+   "id": "musee-cipad",
+   "title": "Musée CIPAD",
+   "city": "Lavey-Morcles",
+   "category": "museum",
+   "lat": 46.2178892,
+   "lon": 7.0380111
+  },
+  {
+   "id": "musee-de-montreux",
+   "title": "Musée de Montreux",
+   "city": "Montreux",
+   "category": "museum",
+   "lat": 46.434104,
+   "lon": 6.9137263
+  },
+  {
+   "id": "musee-historique-de-vevey",
+   "title": "Musée historique de Vevey",
+   "city": "Vevey",
+   "category": "museum",
+   "lat": 46.4581986,
+   "lon": 6.8488382
+  },
+  {
+   "id": "arboretum",
+   "title": "Arboretum",
+   "city": "Aubonne",
+   "category": "nature",
+   "lat": 46.5101516,
+   "lon": 6.3673298
+  },
+  {
+   "id": "bain-des-chevres",
+   "title": "Bain des Chèvres",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5055363,
+   "lon": 6.6510676
+  },
+  {
+   "id": "campagne-de-beaulieu",
+   "title": "Campagne de Beaulieu",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5269408,
+   "lon": 6.6249505
+  },
+  {
+   "id": "campagne-guillemin",
+   "title": "Campagne Guillemin",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5129531,
+   "lon": 6.6563281
+  },
+  {
+   "id": "campagne-marcel",
+   "title": "Campagne Marcel",
+   "city": "Paudex",
+   "category": "nature",
+   "lat": 46.5053665,
+   "lon": 6.6727975
+  },
+  {
+   "id": "esplanade-de-la-paix",
+   "title": "Esplanade de la Paix",
+   "city": "Vevey",
+   "category": "nature",
+   "lat": 46.4605736,
+   "lon": 6.8358578
+  },
+  {
+   "id": "esplanade-des-cotes",
+   "title": "Esplanade des Côtes",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5247104,
+   "lon": 6.5968215
+  },
+  {
+   "id": "esplanade-du-village",
+   "title": "Esplanade du village",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5356377,
+   "lon": 6.5914706
+  },
+  {
+   "id": "esplanade-jean-villard-gilles",
+   "title": "Esplanade Jean Villard-Gilles",
+   "city": "Préverenges",
+   "category": "nature",
+   "lat": 46.5075019,
+   "lon": 6.5387724
+  },
+  {
+   "id": "esplanade-louis-henri-delarageaz",
+   "title": "Esplanade Louis-Henri Delarageaz",
+   "city": "Préverenges",
+   "category": "nature",
+   "lat": 46.5159758,
+   "lon": 6.5148442
+  },
+  {
+   "id": "jardin-anglais",
+   "title": "Jardin Anglais",
+   "city": "Rolle",
+   "category": "nature",
+   "lat": 46.4542242,
+   "lon": 6.3364871
+  },
+  {
+   "id": "jardin-charlotte-olivier",
+   "title": "Jardin Charlotte Olivier",
+   "city": "Nyon",
+   "category": "nature",
+   "lat": 46.3871583,
+   "lon": 6.2188156
+  },
+  {
+   "id": "jardin-doret",
+   "title": "Jardin Doret",
+   "city": "Vevey",
+   "category": "nature",
+   "lat": 46.4616563,
+   "lon": 6.8362993
+  },
+  {
+   "id": "jardin-du-chateau",
+   "title": "Jardin du Château",
+   "city": "La Sarraz",
+   "category": "nature",
+   "lat": 46.6599317,
+   "lon": 6.5140453
+  },
+  {
+   "id": "jardin-du-rivage",
+   "title": "Jardin du Rivage",
+   "city": "Vevey",
+   "category": "nature",
+   "lat": 46.4596823,
+   "lon": 6.8400685
+  },
+  {
+   "id": "jardin-enrique-henriette-favez",
+   "title": "Jardin Enrique-Henriette-Favez",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5073374,
+   "lon": 6.6261056
+  },
+  {
+   "id": "jardin-japonais",
+   "title": "Jardin Japonais",
+   "city": "Yverdon-les-Bains",
+   "category": "nature",
+   "lat": 46.7805637,
+   "lon": 6.6402192
+  },
+  {
+   "id": "jardin-marie-de-seigneux",
+   "title": "Jardin Marie de Seigneux",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.5114563,
+   "lon": 6.4993846
+  },
+  {
+   "id": "jardin-roussy",
+   "title": "Jardin Roussy",
+   "city": "La Tour-de-Peilz",
+   "category": "nature",
+   "lat": 46.4547743,
+   "lon": 6.8535919
+  },
+  {
+   "id": "jardin-foret-des-morettes",
+   "title": "Jardin-Forêt des Morettes",
+   "city": "Prangins",
+   "category": "nature",
+   "lat": 46.396654,
+   "lon": 6.2486401
+  },
+  {
+   "id": "l-esplanade-de-chantemerle",
+   "title": "L’esplanade de Chantemerle",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5167547,
+   "lon": 6.6608814
+  },
+  {
+   "id": "monsejour",
+   "title": "Monséjour",
+   "city": "Aigle",
+   "category": "nature",
+   "lat": 46.3171556,
+   "lon": 6.9659247
+  },
+  {
+   "id": "parc-alice-sauvin",
+   "title": "Parc Alice Sauvin",
+   "city": "Nyon",
+   "category": "nature",
+   "lat": 46.384683,
+   "lon": 6.2342255
+  },
+  {
+   "id": "parc-anne-fontaine",
+   "title": "Parc Anne-Fontaine",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5370218,
+   "lon": 6.6539085
+  },
+  {
+   "id": "parc-bourget",
+   "title": "Parc Bourget",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5186969,
+   "lon": 6.5911014
+  },
+  {
+   "id": "parc-carl-sauter",
+   "title": "Parc Carl Sauter",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5341597,
+   "lon": 6.5949318
+  },
+  {
+   "id": "parc-casimir-reymond",
+   "title": "Parc Casimir Reymond",
+   "city": "Lutry",
+   "category": "nature",
+   "lat": 46.5046641,
+   "lon": 6.6800385
+  },
+  {
+   "id": "parc-charlie-chaplin",
+   "title": "Parc Charlie Chaplin",
+   "city": "Corsier-sur-Vevey",
+   "category": "nature",
+   "lat": 46.4696184,
+   "lon": 6.8427377
+  },
+  {
+   "id": "parc-d-entremonts",
+   "title": "Parc d’Entremonts",
+   "city": "Yverdon-les-Bains",
+   "category": "nature",
+   "lat": 46.7725022,
+   "lon": 6.6488301
+  },
+  {
+   "id": "parc-de-belmont",
+   "title": "Parc de Belmont",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5184608,
+   "lon": 6.666801
+  },
+  {
+   "id": "parc-de-broye",
+   "title": "Parc de Broye",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5358359,
+   "lon": 6.5959797
+  },
+  {
+   "id": "parc-de-l-emilienne",
+   "title": "Parc de l’Emilienne",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5084426,
+   "lon": 6.6499443
+  },
+  {
+   "id": "parc-de-l-europe",
+   "title": "Parc de l'Europe",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.4457479,
+   "lon": 6.8797501
+  },
+  {
+   "id": "parc-de-l-hermitage",
+   "title": "Parc de l'Hermitage",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5286731,
+   "lon": 6.6372754
+  },
+  {
+   "id": "parc-de-l-independance",
+   "title": "Parc de l'Indépendance",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.5055815,
+   "lon": 6.4956804
+  },
+  {
+   "id": "parc-de-l-ouchettaz",
+   "title": "Parc de l'Ouchettaz",
+   "city": "Villeneuve",
+   "category": "nature",
+   "lat": 46.3963046,
+   "lon": 6.9220672
+  },
+  {
+   "id": "parc-de-la-deleze",
+   "title": "Parc de la Delèze",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5294644,
+   "lon": 6.5899292
+  },
+  {
+   "id": "parc-de-la-gottettaz",
+   "title": "Parc de la Gottettaz",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5230472,
+   "lon": 6.6509536
+  },
+  {
+   "id": "parc-de-la-legende",
+   "title": "Parc de la Légende",
+   "city": null,
+   "category": "nature",
+   "lat": 46.5206377,
+   "lon": 6.6236425
+  },
+  {
+   "id": "parc-de-la-mebre",
+   "title": "Parc de la Mèbre",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5441469,
+   "lon": 6.5822548
+  },
+  {
+   "id": "parc-de-la-piscine-du-centre-sportif-de-leysin",
+   "title": "Parc de la piscine du Centre Sportif de Leysin",
+   "city": "Leysin",
+   "category": "nature",
+   "lat": 46.3456712,
+   "lon": 7.0152681
+  },
+  {
+   "id": "parc-de-la-solitude",
+   "title": "Parc de la Solitude",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5219632,
+   "lon": 6.6383032
+  },
+  {
+   "id": "parc-de-mangette",
+   "title": "Parc de Mangette",
+   "city": "Nyon",
+   "category": "nature",
+   "lat": 46.3898521,
+   "lon": 6.2292249
+  },
+  {
+   "id": "parc-de-mon-repos-2",
+   "title": "Parc de Mon Repos",
+   "city": "Ecublens (VD)",
+   "category": "nature",
+   "lat": 46.5234057,
+   "lon": 6.5595256
+  },
+  {
+   "id": "parc-de-mon-repos",
+   "title": "Parc de Mon-Repos",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5191454,
+   "lon": 6.6430571
+  },
+  {
+   "id": "parc-de-montasse",
+   "title": "Parc de Montassé",
+   "city": "Crissier",
+   "category": "nature",
+   "lat": 46.556433,
+   "lon": 6.5822657
+  },
+  {
+   "id": "parc-de-verte-rive",
+   "title": "Parc de Verte-Rive",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.4399356,
+   "lon": 6.8957227
+  },
+  {
+   "id": "parc-de-vertou",
+   "title": "Parc de Vertou",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.5157373,
+   "lon": 6.5114477
+  },
+  {
+   "id": "parc-des-cedres",
+   "title": "Parc des Cèdres",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5362741,
+   "lon": 6.5786105
+  },
+  {
+   "id": "parc-des-cotes",
+   "title": "Parc des Côtes",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5266391,
+   "lon": 6.592766
+  },
+  {
+   "id": "parc-des-daillettes",
+   "title": "Parc des Daillettes",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5234667,
+   "lon": 6.669341
+  },
+  {
+   "id": "parc-des-esserts",
+   "title": "Parc des Esserts",
+   "city": null,
+   "category": "nature",
+   "lat": 46.5328124,
+   "lon": 6.5678532
+  },
+  {
+   "id": "parc-des-lavandieres",
+   "title": "Parc des Lavandières",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5256362,
+   "lon": 6.637011
+  },
+  {
+   "id": "parc-des-pepinieres",
+   "title": "Parc des Pépinières",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5407512,
+   "lon": 6.5868931
+  },
+  {
+   "id": "parc-des-petits-sapins",
+   "title": "Parc des Petits-Sapins",
+   "city": "Rolle",
+   "category": "nature",
+   "lat": 46.4608259,
+   "lon": 6.3364049
+  },
+  {
+   "id": "parc-des-pierrettes",
+   "title": "Parc des Pierrettes",
+   "city": "Saint-Sulpice",
+   "category": "nature",
+   "lat": 46.5154659,
+   "lon": 6.5754669
+  },
+  {
+   "id": "parc-des-quatre-marronniers",
+   "title": "Parc des Quatre-Marronniers",
+   "city": "Yverdon-les-Bains",
+   "category": "nature",
+   "lat": 46.7761107,
+   "lon": 6.6485709
+  },
+  {
+   "id": "parc-des-rives-du-lac",
+   "title": "Parc des Rives du Lac",
+   "city": "Yverdon-les-Bains",
+   "category": "nature",
+   "lat": 46.7865486,
+   "lon": 6.6426247
+  },
+  {
+   "id": "parc-des-roses",
+   "title": "Parc des Roses",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.4273309,
+   "lon": 6.9228015
+  },
+  {
+   "id": "parc-des-salines",
+   "title": "Parc des Salines",
+   "city": "Roche (VD)",
+   "category": "nature",
+   "lat": 46.3606402,
+   "lon": 6.9298677
+  },
+  {
+   "id": "parc-des-vignes-d-argent",
+   "title": "Parc des Vignes-d'Argent",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5277027,
+   "lon": 6.6133687
+  },
+  {
+   "id": "parc-donner",
+   "title": "Parc Donner",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.4318739,
+   "lon": 6.9163875
+  },
+  {
+   "id": "parc-du-bourg-de-rive",
+   "title": "Parc du Bourg-de-Rive",
+   "city": "Nyon",
+   "category": "nature",
+   "lat": 46.379698,
+   "lon": 6.2395668
+  },
+  {
+   "id": "parc-du-chene",
+   "title": "Parc du Chêne",
+   "city": "Aubonne",
+   "category": "nature",
+   "lat": 46.4930791,
+   "lon": 6.3948208
+  },
+  {
+   "id": "parc-du-conservatoire",
+   "title": "Parc du Conservatoire",
+   "city": "Nyon",
+   "category": "nature",
+   "lat": 46.3775767,
+   "lon": 6.2374527
+  },
+  {
+   "id": "parc-du-cretel",
+   "title": "Parc du Cretel",
+   "city": "Bex",
+   "category": "nature",
+   "lat": 46.2500103,
+   "lon": 7.0184506
+  },
+  {
+   "id": "parc-du-liaudoz",
+   "title": "Parc du Liaudoz",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.517997,
+   "lon": 6.654787
+  },
+  {
+   "id": "parc-du-panorama",
+   "title": "Parc du Panorama",
+   "city": "Vevey",
+   "category": "nature",
+   "lat": 46.460348,
+   "lon": 6.8462529
+  },
+  {
+   "id": "parc-du-pelican",
+   "title": "Parc du Pélican",
+   "city": "Saint-Sulpice",
+   "category": "nature",
+   "lat": 46.513532,
+   "lon": 6.5723753
+  },
+  {
+   "id": "parc-du-ranch",
+   "title": "Parc du Ranch",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5311809,
+   "lon": 6.5814854
+  },
+  {
+   "id": "parc-du-russel",
+   "title": "Parc du Russel",
+   "city": "Saint-Sulpice",
+   "category": "nature",
+   "lat": 46.5128947,
+   "lon": 6.5631142
+  },
+  {
+   "id": "parc-du-temple",
+   "title": "Parc du Temple",
+   "city": "Bussigny",
+   "category": "nature",
+   "lat": 46.5513181,
+   "lon": 6.5535937
+  },
+  {
+   "id": "parc-du-vieux-clarens",
+   "title": "Parc du Vieux-Clarens",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.441226,
+   "lon": 6.8967937
+  },
+  {
+   "id": "parc-du-village",
+   "title": "Parc du Village",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5373035,
+   "lon": 6.5908861
+  },
+  {
+   "id": "parc-geologique",
+   "title": "Parc géologique",
+   "city": "Payerne",
+   "category": "nature",
+   "lat": 46.8157718,
+   "lon": 6.941051
+  },
+  {
+   "id": "parc-henriette-d-angeville",
+   "title": "Parc Henriette-d'Angeville",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.519368,
+   "lon": 6.6146844
+  },
+  {
+   "id": "parc-jean-villard-gilles",
+   "title": "Parc Jean-Villard Gilles",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.4406121,
+   "lon": 6.9011804
+  },
+  {
+   "id": "parc-julie-hofmann",
+   "title": "Parc Julie-Hofmann",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5262937,
+   "lon": 6.6305557
+  },
+  {
+   "id": "parc-lolette-payot",
+   "title": "Parc Lolette-Payot",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5142148,
+   "lon": 6.6310344
+  },
+  {
+   "id": "parc-mannerheim",
+   "title": "Parc Mannerheim",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.4262601,
+   "lon": 6.9221847
+  },
+  {
+   "id": "parc-montriant",
+   "title": "Parc Montriant",
+   "city": "Payerne",
+   "category": "nature",
+   "lat": 46.8208571,
+   "lon": 6.9431156
+  },
+  {
+   "id": "parc-paudex",
+   "title": "Parc Paudex",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5393032,
+   "lon": 6.5940051
+  },
+  {
+   "id": "parc-pidoux",
+   "title": "Parc Pidoux",
+   "city": "Chavannes-près-Renens",
+   "category": "nature",
+   "lat": 46.5332541,
+   "lon": 6.5743278
+  },
+  {
+   "id": "parc-pittier",
+   "title": "Parc Pittier",
+   "city": "Bex",
+   "category": "nature",
+   "lat": 46.2512937,
+   "lon": 7.0107497
+  },
+  {
+   "id": "parc-rongimel",
+   "title": "Parc Rongimel",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5138527,
+   "lon": 6.6330221
+  },
+  {
+   "id": "parc-rose-rouge",
+   "title": "Parc Rose Rouge",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5358367,
+   "lon": 6.5888403
+  },
+  {
+   "id": "parc-saint-claude",
+   "title": "Parc Saint-Claude",
+   "city": "Orbe",
+   "category": "nature",
+   "lat": 46.7237345,
+   "lon": 6.5338589
+  },
+  {
+   "id": "parc-saint-pierre",
+   "title": "Parc Saint-Pierre",
+   "city": "Aigle",
+   "category": "nature",
+   "lat": 46.3153133,
+   "lon": 6.9680721
+  },
+  {
+   "id": "parc-saugiaz",
+   "title": "Parc Saugiaz",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5398189,
+   "lon": 6.5860455
+  },
+  {
+   "id": "parc-si-beaulieu",
+   "title": "Parc SI Beaulieu",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5351973,
+   "lon": 6.5792666
+  },
+  {
+   "id": "piccard",
+   "title": "Piccard",
+   "city": "Ecublens",
+   "category": "nature",
+   "lat": 46.5200074,
+   "lon": 6.5683476
+  },
+  {
+   "id": "piscine",
+   "title": "Piscine",
+   "city": "Chexbres",
+   "category": "nature",
+   "lat": 46.4832715,
+   "lon": 6.7775206
+  },
+  {
+   "id": "place-alois-berger",
+   "title": "Place Aloïs Berger",
+   "city": "Cuarnens",
+   "category": "nature",
+   "lat": 46.6246433,
+   "lon": 6.4391098
+  },
+  {
+   "id": "place-andree-antonioli-rouiller",
+   "title": "Place Andrée-Antonioli-Rouiller",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5370241,
+   "lon": 6.6319034
+  },
+  {
+   "id": "place-d-armes",
+   "title": "Place d'Armes",
+   "city": "Saint-Prex",
+   "category": "nature",
+   "lat": 46.4810586,
+   "lon": 6.4608988
+  },
+  {
+   "id": "place-dame-jeanne",
+   "title": "Place Dame Jeanne",
+   "city": "Cossonay",
+   "category": "nature",
+   "lat": 46.6147113,
+   "lon": 6.507714
+  },
+  {
+   "id": "place-de-jeu-2",
+   "title": "Place de jeu",
+   "city": "Marchissy",
+   "category": "nature",
+   "lat": 46.4876677,
+   "lon": 6.2475868
+  },
+  {
+   "id": "place-de-la-mottaz",
+   "title": "Place de la Mottaz",
+   "city": "Bourg-en-Lavaux",
+   "category": "nature",
+   "lat": 46.4903064,
+   "lon": 6.7487999
+  },
+  {
+   "id": "place-de-pique-nique-du-boiron",
+   "title": "Place de pique-nique du Boiron",
+   "city": "Nyon",
+   "category": "nature",
+   "lat": 46.3751262,
+   "lon": 6.2319191
+  },
+  {
+   "id": "place-gandhi",
+   "title": "Place Gandhi",
+   "city": "Villeneuve (VD)",
+   "category": "nature",
+   "lat": 46.3981887,
+   "lon": 6.9245409
+  },
+  {
+   "id": "place-marcel-poncet",
+   "title": "Place Marcel Poncet",
+   "city": "Vich",
+   "category": "nature",
+   "lat": 46.4284925,
+   "lon": 6.2501283
+  },
+  {
+   "id": "placette-des-echelettes",
+   "title": "Placette des Échelettes",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5248384,
+   "lon": 6.62424
+  },
+  {
+   "id": "plage-de-mies",
+   "title": "Plage de Mies",
+   "city": "Mies",
+   "category": "nature",
+   "lat": 46.3033444,
+   "lon": 6.1804646
+  },
+  {
+   "id": "plage-de-tannay",
+   "title": "Plage de Tannay",
+   "city": "Tannay",
+   "category": "nature",
+   "lat": 46.3052208,
+   "lon": 6.1813884
+  },
+  {
+   "id": "plage-du-chauchy",
+   "title": "Plage du Chauchy",
+   "city": "Saint-Prex",
+   "category": "nature",
+   "lat": 46.479126,
+   "lon": 6.4564338
+  },
+  {
+   "id": "plage-du-coulet",
+   "title": "Plage du Coulet",
+   "city": "Saint-Prex",
+   "category": "nature",
+   "lat": 46.4745243,
+   "lon": 6.4492211
+  },
+  {
+   "id": "plage-du-pecos",
+   "title": "Plage du Pécos",
+   "city": "Grandson",
+   "category": "nature",
+   "lat": 46.8037635,
+   "lon": 6.6365177
+  },
+  {
+   "id": "plage-du-tennis",
+   "title": "Plage du Tennis",
+   "city": "Grandson",
+   "category": "nature",
+   "lat": 46.8015108,
+   "lon": 6.6351612
+  },
+  {
+   "id": "pre-de-l-hotel-de-ville",
+   "title": "Pré de l'Hôtel de Ville",
+   "city": "Yvonand",
+   "category": "nature",
+   "lat": 46.8003452,
+   "lon": 6.744623
+  },
+  {
+   "id": "pre-des-clos",
+   "title": "Pré des clos",
+   "city": "Pully",
+   "category": "nature",
+   "lat": 46.5092673,
+   "lon": 6.658486
+  },
+  {
+   "id": "promenade-de-la-liberte",
+   "title": "Promenade de la Liberté",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.52856,
+   "lon": 6.6303881
+  },
+  {
+   "id": "promenade-de-verdeaux",
+   "title": "Promenade de Verdeaux",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.538409,
+   "lon": 6.5892519
+  },
+  {
+   "id": "promenade-des-baumettes",
+   "title": "Promenade des Baumettes",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5430474,
+   "lon": 6.5878878
+  },
+  {
+   "id": "promenade-des-cornouillers",
+   "title": "Promenade des Cornouillers",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5315115,
+   "lon": 6.5842972
+  },
+  {
+   "id": "promenade-du-bois-de-beaulieu",
+   "title": "Promenade du Bois-de-Beaulieu",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5294357,
+   "lon": 6.6260767
+  },
+  {
+   "id": "promenade-du-bois-gentil",
+   "title": "Promenade du Bois-Gentil",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5376659,
+   "lon": 6.6241609
+  },
+  {
+   "id": "promenade-jean-villard-gilles",
+   "title": "Promenade Jean Villard-Gilles",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5181256,
+   "lon": 6.6362841
+  },
+  {
+   "id": "promenade-mary-widmer-curtat",
+   "title": "Promenade Mary-Widmer-Curtat",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5201118,
+   "lon": 6.6284992
+  },
+  {
+   "id": "square-de-l-independance",
+   "title": "Square de l'Indépendance",
+   "city": "Vevey",
+   "category": "nature",
+   "lat": 46.4617893,
+   "lon": 6.8398388
+  },
+  {
+   "id": "square-des-charpentiers",
+   "title": "Square des Charpentiers",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.5109387,
+   "lon": 6.4970571
+  },
+  {
+   "id": "square-du-14-juin",
+   "title": "Square du 14 juin",
+   "city": "Renens",
+   "category": "nature",
+   "lat": 46.5378812,
+   "lon": 6.5823147
+  },
+  {
+   "id": "st-cergue-bike-park",
+   "title": "St-Cergue Bike Park",
+   "city": "Saint-Cergue",
+   "category": "nature",
+   "lat": 46.4454587,
+   "lon": 6.1593235
+  },
+  {
+   "id": "tcs",
+   "title": "TCS",
+   "city": "Vallorbe",
+   "category": "nature",
+   "lat": 46.7025222,
+   "lon": 6.3582194
+  },
+  {
+   "id": "terrasse-mere-sofia",
+   "title": "Terrasse Mère-Sofia",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5220547,
+   "lon": 6.6366066
+  },
+  {
+   "id": "vallee-de-la-jeunesse",
+   "title": "Vallée-de-la-Jeunesse",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.5207688,
+   "lon": 6.6053941
+  },
+  {
+   "id": "aire-de-jeu",
+   "title": "Aire de jeu",
+   "city": "Oron",
+   "category": "playground",
+   "lat": 46.5761846,
+   "lon": 6.8525781
+  },
+  {
+   "id": "aire-de-jeu-de-la-tour-carree",
+   "title": "Aire de jeu de la Tour Carrée",
+   "city": "Vevey",
+   "category": "playground",
+   "lat": 46.4656047,
+   "lon": 6.8499156
+  },
+  {
+   "id": "aire-de-jeux-du-grand-pre",
+   "title": "Aire de Jeux du Grand-Pré",
+   "city": "Prilly",
+   "category": "playground",
+   "lat": 46.5339465,
+   "lon": 6.6027712
+  },
+  {
+   "id": "ancien-stand",
+   "title": "Ancien Stand",
+   "city": "Blonay - Saint-Légier",
+   "category": "playground",
+   "lat": 46.4622787,
+   "lon": 6.8963449
+  },
+  {
+   "id": "bois-fleuri",
+   "title": "Bois-Fleuri",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.3802834,
+   "lon": 6.2405359
+  },
+  {
+   "id": "bourg-de-rive",
+   "title": "Bourg-de-Rive",
+   "city": null,
+   "category": "playground",
+   "lat": 46.3796983,
+   "lon": 6.2398552
+  },
+  {
+   "id": "centre-ville",
+   "title": "Centre-ville",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.380956,
+   "lon": 6.2370784
+  },
+  {
+   "id": "chandieu",
+   "title": "Chandieu",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5125632,
+   "lon": 6.6396603
+  },
+  {
+   "id": "espace-des-quais",
+   "title": "Espace des Quais",
+   "city": "Grandson",
+   "category": "playground",
+   "lat": 46.8066922,
+   "lon": 6.643812
+  },
+  {
+   "id": "jardin-des-neiges-ess-funparc",
+   "title": "Jardin des neiges ESS - Funparc",
+   "city": "Ormont-Dessus",
+   "category": "playground",
+   "lat": 46.3454583,
+   "lon": 7.1542899
+  },
+  {
+   "id": "jeux-d-eau",
+   "title": "Jeux d'Eau",
+   "city": "Morges",
+   "category": "playground",
+   "lat": 46.50412,
+   "lon": 6.4917092
+  },
+  {
+   "id": "jeux-de-coinsins",
+   "title": "Jeux de Coinsins",
+   "city": "Coinsins",
+   "category": "playground",
+   "lat": 46.4257118,
+   "lon": 6.2361169
+  },
+  {
+   "id": "jeux-du-terrain-de-foot",
+   "title": "Jeux du terrain de foot",
+   "city": "Bottens",
+   "category": "playground",
+   "lat": 46.6140083,
+   "lon": 6.658949
+  },
+  {
+   "id": "la-combe",
+   "title": "La Combe",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.380095,
+   "lon": 6.2366943
+  },
+  {
+   "id": "la-dune-de-malley",
+   "title": "La Dune de Malley",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5244295,
+   "lon": 6.6041819
+  },
+  {
+   "id": "la-petite-place-de-jeu",
+   "title": "La petite place de jeu",
+   "city": null,
+   "category": "playground",
+   "lat": 46.5393288,
+   "lon": 6.6205109
+  },
+  {
+   "id": "la-place-de-jeu-des-herissons",
+   "title": "La place de jeu des Hérissons",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5384923,
+   "lon": 6.6207061
+  },
+  {
+   "id": "mangette",
+   "title": "Mangette",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.3896822,
+   "lon": 6.2294244
+  },
+  {
+   "id": "mini-kart",
+   "title": "Mini-kart",
+   "city": "Bougy-Villars",
+   "category": "playground",
+   "lat": 46.4845891,
+   "lon": 6.3519511
+  },
+  {
+   "id": "parc-de-jeux-du-reservoir",
+   "title": "Parc de jeux du réservoir",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.2929553,
+   "lon": 7.0674698
+  },
+  {
+   "id": "parc-de-la-dole",
+   "title": "Parc de la Dôle",
+   "city": "Gland",
+   "category": "playground",
+   "lat": 46.4213013,
+   "lon": 6.2636212
+  },
+  {
+   "id": "parc-de-la-promenade",
+   "title": "Parc de la Promenade",
+   "city": "Vallorbe",
+   "category": "playground",
+   "lat": 46.7104374,
+   "lon": 6.3691218
+  },
+  {
+   "id": "parc-de-la-violette",
+   "title": "Parc de la Violette",
+   "city": "Bussigny",
+   "category": "playground",
+   "lat": 46.5531651,
+   "lon": 6.5548043
+  },
+  {
+   "id": "parc-de-rente",
+   "title": "Parc de Rente",
+   "city": "Bussigny",
+   "category": "playground",
+   "lat": 46.555947,
+   "lon": 6.5597857
+  },
+  {
+   "id": "parc-de-roseaz",
+   "title": "Parc de Roséaz",
+   "city": "Bussigny",
+   "category": "playground",
+   "lat": 46.5477417,
+   "lon": 6.5577327
+  },
+  {
+   "id": "parc-de-sylvana",
+   "title": "Parc de Sylvana",
+   "city": "Morges",
+   "category": "playground",
+   "lat": 46.5143801,
+   "lon": 6.4932194
+  },
+  {
+   "id": "parc-de-vernex",
+   "title": "Parc de Vernex",
+   "city": "Montreux",
+   "category": "playground",
+   "lat": 46.439573,
+   "lon": 6.9035047
+  },
+  {
+   "id": "parc-des-faverges",
+   "title": "Parc des Faverges",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5136828,
+   "lon": 6.6459182
+  },
+  {
+   "id": "parc-du-centre",
+   "title": "Parc du centre",
+   "city": "Bussigny",
+   "category": "playground",
+   "lat": 46.5496531,
+   "lon": 6.5527494
+  },
+  {
+   "id": "parc-du-loup",
+   "title": "Parc du Loup",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5377579,
+   "lon": 6.6223489
+  },
+  {
+   "id": "petit-bois",
+   "title": "Petit Bois",
+   "city": "La Tour-de-Peilz",
+   "category": "playground",
+   "lat": 46.4571756,
+   "lon": 6.8630322
+  },
+  {
+   "id": "place-de-jeu",
+   "title": "place de jeu",
+   "city": "Chessel",
+   "category": "playground",
+   "lat": 46.3559942,
+   "lon": 6.8998246
+  },
+  {
+   "id": "place-de-jeu-de-la-maison-de-paroisse",
+   "title": "Place de Jeu de la Maison de Paroisse",
+   "city": "Le Chenit",
+   "category": "playground",
+   "lat": 46.6079005,
+   "lon": 6.2308667
+  },
+  {
+   "id": "place-de-jeu-du-chateau",
+   "title": "Place de jeu du château",
+   "city": "Blonay - Saint-Légier",
+   "category": "playground",
+   "lat": 46.468188,
+   "lon": 6.8901634
+  },
+  {
+   "id": "place-de-jeu-du-parc-robinson",
+   "title": "Place de jeu du Parc Robinson",
+   "city": "Chavannes-près-Renens",
+   "category": "playground",
+   "lat": 46.5308347,
+   "lon": 6.5789195
+  },
+  {
+   "id": "place-de-jeux",
+   "title": "Place de jeux",
+   "city": "Rossinière",
+   "category": "playground",
+   "lat": 46.4679166,
+   "lon": 7.0837368
+  },
+  {
+   "id": "place-de-jeux-2",
+   "title": "Place de jeux",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.3103517,
+   "lon": 7.0125198
+  },
+  {
+   "id": "place-de-jeux-3",
+   "title": "Place de jeux",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.2911586,
+   "lon": 6.9889211
+  },
+  {
+   "id": "place-de-jeux-4",
+   "title": "Place de jeux",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.2972758,
+   "lon": 6.9921124
+  },
+  {
+   "id": "place-de-jeux-5",
+   "title": "Place de jeux",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.2928594,
+   "lon": 6.9797759
+  },
+  {
+   "id": "place-de-jeux-6",
+   "title": "Place de jeux",
+   "city": "Renens",
+   "category": "playground",
+   "lat": 46.5327397,
+   "lon": 6.5856787
+  },
+  {
+   "id": "place-de-jeux-7",
+   "title": "Place de jeux",
+   "city": "Bonvillars",
+   "category": "playground",
+   "lat": 46.8379508,
+   "lon": 6.6674824
+  },
+  {
+   "id": "place-de-jeux-10",
+   "title": "Place de jeux",
+   "city": "Ecublens",
+   "category": "playground",
+   "lat": 46.5304513,
+   "lon": 6.5637384
+  },
+  {
+   "id": "place-de-jeux-11",
+   "title": "Place de jeux",
+   "city": "Ecublens",
+   "category": "playground",
+   "lat": 46.5313556,
+   "lon": 6.5686246
+  },
+  {
+   "id": "place-de-jeux-12",
+   "title": "Place de jeux",
+   "city": "Ecublens",
+   "category": "playground",
+   "lat": 46.5377682,
+   "lon": 6.5708643
+  },
+  {
+   "id": "place-de-jeux-13",
+   "title": "Place de jeux",
+   "city": "Ecublens",
+   "category": "playground",
+   "lat": 46.524134,
+   "lon": 6.556337
+  },
+  {
+   "id": "place-de-jeux-14",
+   "title": "Place de jeux",
+   "city": "Renens",
+   "category": "playground",
+   "lat": 46.5324326,
+   "lon": 6.5844754
+  },
+  {
+   "id": "place-de-jeux-8",
+   "title": "Place de Jeux",
+   "city": "Ogens",
+   "category": "playground",
+   "lat": 46.709913,
+   "lon": 6.72472
+  },
+  {
+   "id": "place-de-jeux-sullens",
+   "title": "Place de Jeux - Sullens",
+   "city": "Sullens",
+   "category": "playground",
+   "lat": 46.5905968,
+   "lon": 6.5682929
+  },
+  {
+   "id": "place-de-jeux-communale",
+   "title": "Place de jeux communale",
+   "city": "Avenches",
+   "category": "playground",
+   "lat": 46.8810827,
+   "lon": 7.0401679
+  },
+  {
+   "id": "place-de-jeux-de-chesieres",
+   "title": "Place de jeux de Chesières",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.3000516,
+   "lon": 7.0448965
+  },
+  {
+   "id": "place-de-jeux-de-l-ondine",
+   "title": "Place de jeux de l'Ondine",
+   "city": "Préverenges",
+   "category": "playground",
+   "lat": 46.5182099,
+   "lon": 6.5228028
+  },
+  {
+   "id": "place-de-jeux-de-l-ouchettaz",
+   "title": "Place de jeux de l'Ouchettaz",
+   "city": "Villeneuve (VD)",
+   "category": "playground",
+   "lat": 46.3960893,
+   "lon": 6.9211895
+  },
+  {
+   "id": "place-de-jeux-de-la-planta",
+   "title": "Place de jeux de la Planta",
+   "city": "Cheseaux-sur-Lausanne",
+   "category": "playground",
+   "lat": 46.5838571,
+   "lon": 6.6063688
+  },
+  {
+   "id": "place-de-jeux-de-la-scirie",
+   "title": "Place de jeux de la Scirie",
+   "city": "Crissier",
+   "category": "playground",
+   "lat": 46.5468105,
+   "lon": 6.579022
+  },
+  {
+   "id": "place-de-jeux-de-villars",
+   "title": "Place de jeux de Villars",
+   "city": "Ollon",
+   "category": "playground",
+   "lat": 46.2951543,
+   "lon": 7.0557783
+  },
+  {
+   "id": "place-de-jeux-des-esserts",
+   "title": "Place de Jeux des Esserts",
+   "city": "Mex (VD)",
+   "category": "playground",
+   "lat": 46.5767198,
+   "lon": 6.566299
+  },
+  {
+   "id": "place-de-jeux-des-passiaux",
+   "title": "Place de jeux des Passiaux",
+   "city": "Prilly",
+   "category": "playground",
+   "lat": 46.5429544,
+   "lon": 6.6073446
+  },
+  {
+   "id": "place-de-jeux-du-bois-de-chenes",
+   "title": "Place de jeux du Bois-de-Chênes",
+   "city": "Grandcour",
+   "category": "playground",
+   "lat": 46.8778307,
+   "lon": 6.9249779
+  },
+  {
+   "id": "place-de-jeux-du-rivage",
+   "title": "Place de jeux du Rivage",
+   "city": "Vevey",
+   "category": "playground",
+   "lat": 46.4590974,
+   "lon": 6.840414
+  },
+  {
+   "id": "place-de-jeux-grands",
+   "title": "Place de jeux grands",
+   "city": "Montreux",
+   "category": "playground",
+   "lat": 46.4320139,
+   "lon": 6.9248073
+  },
+  {
+   "id": "place-de-jeux-lacotel",
+   "title": "Place de jeux Lacotel",
+   "city": "Avenches",
+   "category": "playground",
+   "lat": 46.900461,
+   "lon": 7.0489826
+  },
+  {
+   "id": "place-de-jeux-parc-nicole-clarens",
+   "title": "Place de jeux parc Nicole-Clarens",
+   "city": "Montreux",
+   "category": "playground",
+   "lat": 46.4398247,
+   "lon": 6.8907242
+  },
+  {
+   "id": "place-grande-salle",
+   "title": "Place Grande Salle",
+   "city": "Lucens",
+   "category": "playground",
+   "lat": 46.7059343,
+   "lon": 6.8387222
+  },
+  {
+   "id": "place-recreative-de-l-ochette",
+   "title": "Place récréative de l'Ochette",
+   "city": "Hermenches",
+   "category": "playground",
+   "lat": 46.6419348,
+   "lon": 6.7580042
+  },
+  {
+   "id": "plage-des-trois-jetees",
+   "title": "Plage des Trois-Jetées",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.3770225,
+   "lon": 6.2360672
+  },
+  {
+   "id": "pra",
+   "title": "Pra",
+   "city": "Vevey",
+   "category": "playground",
+   "lat": 46.4679044,
+   "lon": 6.848949
+  },
+  {
+   "id": "prelaz",
+   "title": "Prélaz",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.3868761,
+   "lon": 6.234546
+  },
+  {
+   "id": "promenade-de-messidor",
+   "title": "Promenade de Messidor",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5154748,
+   "lon": 6.6413565
+  },
+  {
+   "id": "rive-est",
+   "title": "Rive-Est",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.3836682,
+   "lon": 6.2454714
+  },
+  {
+   "id": "skateboard-diy",
+   "title": "Skateboard DIY",
+   "city": "Allaman",
+   "category": "playground",
+   "lat": 46.4777063,
+   "lon": 6.4073684
+  },
+  {
+   "id": "square-d-echallens",
+   "title": "Square d'Echallens",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.526564,
+   "lon": 6.6195596
+  },
+  {
+   "id": "square-de-subriez",
+   "title": "Square de Subriez",
+   "city": "Vevey",
+   "category": "playground",
+   "lat": 46.4609229,
+   "lon": 6.8549817
+  },
+  {
+   "id": "square-perdtemps",
+   "title": "Square Perdtemps",
+   "city": "Nyon",
+   "category": "playground",
+   "lat": 46.3839368,
+   "lon": 6.239795
+  },
+  {
+   "id": "terrain-d-aventure-de-malley",
+   "title": "Terrain d'Aventure de Malley",
+   "city": "Lausanne",
+   "category": "playground",
+   "lat": 46.5231268,
+   "lon": 6.6038567
+  },
+  {
+   "id": "urba-kids",
+   "title": "Urba Kids",
+   "city": "Orbe",
+   "category": "playground",
+   "lat": 46.7180917,
+   "lon": 6.5409456
+  },
+  {
+   "id": "aquavie",
+   "title": "AquaVie",
+   "city": "Vevey",
+   "category": "swimming",
+   "lat": 46.4625319,
+   "lon": 6.8437847
+  },
+  {
+   "id": "bain-des-dames",
+   "title": "Bain des Dames",
+   "city": "Saint-Prex",
+   "category": "swimming",
+   "lat": 46.4786826,
+   "lon": 6.459441
+  },
+  {
+   "id": "bain-des-dames-2",
+   "title": "Bain des Dames",
+   "city": null,
+   "category": "swimming",
+   "lat": 46.4504161,
+   "lon": 6.8580381
+  },
+  {
+   "id": "bain-des-hommes",
+   "title": "Bain des Hommes",
+   "city": "La Tour-de-Peilz",
+   "category": "swimming",
+   "lat": 46.4520944,
+   "lon": 6.8547848
+  },
+  {
+   "id": "bain-public-de-cudrefin",
+   "title": "Bain public de Cudrefin",
+   "city": "Cudrefin",
+   "category": "swimming",
+   "lat": 46.9584331,
+   "lon": 7.0141498
+  },
+  {
+   "id": "bains-de-la-crottaz",
+   "title": "Bains de la Crottaz",
+   "city": "Corseaux",
+   "category": "swimming",
+   "lat": 46.4679756,
+   "lon": 6.8226608
+  },
+  {
+   "id": "centre-thermal-d-yverdon-les-bains",
+   "title": "Centre thermal d'Yverdon-les-Bains",
+   "city": "Yverdon-les-Bains",
+   "category": "swimming",
+   "lat": 46.7714351,
+   "lon": 6.648176
+  },
+  {
+   "id": "embouchure-de-l-aubonne",
+   "title": "Embouchure de l'Aubonne",
+   "city": "Allaman",
+   "category": "swimming",
+   "lat": 46.4602905,
+   "lon": 6.3911943
+  },
+  {
+   "id": "faoug-lac-de-morat",
+   "title": "Faoug, Lac de Morat",
+   "city": "Faoug",
+   "category": "swimming",
+   "lat": 46.9099751,
+   "lon": 7.0780316
+  },
+  {
+   "id": "la-cure-d-air",
+   "title": "La Cure d'Air",
+   "city": "Morges",
+   "category": "swimming",
+   "lat": 46.5036833,
+   "lon": 6.4935994
+  },
+  {
+   "id": "la-petite-plage",
+   "title": "La petite plage",
+   "city": "Yverdon-les-Bains",
+   "category": "swimming",
+   "lat": 46.7849874,
+   "lon": 6.656937
+  },
+  {
+   "id": "la-plage-de-rivaz",
+   "title": "La Plage de Rivaz",
+   "city": null,
+   "category": "swimming",
+   "lat": 46.4740465,
+   "lon": 6.7786124
+  },
+  {
+   "id": "les-bains-de-lavey",
+   "title": "Les Bains de Lavey",
+   "city": "Lavey-Morcles",
+   "category": "swimming",
+   "lat": 46.204404,
+   "lon": 7.0181695
+  },
+  {
+   "id": "maladaire",
+   "title": "Maladaire",
+   "city": "La Tour-de-Peilz",
+   "category": "swimming",
+   "lat": 46.4461702,
+   "lon": 6.8769013
+  },
+  {
+   "id": "piscine-couverte",
+   "title": "Piscine couverte",
+   "city": "Pully",
+   "category": "swimming",
+   "lat": 46.5105061,
+   "lon": 6.6557956
+  },
+  {
+   "id": "piscine-de-belleveaux",
+   "title": "Piscine de Belleveaux",
+   "city": "Lausanne",
+   "category": "swimming",
+   "lat": 46.5362942,
+   "lon": 6.6360074
+  },
+  {
+   "id": "piscine-de-la-fleur-de-lys",
+   "title": "Piscine de la Fleur-de-Lys",
+   "city": "Prilly",
+   "category": "swimming",
+   "lat": 46.5427663,
+   "lon": 6.6041282
+  },
+  {
+   "id": "piscine-de-sainte-croix",
+   "title": "Piscine de Sainte-Croix",
+   "city": "Sainte-Croix",
+   "category": "swimming",
+   "lat": 46.824597,
+   "lon": 6.5214256
+  },
+  {
+   "id": "piscine-du-martinet",
+   "title": "Piscine du Martinet",
+   "city": "Rolle",
+   "category": "swimming",
+   "lat": 46.4576785,
+   "lon": 6.3318139
+  },
+  {
+   "id": "piscine-vieux-moulin",
+   "title": "Piscine Vieux-Moulin",
+   "city": "Lausanne",
+   "category": "swimming",
+   "lat": 46.5341625,
+   "lon": 6.6292512
+  },
+  {
+   "id": "plage-d-allaman",
+   "title": "Plage d'Allaman",
+   "city": "Allaman",
+   "category": "swimming",
+   "lat": 46.4644378,
+   "lon": 6.3839673
+  },
+  {
+   "id": "plage-de-buchillon",
+   "title": "Plage de Buchillon",
+   "city": "Buchillon",
+   "category": "swimming",
+   "lat": 46.4684969,
+   "lon": 6.4212842
+  },
+  {
+   "id": "plage-de-concise",
+   "title": "Plage de Concise",
+   "city": "Concise",
+   "category": "swimming",
+   "lat": 46.8480432,
+   "lon": 6.7185946
+  },
+  {
+   "id": "plage-de-corcelettes-les-pins",
+   "title": "Plage de Corcelettes / Les Pins",
+   "city": "Grandson",
+   "category": "swimming",
+   "lat": 46.8199587,
+   "lon": 6.6737276
+  },
+  {
+   "id": "plage-de-crans",
+   "title": "Plage de Crans",
+   "city": "Crans (VD)",
+   "category": "swimming",
+   "lat": 46.3609409,
+   "lon": 6.2196243
+  },
+  {
+   "id": "plage-de-founex",
+   "title": "Plage de Founex",
+   "city": "Founex",
+   "category": "swimming",
+   "lat": 46.3331225,
+   "lon": 6.202717
+  },
+  {
+   "id": "plage-de-goncerut",
+   "title": "Plage de Goncerut",
+   "city": "Yvonand",
+   "category": "swimming",
+   "lat": 46.8056916,
+   "lon": 6.7430397
+  },
+  {
+   "id": "plage-de-grandvaux",
+   "title": "Plage de Grandvaux",
+   "city": "Bourg-en-Lavaux",
+   "category": "swimming",
+   "lat": 46.4900392,
+   "lon": 6.7153777
+  },
+  {
+   "id": "plage-de-l-ancien-stand",
+   "title": "Plage de l'Ancien Stand",
+   "city": "Tolochenaz",
+   "category": "swimming",
+   "lat": 46.4967325,
+   "lon": 6.4829074
+  },
+  {
+   "id": "plage-de-la-budaz",
+   "title": "Plage de la Budaz",
+   "city": "Bourg-en-Lavaux",
+   "category": "swimming",
+   "lat": 46.4885882,
+   "lon": 6.7457128
+  },
+  {
+   "id": "plage-de-la-dullive",
+   "title": "Plage de La Dullive",
+   "city": "Dully",
+   "category": "swimming",
+   "lat": 46.4245744,
+   "lon": 6.2970744
+  },
+  {
+   "id": "plage-de-la-petite-amerique",
+   "title": "Plage de la petite Amérique",
+   "city": "Yvonand",
+   "category": "swimming",
+   "lat": 46.8027173,
+   "lon": 6.7553697
+  },
+  {
+   "id": "plage-de-la-piquettaz",
+   "title": "Plage de la Piquettaz",
+   "city": "Bourg-en-Lavaux",
+   "category": "swimming",
+   "lat": 46.4878863,
+   "lon": 6.7474834
+  },
+  {
+   "id": "plage-de-moratel",
+   "title": "Plage de Moratel",
+   "city": "Bourg-en-Lavaux",
+   "category": "swimming",
+   "lat": 46.4889234,
+   "lon": 6.7413857
+  },
+  {
+   "id": "plage-de-perroy",
+   "title": "Plage de Perroy",
+   "city": "Perroy",
+   "category": "swimming",
+   "lat": 46.4625856,
+   "lon": 6.3610846
+  },
+  {
+   "id": "plage-de-promenthoux",
+   "title": "Plage de Promenthoux",
+   "city": "Prangins",
+   "category": "swimming",
+   "lat": 46.3924342,
+   "lon": 6.2652481
+  },
+  {
+   "id": "plage-de-rolle",
+   "title": "Plage de Rolle",
+   "city": "Rolle",
+   "category": "swimming",
+   "lat": 46.4613446,
+   "lon": 6.350421
+  },
+  {
+   "id": "plage-de-shiraz",
+   "title": "Plage de Shiraz",
+   "city": "Pully",
+   "category": "swimming",
+   "lat": 46.5055864,
+   "lon": 6.6472102
+  },
+  {
+   "id": "plage-de-st-saphorin",
+   "title": "Plage de St-Saphorin",
+   "city": "Saint-Saphorin (Lavaux)",
+   "category": "swimming",
+   "lat": 46.4721608,
+   "lon": 6.7981409
+  },
+  {
+   "id": "plage-de-villette",
+   "title": "Plage de Villette",
+   "city": "Bourg-en-Lavaux",
+   "category": "swimming",
+   "lat": 46.4930057,
+   "lon": 6.7100879
+  },
+  {
+   "id": "plage-des-peicheurs",
+   "title": "Plage des peicheurs",
+   "city": "Buchillon",
+   "category": "swimming",
+   "lat": 46.4692281,
+   "lon": 6.4242348
+  },
+  {
+   "id": "plage-des-pierrettes",
+   "title": "Plage des Pierrettes",
+   "city": "Saint-Sulpice",
+   "category": "swimming",
+   "lat": 46.5152576,
+   "lon": 6.5758267
+  },
+  {
+   "id": "plage-des-pins",
+   "title": "Plage des Pins",
+   "city": "Yvonand",
+   "category": "swimming",
+   "lat": 46.805564,
+   "lon": 6.7362081
+  },
+  {
+   "id": "plage-des-rives-du-lac",
+   "title": "Plage des Rives du Lac",
+   "city": "Pully",
+   "category": "swimming",
+   "lat": 46.5056965,
+   "lon": 6.6521599
+  },
+  {
+   "id": "plage-des-rocailles",
+   "title": "Plage des Rocailles",
+   "city": "Coppet",
+   "category": "swimming",
+   "lat": 46.3198223,
+   "lon": 6.197248
+  },
+  {
+   "id": "plage-du-boiron",
+   "title": "Plage du Boiron",
+   "city": "Le Léman (VD)",
+   "category": "swimming",
+   "lat": 46.4913569,
+   "lon": 6.4804737
+  },
+  {
+   "id": "plage-du-port-du-vieux-stand",
+   "title": "Plage du port du Vieux-Stand",
+   "city": "Lutry",
+   "category": "swimming",
+   "lat": 46.5039048,
+   "lon": 6.6776412
+  },
+  {
+   "id": "plage-du-vd8",
+   "title": "Plage du VD8",
+   "city": "Cheseaux-Noréaz",
+   "category": "swimming",
+   "lat": 46.8042779,
+   "lon": 6.7140447
+  },
+  {
+   "id": "plage-haldimand-rives-du-lac",
+   "title": "Plage Haldimand - Rives du Lac",
+   "city": "Pully",
+   "category": "swimming",
+   "lat": 46.5049522,
+   "lon": 6.6433369
+  },
+  {
+   "id": "plage-publique",
+   "title": "Plage publique",
+   "city": "Bourg-en-Lavaux",
+   "category": "swimming",
+   "lat": 46.4940534,
+   "lon": 6.7082458
+  },
+  {
+   "id": "pointe-de-promenthoux",
+   "title": "Pointe de Promenthoux",
+   "city": "Prangins",
+   "category": "swimming",
+   "lat": 46.3900473,
+   "lon": 6.2740925
+  },
+  {
+   "id": "salavaux-plage",
+   "title": "Salavaux Plage",
+   "city": "Vully-les-Lacs",
+   "category": "swimming",
+   "lat": 46.9148074,
+   "lon": 7.0349025
+  },
+  {
+   "id": "tobogan-du-rocheray",
+   "title": "Tobogan du Rocheray",
+   "city": "Le Chenit",
+   "category": "swimming",
+   "lat": 46.6186972,
+   "lon": 6.2468644
+  },
+  {
+   "id": "villeneuve-plage-riviera",
+   "title": "Villeneuve Plage (Riviera)",
+   "city": null,
+   "category": "swimming",
+   "lat": 46.4026169,
+   "lon": 6.9255974
+  },
+  {
+   "id": "zone-de-baignade-du-vieux-port-d-ouchy",
+   "title": "Zone de baignade du Vieux-Port d'Ouchy",
+   "city": "Lausanne",
+   "category": "swimming",
+   "lat": 46.5065791,
+   "lon": 6.6292422
+  },
+  {
+   "id": "signal-de-bougy",
+   "title": "Signal de Bougy",
+   "city": "Bougy-Villars",
+   "category": "playground",
+   "lat": 46.487027,
+   "lon": 6.357185
+  },
+  {
+   "id": "grottes-de-vallorbe",
+   "title": "Grottes de Vallorbe",
+   "city": "Vallorbe",
+   "category": "nature",
+   "lat": 46.698266,
+   "lon": 6.345634
+  },
+  {
+   "id": "chateau-de-chillon",
+   "title": "Château de Chillon",
+   "city": "Veytaux",
+   "category": "museum",
+   "lat": 46.41417,
+   "lon": 6.9275
+  },
+  {
+   "id": "chateau-de-grandson",
+   "title": "Château de Grandson",
+   "city": "Grandson",
+   "category": "museum",
+   "lat": 46.8095,
+   "lon": 6.6467
+  },
+  {
+   "id": "chateau-d-oron",
+   "title": "Château d'Oron",
+   "city": "Oron",
+   "category": "museum",
+   "lat": 46.5745226,
+   "lon": 6.8371975
+  },
+  {
+   "id": "chateau-d-aigle",
+   "title": "Château d'Aigle – Musée de la vigne, du vin et de l'étiquette",
+   "city": "Aigle",
+   "category": "museum",
+   "lat": 46.315,
+   "lon": 6.97611
+  },
+  {
+   "id": "parc-des-diables-les-diablerets",
+   "title": "Parc des Diables (accrobranche)",
+   "city": "Ormont-Dessus",
+   "category": "sport",
+   "lat": 46.338604,
+   "lon": 7.164391
+  },
+  {
+   "id": "parc-aventure-st-george",
+   "title": "Parc Aventure St-George",
+   "city": "Saint-George",
+   "category": "sport",
+   "lat": 46.519047,
+   "lon": 6.261529
+  },
+  {
+   "id": "lac-de-bretaye",
+   "title": "Lac de Bretaye",
+   "city": "Ollon",
+   "category": "nature",
+   "lat": 46.32194,
+   "lon": 7.07361
+  },
+  {
+   "id": "piscine-de-montchoisi",
+   "title": "Piscine de Montchoisi",
+   "city": "Lausanne",
+   "category": "swimming",
+   "lat": 46.510606,
+   "lon": 6.634165
+  },
+  {
+   "id": "pistes-de-luge-de-frience",
+   "title": "Pistes de luge de Frience",
+   "city": "Gryon",
+   "category": "winter",
+   "lat": 46.288279,
+   "lon": 7.101784
+  },
+  {
+   "id": "telebob-les-pleiades",
+   "title": "Piste de luge des Pléiades (Télébob)",
+   "city": "Blonay - Saint-Légier",
+   "category": "winter",
+   "lat": 46.485338,
+   "lon": 6.919077
+  },
+  {
+   "id": "patinoire-des-eaux-minerales-morges",
+   "title": "Patinoire des Eaux-Minérales",
+   "city": "Morges",
+   "category": "winter",
+   "lat": 46.511797,
+   "lon": 6.487874
+  },
+  {
+   "id": "patinoire-des-diablerets",
+   "title": "Patinoire des Diablerets",
+   "city": "Ormont-Dessus",
+   "category": "winter",
+   "lat": 46.34757,
+   "lon": 7.157237
+  },
+  {
+   "id": "lavaux-express",
+   "title": "Lavaux Express",
+   "city": "Lutry",
+   "category": "train_boat",
+   "lat": 46.501876,
+   "lon": 6.683992
+  },
+  {
+   "id": "petit-train-touristique-morges",
+   "title": "Petit train touristique de Morges",
+   "city": "Morges",
+   "category": "train_boat",
+   "lat": 46.507182,
+   "lon": 6.497817
+  },
+  {
+   "id": "zoo-des-marecottes",
+   "title": "Zoo alpin des Marécottes",
+   "city": "Salvan",
+   "category": "animals",
+   "lat": 46.1098842,
+   "lon": 7.0099572
+  },
+  {
+   "id": "parc-du-soleil-leysin",
+   "title": "Parc du Soleil",
+   "city": "Leysin",
+   "category": "playground",
+   "lat": 46.359415,
+   "lon": 7.002455
+  },
+  {
+   "id": "maison-du-gruyere",
+   "title": "La Maison du Gruyère",
+   "city": "Gruyères",
+   "category": "museum",
+   "lat": 46.582208,
+   "lon": 7.07282
+  },
+  {
+   "id": "gryon-parc",
+   "title": "Gryon Parc",
+   "city": "Gryon",
+   "category": "playground",
+   "lat": 46.282465,
+   "lon": 7.070775
+  },
+  {
+   "id": "parc-a-biches-leysin",
+   "title": "Parc à biches de Leysin",
+   "city": "Leysin",
+   "category": "animals",
+   "lat": 46.340834,
+   "lon": 7.023429
+  },
+  {
+   "id": "pedalino-vidy",
+   "title": "Pedalino – location de pédalos",
+   "city": "Lausanne",
+   "category": "sport",
+   "lat": 46.51737,
+   "lon": 6.595745
+  },
+  {
+   "id": "passion-nautique-petit-bois-morges",
+   "title": "Passion Nautique – Base du Petit-Bois",
+   "city": "Morges",
+   "category": "sport",
+   "lat": 46.502327,
+   "lon": 6.487286
+  },
+  {
+   "id": "bowling-du-parc-chateau-d-oex",
+   "title": "Bowling du Parc",
+   "city": "Château-d'Oex",
+   "category": "sport",
+   "lat": 46.47401,
+   "lon": 7.126307
+  },
+  {
+   "id": "patinoire-de-villars",
+   "title": "Patinoire de Villars",
+   "city": "Ollon",
+   "category": "winter",
+   "lat": 46.298442,
+   "lon": 7.051939
+  },
+  {
+   "id": "tobogganing-park-leysin",
+   "title": "Tobogganing Park Leysin",
+   "city": "Leysin",
+   "category": "winter",
+   "lat": 46.34105,
+   "lon": 7.021281
+  },
+  {
+   "id": "chateau-de-gruyeres",
+   "title": "Château de Gruyères",
+   "city": "Gruyères",
+   "category": "museum",
+   "lat": 46.5846,
+   "lon": 7.0835
+  },
+  {
+   "id": "lac-lioson",
+   "title": "Lac Lioson",
+   "city": "Ormont-Dessous",
+   "category": "nature",
+   "lat": 46.386349,
+   "lon": 7.128998
+  },
+  {
+   "id": "lac-retaud",
+   "title": "Lac Retaud",
+   "city": "Ormont-Dessus",
+   "category": "nature",
+   "lat": 46.360161,
+   "lon": 7.19902
+  },
+  {
+   "id": "natureum-jardin-botanique-lausanne",
+   "title": "Jardin botanique de Lausanne (Naturéum)",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.513411,
+   "lon": 6.6226855
+  },
+  {
+   "id": "parc-aventure-aigle",
+   "title": "Parc Aventure Aigle",
+   "city": "Aigle",
+   "category": "sport",
+   "lat": 46.316386,
+   "lon": 6.987736
+  },
+  {
+   "id": "parc-aventure-signal-de-bougy",
+   "title": "Parc Aventure Signal de Bougy",
+   "city": "Bougy-Villars",
+   "category": "sport",
+   "lat": 46.486811,
+   "lon": 6.3575
+  },
+  {
+   "id": "jardins-chateau-de-vullierens",
+   "title": "Jardins du Château de Vullierens (Jardin des Iris)",
+   "city": "Vullierens",
+   "category": "nature",
+   "lat": 46.570341,
+   "lon": 6.477932
+  },
+  {
+   "id": "chemin-de-fer-musee-blonay-chamby",
+   "title": "Chemin de fer-musée Blonay-Chamby",
+   "city": "Blonay - Saint-Légier",
+   "category": "train_boat",
+   "lat": 46.465201,
+   "lon": 6.89623
+  },
+  {
+   "id": "centre-pro-natura-champ-pittet",
+   "title": "Centre Pro Natura de Champ-Pittet",
+   "city": "Cheseaux-Noréaz",
+   "category": "nature",
+   "lat": 46.7828,
+   "lon": 6.6641
+  },
+  {
+   "id": "bois-de-chenes-genolier",
+   "title": "Réserve naturelle du Bois de Chênes",
+   "city": "Genolier",
+   "category": "nature",
+   "lat": 46.436656,
+   "lon": 6.2368
+  },
+  {
+   "id": "alpine-coaster-glacier-3000",
+   "title": "Alpine Coaster – Glacier 3000",
+   "city": "Ormont-Dessus",
+   "category": "sport",
+   "lat": 46.3538235,
+   "lon": 7.2054773
+  },
+  {
+   "id": "swiss-vapeur-parc",
+   "title": "Swiss Vapeur Parc",
+   "city": "Le Bouveret (Port-Valais)",
+   "category": "train_boat",
+   "lat": 46.387546,
+   "lon": 6.860766
+  },
+  {
+   "id": "aquaparc-le-bouveret",
+   "title": "Aquaparc",
+   "city": "Le Bouveret (Port-Valais)",
+   "category": "swimming",
+   "lat": 46.389522,
+   "lon": 6.862502
+  },
+  {
+   "id": "papiliorama",
+   "title": "Papiliorama",
+   "city": "Kerzers (Chiètres)",
+   "category": "animals",
+   "lat": 46.989063,
+   "lon": 7.200128
+  },
+  {
+   "id": "cgn-bateaux-leman-lausanne-ouchy",
+   "title": "Bateaux CGN – embarcadère de Lausanne-Ouchy",
+   "city": "Lausanne",
+   "category": "train_boat",
+   "lat": 46.5053207,
+   "lon": 6.6274141
+  },
+  {
+   "id": "train-montreux-rochers-de-naye",
+   "title": "Train à crémaillère Montreux – Rochers-de-Naye",
+   "city": "Montreux",
+   "category": "train_boat",
+   "lat": 46.432189,
+   "lon": 6.977775
+  },
+  {
+   "id": "piscine-de-bellerive-lausanne",
+   "title": "Piscine de Bellerive-Plage",
+   "city": "Lausanne",
+   "category": "swimming",
+   "lat": 46.5117057,
+   "lon": 6.6167391
+  },
+  {
+   "id": "piscine-de-mon-repos-lausanne",
+   "title": "Piscine couverte de Mon-Repos",
+   "city": "Lausanne",
+   "category": "swimming",
+   "lat": 46.5200631,
+   "lon": 6.6403895
+  },
+  {
+   "id": "patinoire-de-montchoisi",
+   "title": "Patinoire de Montchoisi",
+   "city": "Lausanne",
+   "category": "winter",
+   "lat": 46.510606,
+   "lon": 6.634165
+  },
+  {
+   "id": "minigolf-bellerive-lausanne",
+   "title": "Minigolf de Bellerive",
+   "city": "Lausanne",
+   "category": "sport",
+   "lat": 46.5118063,
+   "lon": 6.6119242
+  },
+  {
+   "id": "centre-aquatique-vaudoise-arena",
+   "title": "Centre aquatique de la Vaudoise aréna",
+   "city": "Prilly",
+   "category": "swimming",
+   "lat": 46.5285853,
+   "lon": 6.5999575
+  },
+  {
+   "id": "aquasplash-renens",
+   "title": "AquaSplash – Piscine de Renens",
+   "city": "Renens",
+   "category": "swimming",
+   "lat": 46.5300807,
+   "lon": 6.5848727
+  },
+  {
+   "id": "jumpark-yverdon",
+   "title": "Jumpark – Trampoline indoor",
+   "city": "Yverdon-les-Bains",
+   "category": "sport",
+   "lat": 46.787671,
+   "lon": 6.629446
+  },
+  {
+   "id": "jumpland-aigle",
+   "title": "Jumpland & Laserland",
+   "city": "Aigle",
+   "category": "sport",
+   "lat": 46.301275,
+   "lon": 6.944785
+  },
+  {
+   "id": "les-pleiades",
+   "title": "Les Pléiades (train et sentier Astropléiades)",
+   "city": "Blonay - Saint-Légier",
+   "category": "nature",
+   "lat": 46.483182,
+   "lon": 6.909765
+  },
+  {
+   "id": "piscine-vevey-corseaux-plage",
+   "title": "Piscine de Vevey-Corseaux Plage",
+   "city": "Corseaux",
+   "category": "swimming",
+   "lat": 46.468045,
+   "lon": 6.833029
+  },
+  {
+   "id": "piscine-du-parc-morges",
+   "title": "Piscine du Parc",
+   "city": "Morges",
+   "category": "swimming",
+   "lat": 46.504112,
+   "lon": 6.493219
+  },
+  {
+   "id": "patinoire-yverdon-les-bains",
+   "title": "Patinoire couverte d'Yverdon-les-Bains",
+   "city": "Yverdon-les-Bains",
+   "category": "winter",
+   "lat": 46.7834881,
+   "lon": 6.6456304
+  },
+  {
+   "id": "patinoire-des-3-vallons-vallorbe",
+   "title": "Patinoire couverte des 3 Vallons",
+   "city": "Vallorbe",
+   "category": "winter",
+   "lat": 46.709051,
+   "lon": 6.373705
+  },
+  {
+   "id": "minigolf-de-montreux",
+   "title": "Minigolf de Montreux",
+   "city": "Montreux",
+   "category": "sport",
+   "lat": 46.437389,
+   "lon": 6.907438
+  },
+  {
+   "id": "minigolf-de-villeneuve",
+   "title": "Minigolf de Villeneuve",
+   "city": "Villeneuve (VD)",
+   "category": "sport",
+   "lat": 46.395522,
+   "lon": 6.921536
+  },
+  {
+   "id": "labyrinthe-aventure-evionnaz",
+   "title": "Labyrinthe Aventure",
+   "city": "Evionnaz",
+   "category": "playground",
+   "lat": 46.16917,
+   "lon": 7.0258
+  },
+  {
+   "id": "tour-du-lac-de-bret",
+   "title": "Lac de Bret (tour du lac)",
+   "city": "Puidoux",
+   "category": "nature",
+   "lat": 46.518894,
+   "lon": 6.775364
+  },
+  {
+   "id": "museum-histoire-naturelle-geneve",
+   "title": "Muséum d'histoire naturelle de Genève",
+   "city": "Genève",
+   "category": "museum",
+   "lat": 46.19944,
+   "lon": 6.15806
+  },
+  {
+   "id": "maison-cailler-broc",
+   "title": "Maison Cailler",
+   "city": "Broc",
+   "category": "museum",
+   "lat": 46.6069004,
+   "lon": 7.1087085
+  },
+  {
+   "id": "plage-du-pont-lac-de-joux",
+   "title": "Plage du Pont (lac de Joux)",
+   "city": "L'Abbaye",
+   "category": "swimming",
+   "lat": 46.667228,
+   "lon": 6.328692
+  },
+  {
+   "id": "plage-du-lac-brenet",
+   "title": "Plage du lac Brenet",
+   "city": "Les Charbonnières",
+   "category": "swimming",
+   "lat": 46.670502,
+   "lon": 6.318019
+  },
+  {
+   "id": "base-nautique-altitude-1004",
+   "title": "Base nautique Altitude 1004",
+   "city": "L'Abbaye",
+   "category": "sport",
+   "lat": 46.620961,
+   "lon": 6.265109
+  },
+  {
+   "id": "gorges-du-chauderon",
+   "title": "Gorges du Chauderon",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.430731,
+   "lon": 6.91218
+  },
+  {
+   "id": "sentier-handicap-et-nature-villars-tiercelin",
+   "title": "Sentier Handicap et Nature",
+   "city": "Villars-Tiercelin",
+   "category": "nature",
+   "lat": 46.614932,
+   "lon": 6.728664
+  },
+  {
+   "id": "chemin-des-fontaines-des-bois-du-jorat",
+   "title": "Chemin des fontaines des bois du Jorat",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.564759,
+   "lon": 6.692615
+  },
+  {
+   "id": "boucle-du-chalet-des-enfants",
+   "title": "Boucle du Chalet-des-Enfants",
+   "city": "Le Mont-sur-Lausanne",
+   "category": "nature",
+   "lat": 46.575219,
+   "lon": 6.666388
+  },
+  {
+   "id": "sentier-de-l-etang-de-la-bressonne",
+   "title": "Sentier de l'Étang de la Bressonne",
+   "city": "Lausanne",
+   "category": "nature",
+   "lat": 46.564759,
+   "lon": 6.692615
+  },
+  {
+   "id": "cully-epesses-rivaz",
+   "title": "Cully – Epesses – Rivaz",
+   "city": "Bourg-en-Lavaux",
+   "category": "nature",
+   "lat": 46.487495,
+   "lon": 6.731628
+  },
+  {
+   "id": "lutry-grandvaux-lutry",
+   "title": "Lutry – Grandvaux – Lutry",
+   "city": "Lutry",
+   "category": "nature",
+   "lat": 46.501518,
+   "lon": 6.684133
+  },
+  {
+   "id": "chexbres-rivaz-st-saphorin-chexbres",
+   "title": "Chexbres – Rivaz – St-Saphorin – Chexbres",
+   "city": "Chexbres",
+   "category": "nature",
+   "lat": 46.481312,
+   "lon": 6.779909
+  },
+  {
+   "id": "montreux-villeneuve-sans-obstacles",
+   "title": "Montreux – Villeneuve (sans obstacles)",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.436165,
+   "lon": 6.909858
+  },
+  {
+   "id": "les-grangettes-villeneuve",
+   "title": "Les Grangettes",
+   "city": "Villeneuve",
+   "category": "nature",
+   "lat": 46.398293,
+   "lon": 6.926451
+  },
+  {
+   "id": "sentier-de-l-ermite-les-pleiades",
+   "title": "Sentier de l'Ermite",
+   "city": "Blonay – Saint-Légier",
+   "category": "nature",
+   "lat": 46.485804,
+   "lon": 6.920045
+  },
+  {
+   "id": "circuit-de-prantin",
+   "title": "Circuit de Prantin",
+   "city": "Blonay – Saint-Légier",
+   "category": "nature",
+   "lat": 46.479797,
+   "lon": 6.914072
+  },
+  {
+   "id": "sentier-des-narcisses-haut-de-caux",
+   "title": "Sentier des narcisses, Haut-de-Caux",
+   "city": "Montreux",
+   "category": "nature",
+   "lat": 46.43396,
+   "lon": 6.946069
+  },
+  {
+   "id": "mont-pelerin-funiculaire-plein-ciel",
+   "title": "Mont-Pèlerin",
+   "city": "Chardonne",
+   "category": "nature",
+   "lat": 46.482087,
+   "lon": 6.831601
+  },
+  {
+   "id": "sentier-du-renardeau-villars",
+   "title": "Le sentier du Renardeau",
+   "city": "Ollon (Villars-sur-Ollon)",
+   "category": "nature",
+   "lat": 46.296527,
+   "lon": 7.059367
+  },
+  {
+   "id": "gorges-de-l-avancon-frenieres-pont-de-nant",
+   "title": "Les gorges de l'Avançon",
+   "city": "Bex",
+   "category": "nature",
+   "lat": 46.256133,
+   "lon": 7.074618
+  },
+  {
+   "id": "balade-au-lac-des-chavonnes-depuis-bretaye",
+   "title": "Balade au lac des Chavonnes",
+   "city": "Ollon (Bretaye)",
+   "category": "nature",
+   "lat": 46.32194,
+   "lon": 7.07361
+  },
+  {
+   "id": "sentier-didactique-du-lac-brenet",
+   "title": "Sentier didactique du lac Brenet",
+   "city": "L'Abbaye (Le Pont)",
+   "category": "nature",
+   "lat": 46.668228,
+   "lon": 6.324537
+  },
+  {
+   "id": "sentier-didactique-du-bois-de-resonance-du-risoud",
+   "title": "Sentier didactique du bois de résonance du Risoud",
+   "city": "Le Chenit (Le Brassus)",
+   "category": "nature",
+   "lat": 46.584066,
+   "lon": 6.184883
+  },
+  {
+   "id": "sentier-decouverte-les-arbres-entre-visible-et-invisible",
+   "title": "Sentier découverte « Les arbres, entre visible et invisible »",
+   "city": "Le Chenit (Le Brassus)",
+   "category": "nature",
+   "lat": 46.571649,
+   "lon": 6.165163
+  },
+  {
+   "id": "sentier-didactique-du-chemin-de-saint-norbert",
+   "title": "Sentier didactique du chemin de Saint-Norbert",
+   "city": "L'Abbaye",
+   "category": "nature",
+   "lat": 46.64976,
+   "lon": 6.3194
+  },
+  {
+   "id": "sentier-du-sapin-a-simeon",
+   "title": "Sentier du Sapin à Siméon",
+   "city": "Gimel (col du Marchairuz)",
+   "category": "nature",
+   "lat": 46.552643,
+   "lon": 6.250123
+  },
+  {
+   "id": "sentier-de-la-fourmi-des-bois",
+   "title": "Sentier de la Fourmi des bois",
+   "city": "Saint-George (col du Marchairuz)",
+   "category": "nature",
+   "lat": 46.552643,
+   "lon": 6.250123
+  },
+  {
+   "id": "la-ballade-a-beatrix-st-cergue",
+   "title": "La Ballade à Béatrix",
+   "city": "Saint-Cergue",
+   "category": "nature",
+   "lat": 46.44452,
+   "lon": 6.157712
+  },
+  {
+   "id": "sentier-des-alpages-bassins",
+   "title": "Le sentier des Alpages – Bassins",
+   "city": "Bassins",
+   "category": "nature",
+   "lat": 46.479904,
+   "lon": 6.195822
+  },
+  {
+   "id": "biere-balade-des-ruisseaux",
+   "title": "Bière – Balade des ruisseaux",
+   "city": "Bière",
+   "category": "nature",
+   "lat": 46.537416,
+   "lon": 6.333371
+  },
+  {
+   "id": "l-isle-sources-de-la-venoge",
+   "title": "L'Isle – Sources de la Venoge",
+   "city": "L'Isle",
+   "category": "nature",
+   "lat": 46.619246,
+   "lon": 6.41156
+  },
+  {
+   "id": "sentier-des-toblerones",
+   "title": "Sentier des Toblerones",
+   "city": "Bassins",
+   "category": "nature",
+   "lat": 46.460622,
+   "lon": 6.222619
+  },
+  {
+   "id": "sentier-des-chataignes-luins-vinzel-bursins",
+   "title": "Le Sentier des Châtaignes",
+   "city": "Luins / Vinzel / Bursins",
+   "category": "nature",
+   "lat": 46.456436,
+   "lon": 6.289043
+  },
+  {
+   "id": "sentier-des-pierres-burtigny",
+   "title": "Le sentier des Pierres – Burtigny",
+   "city": "Burtigny",
+   "category": "nature",
+   "lat": 46.477394,
+   "lon": 6.269881
+  },
+  {
+   "id": "sentier-du-bois-des-ages-prangins",
+   "title": "Le Sentier du Bois des Âges – Prangins",
+   "city": "Prangins",
+   "category": "nature",
+   "lat": 46.398338,
+   "lon": 6.269358
+  },
+  {
+   "id": "promenade-du-littoral-de-morges-sans-obstacles",
+   "title": "Promenade du littoral de Morges – chemin sans obstacles",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.505114,
+   "lon": 6.495598
+  },
+  {
+   "id": "balade-pour-les-enfants-et-familles-morges",
+   "title": "Balade pour les enfants et familles (Morges)",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.509234,
+   "lon": 6.498409
+  },
+  {
+   "id": "balade-des-arbres-a-morges",
+   "title": "Balade des arbres à Morges : Parc des Sports et Parc de l'Indépendance",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.505114,
+   "lon": 6.495598
+  },
+  {
+   "id": "sentier-de-la-truite-morges-st-prex",
+   "title": "Sentier de la Truite",
+   "city": "Morges",
+   "category": "nature",
+   "lat": 46.502327,
+   "lon": 6.487286
+  },
+  {
+   "id": "sentier-du-bois-de-la-cote-echandens",
+   "title": "Le sentier du Bois de la Côte – Echandens",
+   "city": "Echandens",
+   "category": "nature",
+   "lat": 46.542307,
+   "lon": 6.54684
+  },
+  {
+   "id": "voyage-au-milieu-du-monde-la-sarraz",
+   "title": "Voyage au Milieu du Monde",
+   "city": "La Sarraz",
+   "category": "nature",
+   "lat": 46.66173,
+   "lon": 6.508495
+  },
+  {
+   "id": "chasse-au-tresor-avenches",
+   "title": "Chasse au Trésor Avenches",
+   "city": "Avenches",
+   "category": "nature",
+   "lat": 46.884366,
+   "lon": 7.040633
+  }
+ ]
+}

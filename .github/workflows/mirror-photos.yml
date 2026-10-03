@@ -1,0 +1,22 @@
+name: Copier les photos
+on:
+  push:
+    paths: ["photos-manifest.json", "scripts/mirror_photos.py", ".github/workflows/mirror-photos.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pillow
+      - run: python scripts/mirror_photos.py
+      - name: Enregistrer
+        run: |
+          git config user.name "lupetti-bot"
+          git config user.email "noreply@lupetti.ch"
+          git add docs/photos
+          git diff --cached --quiet || (git commit -m "Photos : copie depuis Wikimedia Commons" && git push)

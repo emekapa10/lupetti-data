@@ -15,6 +15,22 @@
      "type": "restaurant"
     }
    ]
+  },
+  {
+   "id": "curated:ferme-aux-cretegny-bussy-chardonney",
+   "q": "Route de Chardonney 2, 1136 Bussy-Chardonney",
+   "name": "Ferme aux Crétegny",
+   "city": "Bussy-Chardonney",
+   "results": [
+    {
+     "lat": "46.5314197",
+     "lon": "6.4382214",
+     "name": "",
+     "display": "2, Route de Chardonney, Bussy-Chardonney, Hautemorges, District de Morges, Vaud, 1136, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/12566096895",
+     "type": "house"
+    }
+   ]
   }
  ]
 }

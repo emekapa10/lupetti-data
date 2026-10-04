@@ -1,0 +1,19 @@
+name: Coordonnées OSM
+on:
+  workflow_dispatch:
+  push:
+    paths: [geocode/queries.json, scripts/geocode.py]
+permissions:
+  contents: write
+jobs:
+  geocode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/geocode.py
+      - run: |
+          git config user.name lupetti-bot
+          git config user.email lupetti-bot@users.noreply.github.com
+          git add geocode
+          git diff --cached --quiet || git commit -m "Coordonnées OSM"
+          git pull --rebase && git push

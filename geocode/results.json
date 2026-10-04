@@ -1,46 +1,34 @@
 {
  "results": [
   {
-   "id": "curated:restaurant-les-fers-leysin",
-   "q": "Restaurant les Fers, Route des Fers 26, 1854 Leysin",
-   "name": "Restaurant les Fers",
-   "city": "Leysin",
-   "results": []
-  },
-  {
-   "id": "curated:restaurant-du-col-de-soud-villars",
-   "q": "Restaurant du Col de Soud, Col de Soud, 1884 Villars-sur-Ollon",
-   "name": "Restaurant du Col de Soud",
-   "city": "Ollon",
-   "results": []
-  },
-  {
-   "id": "curated:restaurant-du-lac-des-chavonnes-ormont-dessous",
-   "q": "Restaurant du Lac des Chavonnes, 1863 Ormont-Dessous",
-   "name": "Restaurant du Lac des Chavonnes",
-   "city": "Ormont-Dessous",
-   "results": []
-  },
-  {
-   "id": "curated:buvette-du-funpark-les-diablerets",
-   "q": "Buvette du Funpark, Les Isles, 1865 Les Diablerets",
-   "name": "Buvette du Funpark",
-   "city": "Ormont-Dessus",
-   "results": []
-  },
-  {
-   "id": "curated:chez-gipsy-gryon",
-   "q": "Chez Gipsy, Route des Chaux 39, 1882 Gryon",
-   "name": "Chez Gipsy",
-   "city": "Gryon",
+   "id": "curated:marche-vaney-cugy",
+   "q": "Rue du Village 32, 1053 Cugy",
+   "name": "Marché Vaney",
+   "city": "Cugy VD",
    "results": [
     {
-     "lat": "46.2955404",
-     "lon": "7.1031598",
-     "name": "Chez Gipsy",
-     "display": "Chez Gipsy, 39, Route des Chaux, Frience, Gryon, District d'Aigle, Vaud, 1882, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/338856931",
-     "type": "restaurant"
+     "lat": "46.5804703",
+     "lon": "6.6406718",
+     "name": "",
+     "display": "32, Rue du Village, Cugy, District du Gros-de-Vaud, Vaud, 1053, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/319063479",
+     "type": "residential"
+    },
+    {
+     "lat": "46.5805386",
+     "lon": "6.6407298",
+     "name": "Marché à la ferme Vaney",
+     "display": "Marché à la ferme Vaney, 32, Rue du Village, Cugy, District du Gros-de-Vaud, Vaud, 1053, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/11641079222",
+     "type": "marketplace"
+    },
+    {
+     "lat": "46.5805441",
+     "lon": "6.6406598",
+     "name": "Marché à la ferme Vaney",
+     "display": "Marché à la ferme Vaney, 32, Rue du Village, Cugy, District du Gros-de-Vaud, Vaud, 1053, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/11641079221",
+     "type": "farm"
     }
    ]
   }

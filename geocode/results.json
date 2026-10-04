@@ -1,34 +1,18 @@
 {
  "results": [
   {
-   "id": "curated:marche-vaney-cugy",
-   "q": "Rue du Village 32, 1053 Cugy",
-   "name": "Marché Vaney",
-   "city": "Cugy VD",
+   "id": "curated:restaurant-a-la-ferme-cremin",
+   "q": "Chemin des Ecoliers 4, 1526 Cremin",
+   "name": "Restaurant à la Ferme",
+   "city": "Cremin",
    "results": [
     {
-     "lat": "46.5804703",
-     "lon": "6.6406718",
-     "name": "",
-     "display": "32, Rue du Village, Cugy, District du Gros-de-Vaud, Vaud, 1053, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/319063479",
-     "type": "residential"
-    },
-    {
-     "lat": "46.5805386",
-     "lon": "6.6407298",
-     "name": "Marché à la ferme Vaney",
-     "display": "Marché à la ferme Vaney, 32, Rue du Village, Cugy, District du Gros-de-Vaud, Vaud, 1053, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/11641079222",
-     "type": "marketplace"
-    },
-    {
-     "lat": "46.5805441",
-     "lon": "6.6406598",
-     "name": "Marché à la ferme Vaney",
-     "display": "Marché à la ferme Vaney, 32, Rue du Village, Cugy, District du Gros-de-Vaud, Vaud, 1053, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/11641079221",
-     "type": "farm"
+     "lat": "46.7255249",
+     "lon": "6.8425051",
+     "name": "Restaurant à la Ferme",
+     "display": "Restaurant à la Ferme, 4, Chemin des Ecoliers, Cremin, Lucens, District de la Broye-Vully, Vaud, 1526, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/448504925",
+     "type": "restaurant"
     }
    ]
   }

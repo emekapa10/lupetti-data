@@ -3199,6 +3199,830 @@
    "category": "nature",
    "lat": 46.884366,
    "lon": 7.040633
+  },
+  {
+   "id": "curated:restaurant-du-lac-lioson-les-mosses",
+   "title": "Restaurant du Lac Lioson",
+   "city": "Ormont-Dessous",
+   "category": "restaurant",
+   "lat": 46.38766,
+   "lon": 7.1277
+  },
+  {
+   "id": "curated:pinte-du-lac-de-sauvabelin-lausanne",
+   "title": "La Pinte du Lac de Sauvabelin",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.537156,
+   "lon": 6.639014
+  },
+  {
+   "id": "curated:boccalino-ouchy-lausanne",
+   "title": "Boccalino Ouchy",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.507171,
+   "lon": 6.627133
+  },
+  {
+   "id": "curated:tout-un-monde-grandvaux",
+   "title": "Tout un Monde",
+   "city": "Bourg-en-Lavaux",
+   "category": "restaurant",
+   "lat": 46.493199,
+   "lon": 6.716729
+  },
+  {
+   "id": "curated:cafe-restaurant-des-cluds-bullet",
+   "title": "Café-Restaurant des Cluds",
+   "city": "Bullet",
+   "category": "restaurant",
+   "lat": 46.842345,
+   "lon": 6.560209
+  },
+  {
+   "id": "curated:auberge-croix-blanche-lavigny",
+   "title": "Auberge de la Croix-Blanche",
+   "city": "Lavigny",
+   "category": "restaurant",
+   "lat": 46.501433,
+   "lon": 6.404595
+  },
+  {
+   "id": "curated:hotel-de-la-truite-le-pont",
+   "title": "Restaurant de la Truite",
+   "city": "L'Abbaye",
+   "category": "restaurant",
+   "lat": 46.668311,
+   "lon": 6.325435
+  },
+  {
+   "id": "curated:restaurant-signal-de-bougy",
+   "title": "Restaurant du Signal de Bougy",
+   "city": "Bougy-Villars",
+   "category": "restaurant",
+   "lat": 46.484149,
+   "lon": 6.353701
+  },
+  {
+   "id": "curated:juraparc-restaurant-vallorbe",
+   "title": "Restaurant du Juraparc",
+   "city": "Vallorbe",
+   "category": "restaurant",
+   "lat": 46.691936,
+   "lon": 6.340511
+  },
+  {
+   "id": "curated:domaine-de-la-buritaz-puidoux",
+   "title": "Domaine de la Buritaz",
+   "city": "Puidoux",
+   "category": "restaurant",
+   "lat": 46.487498,
+   "lon": 6.805153
+  },
+  {
+   "id": "curated:lacotel-avenches",
+   "title": "Restaurant Lacotel",
+   "city": "Avenches",
+   "category": "restaurant",
+   "lat": 46.900193,
+   "lon": 7.049274
+  },
+  {
+   "id": "curated:restaurant-zoo-de-servion",
+   "title": "Restaurant du Zoo de Servion",
+   "city": "Servion",
+   "category": "restaurant",
+   "lat": 46.565618,
+   "lon": 6.774259
+  },
+  {
+   "id": "curated:la-jessicotte-payerne",
+   "title": "La Jessicotte",
+   "city": "Payerne",
+   "category": "restaurant",
+   "lat": 46.825355,
+   "lon": 6.925691
+  },
+  {
+   "id": "curated:la-vaudaire-lausanne",
+   "title": "La Vaudaire",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.517196,
+   "lon": 6.595437
+  },
+  {
+   "id": "curated:croix-federale-essertes",
+   "title": "La Croix Fédérale",
+   "city": "Oron",
+   "category": "restaurant",
+   "lat": 46.559118,
+   "lon": 6.781722
+  },
+  {
+   "id": "curated:le-1424-fabrique-cornu-champagne",
+   "title": "Le 1424 – La Fabrique Cornu",
+   "city": "Champagne",
+   "category": "restaurant",
+   "lat": 46.827518,
+   "lon": 6.661148
+  },
+  {
+   "id": "curated:restaurant-des-gelinottes-concise",
+   "title": "Restaurant des Gélinottes",
+   "city": "Concise",
+   "category": "restaurant",
+   "lat": 46.874561,
+   "lon": 6.696486
+  },
+  {
+   "id": "curated:restaurant-de-l-aerodrome-yverdon",
+   "title": "Restaurant de l'Aérodrome",
+   "city": "Yverdon-les-Bains",
+   "category": "restaurant",
+   "lat": 46.764911,
+   "lon": 6.615665
+  },
+  {
+   "id": "curated:restaurant-des-quais-grandson",
+   "title": "Restaurant des Quais",
+   "city": "Grandson",
+   "category": "restaurant",
+   "lat": 46.806454,
+   "lon": 6.643283
+  },
+  {
+   "id": "curated:restaurant-le-pecos-grandson",
+   "title": "Restaurant Le Pécos",
+   "city": "Grandson",
+   "category": "restaurant",
+   "lat": 46.803614,
+   "lon": 6.63575
+  },
+  {
+   "id": "curated:le-bras-d-or-mathod",
+   "title": "Le Bras d'Or",
+   "city": "Mathod",
+   "category": "restaurant",
+   "lat": 46.767401,
+   "lon": 6.566173
+  },
+  {
+   "id": "curated:chalet-du-mont-de-la-mayaz-sainte-croix",
+   "title": "Chalet du Mont de la Mayaz",
+   "city": "Sainte-Croix",
+   "category": "restaurant",
+   "lat": 46.845691,
+   "lon": 6.51483
+  },
+  {
+   "id": "curated:buvette-des-cernys-ballaigues",
+   "title": "Chalet des Cernys",
+   "city": "Ballaigues",
+   "category": "restaurant",
+   "lat": 46.745661,
+   "lon": 6.400982
+  },
+  {
+   "id": "curated:chalet-de-la-thiolle-lignerolle",
+   "title": "Chalet de la Thiolle",
+   "city": "Lignerolle",
+   "category": "restaurant",
+   "lat": 46.74745,
+   "lon": 6.425804
+  },
+  {
+   "id": "curated:chalet-la-mathoulaz-rances",
+   "title": "Chalet de la Mathoulaz",
+   "city": "Rances",
+   "category": "restaurant",
+   "lat": 46.766175,
+   "lon": 6.478079
+  },
+  {
+   "id": "curated:chalet-de-grandsonnaz-dessus-bullet",
+   "title": "Chalet de Grandsonnaz-Dessus",
+   "city": "Bullet",
+   "category": "restaurant",
+   "lat": 46.859665,
+   "lon": 6.551673
+  },
+  {
+   "id": "curated:chalet-des-preisettes-bullet",
+   "title": "Chalet d'alpage Les Preisettes",
+   "city": "Bullet",
+   "category": "restaurant",
+   "lat": 46.872481,
+   "lon": 6.564453
+  },
+  {
+   "id": "curated:chalet-restaurant-la-breguettaz-vaulion",
+   "title": "Chalet-restaurant La Breguettaz",
+   "city": "Vaulion",
+   "category": "restaurant",
+   "lat": 46.668015,
+   "lon": 6.366048
+  },
+  {
+   "id": "curated:refuge-de-frience-gryon",
+   "title": "Refuge de Frience",
+   "city": "Gryon",
+   "category": "restaurant",
+   "lat": 46.288279,
+   "lon": 7.103164
+  },
+  {
+   "id": "curated:buvette-des-serpenteys-flendruz",
+   "title": "Buvette des Serpenteys",
+   "city": "Rossinière",
+   "category": "restaurant",
+   "lat": 46.483098,
+   "lon": 7.174741
+  },
+  {
+   "id": "curated:la-casba-sainte-croix",
+   "title": "La Casba",
+   "city": "Sainte-Croix",
+   "category": "restaurant",
+   "lat": 46.834726,
+   "lon": 6.520316
+  },
+  {
+   "id": "curated:auberge-de-sonchaux-veytaux",
+   "title": "Auberge de Sonchaux",
+   "city": "Veytaux",
+   "category": "restaurant",
+   "lat": 46.416186,
+   "lon": 6.948296
+  },
+  {
+   "id": "curated:buvette-des-croisettes-l-abbaye",
+   "title": "Buvette d'alpage Les Croisettes",
+   "city": "L'Abbaye",
+   "category": "restaurant",
+   "lat": 46.640301,
+   "lon": 6.336129
+  },
+  {
+   "id": "curated:buvette-la-chaumette-bassins",
+   "title": "Buvette La Chaumette",
+   "city": "Bassins",
+   "category": "restaurant",
+   "lat": 46.480317,
+   "lon": 6.205467
+  },
+  {
+   "id": "curated:le-pre-aux-veaux-le-brassus",
+   "title": "Le Pré-aux-Veaux",
+   "city": "Le Chenit",
+   "category": "restaurant",
+   "lat": 46.531671,
+   "lon": 6.20609
+  },
+  {
+   "id": "curated:buvette-de-la-dent-de-vaulion",
+   "title": "Buvette de la Dent de Vaulion",
+   "city": "Vaulion",
+   "category": "restaurant",
+   "lat": 46.679855,
+   "lon": 6.350545
+  },
+  {
+   "id": "curated:refuge-de-taveyanne-gryon",
+   "title": "Refuge de Taveyanne",
+   "city": "Gryon",
+   "category": "restaurant",
+   "lat": 46.303976,
+   "lon": 7.122543
+  },
+  {
+   "id": "curated:buvette-de-la-marneche-diablerets",
+   "title": "Buvette de la Marnèche",
+   "city": "Ormont-Dessus",
+   "category": "restaurant",
+   "lat": 46.364082,
+   "lon": 7.186488
+  },
+  {
+   "id": "curated:alpage-du-chalet-vieux-diablerets",
+   "title": "Alpage du Chalet Vieux",
+   "city": "Ormont-Dessus",
+   "category": "restaurant",
+   "lat": 46.36902,
+   "lon": 7.207567
+  },
+  {
+   "id": "curated:chalet-restaurant-de-prafandaz-leysin",
+   "title": "Chalet-Restaurant de Prafandaz",
+   "city": "Leysin",
+   "category": "restaurant",
+   "lat": 46.342072,
+   "lon": 6.99117
+  },
+  {
+   "id": "curated:le-coucou-caux",
+   "title": "Le Coucou",
+   "city": "Montreux",
+   "category": "restaurant",
+   "lat": 46.434075,
+   "lon": 6.945629
+  },
+  {
+   "id": "curated:buvette-du-mont-chesau-puidoux",
+   "title": "Buvette du Mont-Chesau",
+   "city": "Puidoux",
+   "category": "restaurant",
+   "lat": 46.51312,
+   "lon": 6.81665
+  },
+  {
+   "id": "curated:buvette-les-charmilles-l-etivaz",
+   "title": "Buvette Les Charmilles",
+   "city": "Château-d'Oex",
+   "category": "restaurant",
+   "lat": 46.40307,
+   "lon": 7.12945
+  },
+  {
+   "id": "curated:gite-du-mont-des-cerfs-sainte-croix",
+   "title": "Gîte du Mont des Cerfs",
+   "city": "Sainte-Croix",
+   "category": "restaurant",
+   "lat": 46.815725,
+   "lon": 6.482965
+  },
+  {
+   "id": "curated:restaurant-d-alpage-basseruche-st-cergue",
+   "title": "Restaurant d'alpage Basseruche",
+   "city": "Saint-Cergue",
+   "category": "restaurant",
+   "lat": 46.45086,
+   "lon": 6.15202
+  },
+  {
+   "id": "curated:refuge-de-mayen-leysin",
+   "title": "Refuge de Mayen",
+   "city": "Leysin",
+   "category": "restaurant",
+   "lat": 46.366457,
+   "lon": 7.014186
+  },
+  {
+   "id": "curated:le-kuklos-leysin",
+   "title": "Le Kuklos – restaurant tournant",
+   "city": "Leysin",
+   "category": "restaurant",
+   "lat": 46.35968,
+   "lon": 7.00197
+  },
+  {
+   "id": "curated:auberge-du-chalet-des-enfants-lausanne",
+   "title": "Auberge du Chalet-des-Enfants",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.575225,
+   "lon": 6.666375
+  },
+  {
+   "id": "curated:restaurant-la-veranda-morges",
+   "title": "Restaurant La Véranda (camping de Morges)",
+   "city": "Morges",
+   "category": "restaurant",
+   "lat": 46.50456,
+   "lon": 6.489634
+  },
+  {
+   "id": "curated:restaurant-le-leman-morges",
+   "title": "Restaurant Le Léman",
+   "city": "Morges",
+   "category": "restaurant",
+   "lat": 46.507759,
+   "lon": 6.498523
+  },
+  {
+   "id": "curated:au-boeuf-rouge-crassier",
+   "title": "Au Bœuf Rouge",
+   "city": "Crassier",
+   "category": "restaurant",
+   "lat": 46.374399,
+   "lon": 6.163648
+  },
+  {
+   "id": "curated:restaurant-de-l-union-bursins",
+   "title": "Restaurant de l'Union",
+   "city": "Bursins",
+   "category": "restaurant",
+   "lat": 46.453751,
+   "lon": 6.29083
+  },
+  {
+   "id": "curated:restaurant-du-domaine-de-la-sauge-cudrefin",
+   "title": "Restaurant du Domaine de la Sauge",
+   "city": "Cudrefin",
+   "category": "restaurant",
+   "lat": 46.97503,
+   "lon": 7.05434
+  },
+  {
+   "id": "curated:la-folie-voltaire-lausanne",
+   "title": "La Folie Voltaire",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.519353,
+   "lon": 6.642074
+  },
+  {
+   "id": "curated:terrasse-des-grandes-roches-lausanne",
+   "title": "Terrasse des Grandes Roches",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.520065,
+   "lon": 6.636558
+  },
+  {
+   "id": "curated:luigia-lausanne",
+   "title": "Luigia Lausanne",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.51965,
+   "lon": 6.637083
+  },
+  {
+   "id": "curated:luigia-nyon",
+   "title": "Luigia Nyon",
+   "city": "Nyon",
+   "category": "restaurant",
+   "lat": 46.38422,
+   "lon": 6.237234
+  },
+  {
+   "id": "curated:restaurant-hotel-de-ville-ollon",
+   "title": "Restaurant de l'Hôtel-de-Ville",
+   "city": "Ollon",
+   "category": "restaurant",
+   "lat": 46.296945,
+   "lon": 6.99517
+  },
+  {
+   "id": "curated:restaurant-de-la-patinoire-leysin",
+   "title": "Restaurant de la Patinoire",
+   "city": "Leysin",
+   "category": "restaurant",
+   "lat": 46.341164,
+   "lon": 7.01963
+  },
+  {
+   "id": "curated:confiserie-yves-hohl-l-isle",
+   "title": "Confiserie Yves Hohl (tea-room)",
+   "city": "L'Isle",
+   "category": "restaurant",
+   "lat": 46.620247,
+   "lon": 6.41411
+  },
+  {
+   "id": "curated:restaurant-camping-plage-avenches",
+   "title": "Restaurant de la Plage (Camping-Plage d'Avenches)",
+   "city": "Avenches",
+   "category": "restaurant",
+   "lat": 46.905532,
+   "lon": 7.049165
+  },
+  {
+   "id": "curated:cafe-de-la-promenade-yverdon",
+   "title": "Café de la Promenade",
+   "city": "Yverdon-les-Bains",
+   "category": "restaurant",
+   "lat": 46.776082,
+   "lon": 6.640043
+  },
+  {
+   "id": "curated:cafe-primeur-yverdon",
+   "title": "Café Primeur",
+   "city": "Yverdon-les-Bains",
+   "category": "restaurant",
+   "lat": 46.781356,
+   "lon": 6.636354
+  },
+  {
+   "id": "curated:cafe-restaurant-l-etable-gryon",
+   "title": "Café-Restaurant L'Étable",
+   "city": "Gryon",
+   "category": "restaurant",
+   "lat": 46.29638,
+   "lon": 7.08989
+  },
+  {
+   "id": "curated:urba-kids-orbe-cafeteria",
+   "title": "Cafétéria d'Urba Kids",
+   "city": "Orbe",
+   "category": "restaurant",
+   "lat": 46.718115,
+   "lon": 6.540913
+  },
+  {
+   "id": "curated:restaurant-de-la-plage-nyon",
+   "title": "Restaurant de la Plage (Trois-Jetées)",
+   "city": "Nyon",
+   "category": "restaurant",
+   "lat": 46.376854,
+   "lon": 6.235912
+  },
+  {
+   "id": "curated:buvette-la-vaudoise-plage-de-rolle",
+   "title": "Buvette-restaurant La Vaudoise (plage de Rolle)",
+   "city": "Rolle",
+   "category": "restaurant",
+   "lat": 46.461335,
+   "lon": 6.350494
+  },
+  {
+   "id": "curated:buvette-des-rocailles-coppet",
+   "title": "Buvette des Rocailles",
+   "city": "Coppet",
+   "category": "restaurant",
+   "lat": 46.319393,
+   "lon": 6.196899
+  },
+  {
+   "id": "curated:le-petit-bouchon-plage-de-promenthoux",
+   "title": "Le Petit Bouchon (buvette de la plage de Promenthoux)",
+   "city": "Prangins",
+   "category": "restaurant",
+   "lat": 46.392499,
+   "lon": 6.265702
+  },
+  {
+   "id": "curated:le-chalet-fromagerie-chateau-d-oex",
+   "title": "Le Chalet – restaurant et fromagerie de démonstration",
+   "city": "Château-d'Oex",
+   "category": "restaurant",
+   "lat": 46.47365,
+   "lon": 7.13352
+  },
+  {
+   "id": "curated:cafe-restaurant-du-jorat-mezieres",
+   "title": "Café-Restaurant du Jorat",
+   "city": "Jorat-Mézières",
+   "category": "restaurant",
+   "lat": 46.594424,
+   "lon": 6.770367
+  },
+  {
+   "id": "curated:restaurant-les-grangettes-noville",
+   "title": "Restaurant Les Grangettes",
+   "city": "Noville",
+   "category": "restaurant",
+   "lat": 46.393611,
+   "lon": 6.894975
+  },
+  {
+   "id": "curated:restaurant-de-l-ermitage-chateau-d-oex",
+   "title": "Restaurant de l'Ermitage",
+   "city": "Château-d'Oex",
+   "category": "restaurant",
+   "lat": 46.471163,
+   "lon": 7.126937
+  },
+  {
+   "id": "curated:la-croix-d-or-les-moulins",
+   "title": "La Croix d'Or",
+   "city": "Château-d'Oex",
+   "category": "restaurant",
+   "lat": 46.459892,
+   "lon": 7.106958
+  },
+  {
+   "id": "curated:auberge-de-pont-de-nant-les-plans-sur-bex",
+   "title": "Auberge de Pont-de-Nant",
+   "city": "Bex",
+   "category": "restaurant",
+   "lat": 46.25199,
+   "lon": 7.11053
+  },
+  {
+   "id": "curated:restaurant-de-la-plage-yverdon",
+   "title": "Restaurant de la Plage",
+   "city": "Yverdon-les-Bains",
+   "category": "restaurant",
+   "lat": 46.784169,
+   "lon": 6.652003
+  },
+  {
+   "id": "curated:bar-salle-d-escalade-chavornay",
+   "title": "Bar de la salle d'escalade de Chavornay",
+   "city": "Chavornay",
+   "category": "restaurant",
+   "lat": 46.707725,
+   "lon": 6.566758
+  },
+  {
+   "id": "curated:buvette-plage-de-la-maladaire-la-tour-de-peilz",
+   "title": "Buvette du Camping-Plage de la Maladaire",
+   "city": "La Tour-de-Peilz",
+   "category": "restaurant",
+   "lat": 46.446198,
+   "lon": 6.87702
+  },
+  {
+   "id": "curated:restaurant-parc-animalier-la-garenne",
+   "title": "Restaurant du parc animalier La Garenne",
+   "city": "Le Vaud",
+   "category": "restaurant",
+   "lat": 46.47932,
+   "lon": 6.245191
+  },
+  {
+   "id": "curated:restaurant-du-mont-de-baulmes-sainte-croix",
+   "title": "Restaurant du Mont de Baulmes",
+   "city": "Sainte-Croix",
+   "category": "restaurant",
+   "lat": 46.804905,
+   "lon": 6.513612
+  },
+  {
+   "id": "curated:refuge-restaurant-la-trelasse-st-cergue",
+   "title": "Refuge & Restaurant de la Trélasse",
+   "city": "Saint-Cergue",
+   "category": "restaurant",
+   "lat": 46.450661,
+   "lon": 6.10483
+  },
+  {
+   "id": "curated:brasserie-les-trois-rois-lausanne",
+   "title": "Brasserie Les Trois Rois",
+   "city": "Lausanne",
+   "category": "restaurant",
+   "lat": 46.515613,
+   "lon": 6.631023
+  },
+  {
+   "id": "curated:restaurant-de-la-place-yverdon",
+   "title": "Restaurant de la Place",
+   "city": "Yverdon-les-Bains",
+   "category": "restaurant",
+   "lat": 46.778707,
+   "lon": 6.641332
+  },
+  {
+   "id": "curated:resto-lounge-du-chateau-yverdon",
+   "title": "Resto-Lounge du Château",
+   "city": "Yverdon-les-Bains",
+   "category": "restaurant",
+   "lat": 46.778743,
+   "lon": 6.641776
+  },
+  {
+   "id": "curated:belle-epoque-grand-hotel-des-rasses",
+   "title": "Restaurant Belle Époque – Grand Hôtel des Rasses",
+   "city": "Sainte-Croix",
+   "category": "restaurant",
+   "lat": 46.827817,
+   "lon": 6.534985
+  },
+  {
+   "id": "curated:buffet-de-la-gare-gryon",
+   "title": "Le Buffet de la Gare de Gryon",
+   "city": "Gryon",
+   "category": "restaurant",
+   "lat": 46.273788,
+   "lon": 7.060512
+  },
+  {
+   "id": "curated:cafe-du-cerf-rougemont",
+   "title": "Café du Cerf",
+   "city": "Rougemont",
+   "category": "restaurant",
+   "lat": 46.489737,
+   "lon": 7.210774
+  },
+  {
+   "id": "curated:buvette-du-port-de-crans",
+   "title": "Buvette-restaurant du port de Crans",
+   "city": "Crans (VD)",
+   "category": "restaurant",
+   "lat": 46.359932,
+   "lon": 6.21878
+  },
+  {
+   "id": "curated:restaurant-les-mazots-diablerets",
+   "title": "Restaurant Les Mazots",
+   "city": "Ormont-Dessus",
+   "category": "restaurant",
+   "lat": 46.33202,
+   "lon": 7.13251
+  },
+  {
+   "id": "curated:chalet-des-auges-premier",
+   "title": "Chalet des Auges",
+   "city": "Premier",
+   "category": "restaurant",
+   "lat": 46.71291,
+   "lon": 6.43498
+  },
+  {
+   "id": "curated:chez-gipsy-gryon",
+   "title": "Chez Gipsy",
+   "city": "Gryon",
+   "category": "restaurant",
+   "lat": 46.29554,
+   "lon": 7.10316
+  },
+  {
+   "id": "curated:la-cha-les-pleiades",
+   "title": "La Châ",
+   "city": "Blonay - Saint-Légier",
+   "category": "restaurant",
+   "lat": 46.49339,
+   "lon": 6.91374
+  },
+  {
+   "id": "curated:buvette-des-mossettes-saint-legier",
+   "title": "La Buvette des Mossettes",
+   "city": "Blonay - Saint-Légier",
+   "category": "restaurant",
+   "lat": 46.49618,
+   "lon": 6.93015
+  },
+  {
+   "id": "curated:le-1209-altitude-gourmande-blonay",
+   "title": "Le 1209 – Altitude Gourmande",
+   "city": "Blonay - Saint-Légier",
+   "category": "restaurant",
+   "lat": 46.48496,
+   "lon": 6.91955
+  },
+  {
+   "id": "osm:node/12059826067",
+   "title": "Le Forum Restaurant-Pizzeria",
+   "city": null,
+   "category": "restaurant",
+   "lat": 46.7650914,
+   "lon": 6.6404379
+  },
+  {
+   "id": "osm:node/13196318804",
+   "title": "Restaurant du Musée Olympique (TOM Café)",
+   "city": null,
+   "category": "restaurant",
+   "lat": 46.5085291,
+   "lon": 6.6341768
+  },
+  {
+   "id": "osm:node/13273705601",
+   "title": "Brasserie de Montelly",
+   "city": null,
+   "category": "restaurant",
+   "lat": 46.5207425,
+   "lon": 6.6128432
+  },
+  {
+   "id": "osm:node/1519377153",
+   "title": "Le café des Avenues",
+   "city": null,
+   "category": "restaurant",
+   "lat": 46.5112215,
+   "lon": 6.6368592
+  },
+  {
+   "id": "osm:node/1539636449",
+   "title": "Café de Grancy",
+   "city": null,
+   "category": "restaurant",
+   "lat": 46.5152658,
+   "lon": 6.6286248
+  },
+  {
+   "id": "osm:node/3661620662",
+   "title": "La Puccia",
+   "city": null,
+   "category": "restaurant",
+   "lat": 46.382445,
+   "lon": 6.239069
+  },
+  {
+   "id": "osm:node/7093130262",
+   "title": "La Brasserie du Carré",
+   "city": "Vevey",
+   "category": "restaurant",
+   "lat": 46.4587491,
+   "lon": 6.8433624
+  },
+  {
+   "id": "osm:node/7095318323",
+   "title": "Erawan Thai Restaurant",
+   "city": "Vevey",
+   "category": "restaurant",
+   "lat": 46.4642804,
+   "lon": 6.8404146
+  },
+  {
+   "id": "osm:way/309486363",
+   "title": "Restaurant des Pléiades",
+   "city": "Blonay",
+   "category": "restaurant",
+   "lat": 46.4823506,
+   "lon": 6.9085493
   }
  ]
 }

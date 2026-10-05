@@ -1,110 +1,7 @@
 {
  "schemaVersion": 1,
- "checkedAt": "2026-10-02",
+ "checkedAt": "2026-10-05",
  "events": [
-  {
-   "id": "curated:troc-chavornay-automne-2026",
-   "title": "Troc de Chavornay (automne-hiver)",
-   "category": "swap_market",
-   "venue": "Grande Salle de Chavornay",
-   "city": "Chavornay",
-   "canton": "VD",
-   "address": "Le Verneret 12, 1373 Chavornay",
-   "slots": [
-    {
-     "start": "2026-10-03T08:30:00+02:00",
-     "end": "2026-10-03T12:00:00+02:00"
-    }
-   ],
-   "officialUrl": "https://www.trocdechavornay.ch/",
-   "description": "Troc semestriel : vente et achat de vêtements, jouets et articles pour enfants d'occasion. Paiement en espèces uniquement.",
-   "source": {
-    "sourceId": "famigo-curated",
-    "name": "Sélection Famigo (source : organisateur)",
-    "agendaId": "famigo-curated",
-    "recordId": "troc-chavornay-automne-2026",
-    "url": "https://www.trocdechavornay.ch/",
-    "licenseUrl": "https://www.trocdechavornay.ch/",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
-   }
-  },
-  {
-   "id": "curated:troc-cheserex-automne-2026",
-   "title": "Troc de Chéserex (automne)",
-   "category": "swap_market",
-   "city": "Chéserex",
-   "canton": "VD",
-   "slots": [
-    {
-     "start": "2026-10-03T09:00:00+02:00",
-     "end": "2026-10-03T12:00:00+02:00"
-    }
-   ],
-   "officialUrl": "https://www.trocdecheserex.ch/",
-   "description": "Vente-échange d'habits, jouets et matériel pour enfants de seconde main, le samedi matin.",
-   "source": {
-    "sourceId": "famigo-curated",
-    "name": "Sélection Famigo (source : organisateur)",
-    "agendaId": "famigo-curated",
-    "recordId": "troc-cheserex-automne-2026",
-    "url": "https://www.trocdecheserex.ch/",
-    "licenseUrl": "https://www.trocdecheserex.ch/",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
-   }
-  },
-  {
-   "id": "curated:troc-belmont-automne-2026",
-   "title": "Troc de Belmont",
-   "category": "swap_market",
-   "venue": "Salle de gymnastique",
-   "city": "Belmont-sur-Lausanne",
-   "canton": "VD",
-   "slots": [
-    {
-     "start": "2026-10-03T08:00:00+02:00",
-     "end": "2026-10-03T12:00:00+02:00"
-    }
-   ],
-   "officialUrl": "https://www.belmont.ch/fr/actualites-et-infos/agenda-des-manifestation/",
-   "description": "Troc d'automne-hiver : vêtements de saison, jouets et articles pour enfants à petits prix.",
-   "source": {
-    "sourceId": "famigo-curated",
-    "name": "Sélection Famigo (source : organisateur)",
-    "agendaId": "famigo-curated",
-    "recordId": "troc-belmont-automne-2026",
-    "url": "https://www.belmont.ch/fr/actualites-et-infos/agenda-des-manifestation/",
-    "licenseUrl": "https://www.belmont.ch/fr/actualites-et-infos/agenda-des-manifestation/",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
-   }
-  },
-  {
-   "id": "curated:vide-grenier-familles-renens-2026",
-   "title": "Vide-grenier spécial familles",
-   "category": "swap_market",
-   "venue": "Salle de spectacles de Renens",
-   "city": "Renens",
-   "canton": "VD",
-   "slots": [
-    {
-     "start": "2026-10-03"
-    }
-   ],
-   "officialUrl": "https://bulledairrenens.com/vide-grenier/",
-   "description": "Vide-grenier pour les familles avec stands de particuliers, petite restauration et spectacle de Billy Cookie à 14h.",
-   "source": {
-    "sourceId": "famigo-curated",
-    "name": "Sélection Famigo (source : organisateur)",
-    "agendaId": "famigo-curated",
-    "recordId": "vide-grenier-familles-renens-2026",
-    "url": "https://bulledairrenens.com/vide-grenier/",
-    "licenseUrl": "https://bulledairrenens.com/vide-grenier/",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
-   }
-  },
   {
    "id": "curated:braderie-aef-pully-automne-2026",
    "title": "Braderie d'automne de l'Entraide familiale",
@@ -2169,31 +2066,6 @@
    }
   },
   {
-   "id": "curated:orbe-a-pas-contes-2026",
-   "title": "Orbe à pas contés",
-   "category": "culture",
-   "city": "Orbe",
-   "canton": "VD",
-   "slots": [
-    {
-     "start": "2026-10-03T10:00:00+02:00",
-     "end": "2026-10-03T18:00:00+02:00"
-    }
-   ],
-   "officialUrl": "https://www.loreillequiparle.ch/agenda/",
-   "description": "Contes et musique dans les rues d'Orbe le matin, contes dans les caves de la ville l'après-midi. Tout public, chapeau.",
-   "source": {
-    "sourceId": "famigo-curated",
-    "name": "Sélection Famigo (source : organisateur)",
-    "agendaId": "famigo-curated",
-    "recordId": "orbe-a-pas-contes-2026",
-    "url": "https://www.loreillequiparle.ch/agenda/",
-    "licenseUrl": "https://www.loreillequiparle.ch/agenda/",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
-   }
-  },
-  {
    "id": "curated:histoires-avent-oron-2026",
    "title": "Histoires de l'Avent au château d'Oron",
    "category": "culture",
@@ -2821,20 +2693,21 @@
    "canton": "VS",
    "slots": [
     {
-     "start": "2026-10-11"
+     "start": "2026-10-11T09:30:00+02:00",
+     "end": "2026-10-11T18:30:00+02:00"
     }
    ],
-   "officialUrl": "https://chando.ch/fete-de-la-courge-2025-2/",
-   "description": "Fête de la courge au village de Chandolin (Savièse) avec le défi des villages. Programme détaillé à venir.",
+   "officialUrl": "https://www.saviese.ch/fr/fete-courge-4419.html",
+   "description": "Fête de la courge au village de Chandolin (Savièse) avec le défi des villages.",
    "source": {
     "sourceId": "famigo-curated",
     "name": "Sélection Famigo (source : organisateur)",
     "agendaId": "famigo-curated",
     "recordId": "fete-courge-chandolin-saviese-2026",
-    "url": "https://chando.ch/fete-de-la-courge-2025-2/",
-    "licenseUrl": "https://chando.ch/fete-de-la-courge-2025-2/",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+    "url": "https://www.saviese.ch/fr/fete-courge-4419.html",
+    "licenseUrl": "https://www.saviese.ch/fr/fete-courge-4419.html",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
    }
   },
   {
@@ -3088,33 +2961,6 @@
     "recordId": "saint-martin-ajoie-2026",
     "url": "https://www.j3l.ch/en/P73853/things-to-do/events/festivity-festival/feast-of-st-martin",
     "licenseUrl": "https://www.j3l.ch/en/P73853/things-to-do/events/festivity-festival/feast-of-st-martin",
-    "collectedAt": "2026-10-02T18:00:00+02:00",
-    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
-   }
-  },
-  {
-   "id": "curated:toosmall-popup-geneve-2026",
-   "title": "Pop-up store vêtements enfants seconde main",
-   "category": "swap_market",
-   "city": "Genève",
-   "canton": "GE",
-   "address": "Route de Frontenex 43, 1207 Genève",
-   "slots": [
-    {
-     "start": "2026-10-03T09:00:00+02:00",
-     "end": "2026-10-03T17:00:00+02:00"
-    }
-   ],
-   "minAge": 0,
-   "officialUrl": "https://www.geneve.ch/agenda/store-vetements-seconde-main-enfants",
-   "description": "Vêtements automne-hiver de seconde main pour les 0-12 ans, boissons et petite exposition. Entrée libre.",
-   "source": {
-    "sourceId": "famigo-curated",
-    "name": "Sélection Famigo (source : organisateur)",
-    "agendaId": "famigo-curated",
-    "recordId": "toosmall-popup-geneve-2026",
-    "url": "https://www.geneve.ch/agenda/store-vetements-seconde-main-enfants",
-    "licenseUrl": "https://www.geneve.ch/agenda/store-vetements-seconde-main-enfants",
     "collectedAt": "2026-10-02T18:00:00+02:00",
     "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
    }
@@ -3939,6 +3785,1471 @@
     "licenseUrl": "https://www.marionnettes.ch/spectacle/ne-mattends-pas",
     "collectedAt": "2026-10-02T18:00:00+02:00",
     "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 02.10.2026"
+   }
+  },
+  {
+   "id": "curated:troc-saint-prex-automne-2026",
+   "title": "Troc de St-Prex (automne-hiver)",
+   "category": "swap_market",
+   "venue": "Salle du Vieux Moulin",
+   "city": "Saint-Prex",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-07T16:00:00+02:00",
+     "end": "2026-10-07T18:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.trocstprex.ch/",
+   "description": "Troc automne-hiver : vêtements d'enfants, jouets, skis, poussettes et puériculture à petits prix.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "troc-saint-prex-automne-2026",
+    "url": "https://www.trocstprex.ch/",
+    "licenseUrl": "https://www.trocstprex.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:fete-raisinee-st-cergue-2026",
+   "title": "Fête de la Raisinée et marché artisanal",
+   "category": "festival",
+   "city": "St-Cergue",
+   "canton": "VD",
+   "address": "Chemin J. Jacques Rousseau, 1264 St-Cergue",
+   "slots": [
+    {
+     "start": "2026-10-10T10:00:00+02:00",
+     "end": "2026-10-10T18:00:00+02:00"
+    },
+    {
+     "start": "2026-10-11T09:00:00+02:00",
+     "end": "2026-10-11T17:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.lacote-tourisme.ch/en/P36152/raisinee-festival-and-craft-market",
+   "description": "Fête villageoise autour de la raisinée cuite au feu de bois : marché artisanal couvert, espace enfants, cor des Alpes et danses folkloriques.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fete-raisinee-st-cergue-2026",
+    "url": "https://www.lacote-tourisme.ch/en/P36152/raisinee-festival-and-craft-market",
+    "licenseUrl": "https://www.lacote-tourisme.ch/en/P36152/raisinee-festival-and-craft-market",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:chasse-citrouilles-chateau-doex-2026",
+   "title": "Chasse aux citrouilles à Château-d'Œx",
+   "category": "halloween",
+   "venue": "Office du tourisme du Pays-d'Enhaut (départ)",
+   "city": "Château-d'Œx",
+   "canton": "VD",
+   "address": "Chemin des Ballons 2, 1660 Château-d'Œx",
+   "slots": [
+    {
+     "start": "2026-10-10T10:00:00+02:00",
+     "end": "2026-10-10T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-11T10:00:00+02:00",
+     "end": "2026-10-11T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-12T09:00:00+02:00",
+     "end": "2026-10-12T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-13T09:00:00+02:00",
+     "end": "2026-10-13T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-14T09:00:00+02:00",
+     "end": "2026-10-14T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-15T09:00:00+02:00",
+     "end": "2026-10-15T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-16T09:00:00+02:00",
+     "end": "2026-10-16T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-17T10:00:00+02:00",
+     "end": "2026-10-17T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-18T10:00:00+02:00",
+     "end": "2026-10-18T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-19T09:00:00+02:00",
+     "end": "2026-10-19T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-20T09:00:00+02:00",
+     "end": "2026-10-20T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-21T09:00:00+02:00",
+     "end": "2026-10-21T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-22T09:00:00+02:00",
+     "end": "2026-10-22T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-23T09:00:00+02:00",
+     "end": "2026-10-23T17:30:00+02:00"
+    },
+    {
+     "start": "2026-10-24T10:00:00+02:00",
+     "end": "2026-10-24T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-25T10:00:00+01:00",
+     "end": "2026-10-25T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.myswitzerland.com/fr-ch/decouvrir/manifestations/chasse-aux-citrouilles-a-chateaudoex/",
+   "description": "Jeu de piste gratuit (1h-1h30) : retrouver les citrouilles cachées par la sorcière Gribouilla dans les vitrines du village, récompense à la clé.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "chasse-citrouilles-chateau-doex-2026",
+    "url": "https://www.myswitzerland.com/fr-ch/decouvrir/manifestations/chasse-aux-citrouilles-a-chateaudoex/",
+    "licenseUrl": "https://www.myswitzerland.com/fr-ch/decouvrir/manifestations/chasse-aux-citrouilles-a-chateaudoex/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:depot-vente-hiver-enfants-morrens-2026",
+   "title": "Dépôt-vente d'affaires d'hiver pour enfants et ados",
+   "category": "swap_market",
+   "venue": "Salle Davel",
+   "city": "Morrens",
+   "canton": "VD",
+   "address": "Route de Cugy 8, 1054 Morrens",
+   "slots": [
+    {
+     "start": "2026-11-07T11:00:00+01:00",
+     "end": "2026-11-07T15:30:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.ape-haut-talent.ch/evenements/depot-vente-daffaires-dhiver-pour-enfants-et-ados-2026/",
+   "description": "Vente d'habits et équipement d'hiver d'enfants (skis, combinaisons), plus livres, BD et jeux ; buvette, paiement cash uniquement.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "depot-vente-hiver-enfants-morrens-2026",
+    "url": "https://www.ape-haut-talent.ch/evenements/depot-vente-daffaires-dhiver-pour-enfants-et-ados-2026/",
+    "licenseUrl": "https://www.ape-haut-talent.ch/evenements/depot-vente-daffaires-dhiver-pour-enfants-et-ados-2026/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:nuit-du-conte-le-sentier-2026",
+   "title": "Nuit du conte à la Médiathèque",
+   "category": "culture",
+   "venue": "Médiathèque Vallée de Joux",
+   "city": "Le Sentier",
+   "canton": "VD",
+   "address": "Rue des Ecoles 2, 1347 Le Sentier",
+   "slots": [
+    {
+     "start": "2026-11-13T18:30:00+01:00",
+     "end": "2026-11-13T19:30:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.myvalleedejoux.ch/fr/P175910/nuit-du-conte-2026",
+   "description": "Soirée de contes gratuite pour enfants dès 4 ans dans le cadre de la Nuit du conte en Suisse.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "nuit-du-conte-le-sentier-2026",
+    "url": "https://www.myvalleedejoux.ch/fr/P175910/nuit-du-conte-2026",
+    "licenseUrl": "https://www.myvalleedejoux.ch/fr/P175910/nuit-du-conte-2026",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-diable-vert-bex-2026",
+   "title": "Marché de Noël au Diable Vert",
+   "category": "christmas",
+   "venue": "Au Diable Vert",
+   "city": "Bex",
+   "canton": "VD",
+   "address": "Route de Magny 49, 1880 Bex",
+   "slots": [
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T17:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.bex.ch/N22896/marche-de-noel.html",
+   "description": "Marché de Noël en plein air dans les jardins du Diable Vert, avec artisanat local et régional.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-diable-vert-bex-2026",
+    "url": "https://www.bex.ch/N22896/marche-de-noel.html",
+    "licenseUrl": "https://www.bex.ch/N22896/marche-de-noel.html",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-la-noyere-mont-sur-rolle-2026",
+   "title": "Marché de Noël solidaire de La Noyère",
+   "category": "christmas",
+   "venue": "Hameau de La Noyère",
+   "city": "Mont-sur-Rolle",
+   "canton": "VD",
+   "address": "La Noyère, 1185 Mont-sur-Rolle",
+   "slots": [
+    {
+     "start": "2026-12-06T11:00:00+01:00",
+     "end": "2026-12-06T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T19:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://lanoyere.ch/",
+   "description": "Marché de Noël solidaire dans un hameau viticole : artisans, raclette, thé de Noël, vin chaud et musique ; bénéfices pour l'association Flavie.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-la-noyere-mont-sur-rolle-2026",
+    "url": "https://lanoyere.ch/",
+    "licenseUrl": "https://lanoyere.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:le-sentier-de-noel-2026",
+   "title": "Le Sentier de Noël – marché de Noël de la Vallée de Joux",
+   "category": "christmas",
+   "venue": "Centre du village",
+   "city": "Le Sentier",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-09"
+    },
+    {
+     "start": "2026-12-10"
+    },
+    {
+     "start": "2026-12-11"
+    },
+    {
+     "start": "2026-12-12"
+    },
+    {
+     "start": "2026-12-13"
+    }
+   ],
+   "officialUrl": "https://lesentierdenoel.ch/",
+   "description": "Marché de Noël de 5 jours au centre du village du Sentier, à la Vallée de Joux.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "le-sentier-de-noel-2026",
+    "url": "https://lesentierdenoel.ch/",
+    "licenseUrl": "https://lesentierdenoel.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-payerne-2026",
+   "title": "Marché de Noël de Payerne",
+   "category": "christmas",
+   "venue": "Place du Marché",
+   "city": "Payerne",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-17T17:00:00+01:00",
+     "end": "2026-12-17T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T17:00:00+01:00",
+     "end": "2026-12-18T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T10:00:00+01:00",
+     "end": "2026-12-20T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.j3l.ch/en/P52291/things-to-do/events/events/payerne-christmas-market",
+   "description": "Chalets, rues illuminées et concerts sur la place du Marché ; les enfants peuvent rencontrer le Père Noël. Entrée libre.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-payerne-2026",
+    "url": "https://www.j3l.ch/en/P52291/things-to-do/events/events/payerne-christmas-market",
+    "licenseUrl": "https://www.j3l.ch/en/P52291/things-to-do/events/events/payerne-christmas-market",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-avenches-2026",
+   "title": "Marché de Noël d'Avenches",
+   "category": "christmas",
+   "venue": "Place de l'Église et Hôtel de Ville",
+   "city": "Avenches",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T21:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.avenches.ch/fr/P182525/marche-de-noel-d-avenches",
+   "description": "Marché de Noël artisanal et gourmand au cœur de la vieille ville, avec animations pour petits et grands. Entrée libre.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-avenches-2026",
+    "url": "https://www.avenches.ch/fr/P182525/marche-de-noel-d-avenches",
+    "licenseUrl": "https://www.avenches.ch/fr/P182525/marche-de-noel-d-avenches",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:feuilles-raplapla-musee-du-leman-nyon-2026",
+   "title": "Feuille-caillou-ciseaux : les feuilles raplapla",
+   "category": "workshop",
+   "venue": "Musée du Léman",
+   "city": "Nyon",
+   "canton": "VD",
+   "address": "Quai Louis-Bonnard 8, 1260 Nyon",
+   "slots": [
+    {
+     "start": "2026-10-07T15:00:00+02:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.nyon.ch/agenda/feuille-caillou-ciseaux--les-feuilles-raplapla-20252",
+   "description": "Atelier enfants au Musée du Léman : récolte de feuilles dans le parc, empreintes et herbier en accordéon (CHF 7, inscription requise).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "feuilles-raplapla-musee-du-leman-nyon-2026",
+    "url": "https://www.nyon.ch/agenda/feuille-caillou-ciseaux--les-feuilles-raplapla-20252",
+    "licenseUrl": "https://www.nyon.ch/agenda/feuille-caillou-ciseaux--les-feuilles-raplapla-20252",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:halloween-chateau-de-morges-2026",
+   "title": "Halloween au Château de Morges",
+   "category": "halloween",
+   "venue": "Château de Morges",
+   "city": "Morges",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-10-31T15:00:00+01:00",
+     "end": "2026-10-31T22:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.morges.ch/agenda/halloween-au-chateau-de-morges-213821",
+   "description": "Le château se transforme pour Halloween : sorcières, contes dans les caves, sculpture de courges, ateliers, parcours de sorcellerie et spectacle final. Costumes bienvenus.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "halloween-chateau-de-morges-2026",
+    "url": "https://www.morges.ch/agenda/halloween-au-chateau-de-morges-213821",
+    "licenseUrl": "https://www.morges.ch/agenda/halloween-au-chateau-de-morges-213821",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:cosimo-theatre-benno-besson-yverdon-2026",
+   "title": "Cosimo (Cie L'Oiseau à Ressort)",
+   "category": "show",
+   "venue": "Théâtre Benno Besson, Grande Salle",
+   "city": "Yverdon-les-Bains",
+   "canton": "VD",
+   "address": "Rue du Casino 9, 1400 Yverdon-les-Bains",
+   "slots": [
+    {
+     "start": "2026-11-11T17:00:00+01:00"
+    }
+   ],
+   "minAge": 7,
+   "officialUrl": "https://www.theatrebennobesson.ch/programme-26-27/cosimo",
+   "description": "Spectacle jeune public inspiré du Baron perché d'Italo Calvino : un garçon grimpe dans un arbre et réinvente le monde depuis la cime. Durée 1h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "cosimo-theatre-benno-besson-yverdon-2026",
+    "url": "https://www.theatrebennobesson.ch/programme-26-27/cosimo",
+    "licenseUrl": "https://www.theatrebennobesson.ch/programme-26-27/cosimo",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:autour-de-marzia-petit-reflet-vevey-2026",
+   "title": "Autour de Marzia",
+   "category": "show",
+   "venue": "Le Petit Reflet",
+   "city": "Vevey",
+   "canton": "VD",
+   "address": "Rue du Théâtre 4, 1800 Vevey",
+   "slots": [
+    {
+     "start": "2026-11-21T11:00:00+01:00"
+    },
+    {
+     "start": "2026-11-22T11:00:00+01:00"
+    }
+   ],
+   "minAge": 9,
+   "officialUrl": "https://lereflet.ch/spectacles/autour-de-marzia/",
+   "description": "Une fillette découvre un bracelet gravé à son nom et enquête sur un secret de famille, entre dessins, photos et théâtre. 55 min, séances 11h et 16h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "autour-de-marzia-petit-reflet-vevey-2026",
+    "url": "https://lereflet.ch/spectacles/autour-de-marzia/",
+    "licenseUrl": "https://lereflet.ch/spectacles/autour-de-marzia/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:meuuuh-nooon-reflet-vevey-2026",
+   "title": "Meuuuh nooon !",
+   "category": "show",
+   "venue": "Le Reflet",
+   "city": "Vevey",
+   "canton": "VD",
+   "address": "Rue du Théâtre 4, 1800 Vevey",
+   "slots": [
+    {
+     "start": "2026-12-05T11:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T11:00:00+01:00"
+    }
+   ],
+   "minAge": 5,
+   "officialUrl": "https://lereflet.ch/spectacles/meuuuh-nooon/",
+   "description": "Comédie de marionnettes : les animaux de la ferme font grève pour de meilleures conditions de travail. 45 min, séances 11h et 16h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "meuuuh-nooon-reflet-vevey-2026",
+    "url": "https://lereflet.ch/spectacles/meuuuh-nooon/",
+    "licenseUrl": "https://lereflet.ch/spectacles/meuuuh-nooon/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:jetais-partie-pardon-reflet-vevey-2026",
+   "title": "J'étais parti·e, pardon (dans un autre univers)",
+   "category": "show",
+   "venue": "Le Reflet",
+   "city": "Vevey",
+   "canton": "VD",
+   "address": "Rue du Théâtre 4, 1800 Vevey",
+   "slots": [
+    {
+     "start": "2026-12-13T11:00:00+01:00"
+    }
+   ],
+   "minAge": 8,
+   "officialUrl": "https://lereflet.ch/spectacles/jetais-parti·e-pardon-dans-un-autre-univers/",
+   "description": "Comédie entre poésie et science-fiction : enquête sur une classe mystérieusement disparue dans des univers parallèles. 1h, CHF 15.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "jetais-partie-pardon-reflet-vevey-2026",
+    "url": "https://lereflet.ch/spectacles/jetais-parti·e-pardon-dans-un-autre-univers/",
+    "licenseUrl": "https://lereflet.ch/spectacles/jetais-parti·e-pardon-dans-un-autre-univers/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:gaetan-pour-le-meilleur-yverdon-2026",
+   "title": "Gaëtan – Pour le meilleur...",
+   "category": "show",
+   "venue": "La Marive (Théâtre Benno Besson)",
+   "city": "Yverdon-les-Bains",
+   "canton": "VD",
+   "slots": [
+    {
+     "start": "2026-12-19T11:00:00+01:00"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.theatrebennobesson.ch/programme-26-27/gaetan-pour-le-meilleur",
+   "description": "Concert-spectacle familial de Gaëtan : musiciens, instruments et costumes ont disparu, il faut sauver le concert ! Chansons et humour, 1h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "gaetan-pour-le-meilleur-yverdon-2026",
+    "url": "https://www.theatrebennobesson.ch/programme-26-27/gaetan-pour-le-meilleur",
+    "licenseUrl": "https://www.theatrebennobesson.ch/programme-26-27/gaetan-pour-le-meilleur",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:au-diapason-theatre-benno-besson-yverdon-2027",
+   "title": "Au diapason (Cie La Meute)",
+   "category": "show",
+   "venue": "Théâtre Benno Besson, Grande Salle",
+   "city": "Yverdon-les-Bains",
+   "canton": "VD",
+   "address": "Rue du Casino 9, 1400 Yverdon-les-Bains",
+   "slots": [
+    {
+     "start": "2027-01-13T17:00:00+01:00"
+    }
+   ],
+   "minAge": 8,
+   "officialUrl": "https://www.theatrebennobesson.ch/programme-26-27/au-diapason",
+   "description": "Comédie musicale : Rémi ne parle qu'en rimes, Mila qu'au piano ; ensemble, ils transforment leurs différences en chansons. 1h.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "au-diapason-theatre-benno-besson-yverdon-2027",
+    "url": "https://www.theatrebennobesson.ch/programme-26-27/au-diapason",
+    "licenseUrl": "https://www.theatrebennobesson.ch/programme-26-27/au-diapason",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:boum-tschak-petit-reflet-vevey-2027",
+   "title": "Boum Tschak",
+   "category": "show",
+   "venue": "Le Petit Reflet",
+   "city": "Vevey",
+   "canton": "VD",
+   "address": "Rue du Théâtre 4, 1800 Vevey",
+   "slots": [
+    {
+     "start": "2027-01-30T11:00:00+01:00"
+    },
+    {
+     "start": "2027-01-31T11:00:00+01:00"
+    }
+   ],
+   "minAge": 3,
+   "officialUrl": "https://lereflet.ch/spectacles/boum-tschak/",
+   "description": "Théâtre musical de marionnettes où des objets recyclés deviennent instruments. 35 min, séances 11h et 16h, CHF 15.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "boum-tschak-petit-reflet-vevey-2027",
+    "url": "https://lereflet.ch/spectacles/boum-tschak/",
+    "licenseUrl": "https://lereflet.ch/spectacles/boum-tschak/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:noel-au-quai-geneve-2026",
+   "title": "Noël au Quai",
+   "category": "christmas",
+   "venue": "Quai du Mont-Blanc",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-11-19T12:00:00+01:00",
+     "end": "2026-11-19T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-20T12:00:00+01:00",
+     "end": "2026-11-20T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-21T11:00:00+01:00",
+     "end": "2026-11-21T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-22T11:00:00+01:00",
+     "end": "2026-11-22T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-23T12:00:00+01:00",
+     "end": "2026-11-23T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-24T12:00:00+01:00",
+     "end": "2026-11-24T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-25T12:00:00+01:00",
+     "end": "2026-11-25T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-26T12:00:00+01:00",
+     "end": "2026-11-26T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-27T12:00:00+01:00",
+     "end": "2026-11-27T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-28T11:00:00+01:00",
+     "end": "2026-11-28T22:00:00+01:00"
+    },
+    {
+     "start": "2026-11-29T11:00:00+01:00",
+     "end": "2026-11-29T21:00:00+01:00"
+    },
+    {
+     "start": "2026-11-30T12:00:00+01:00",
+     "end": "2026-11-30T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-01T12:00:00+01:00",
+     "end": "2026-12-01T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-02T12:00:00+01:00",
+     "end": "2026-12-02T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-03T12:00:00+01:00",
+     "end": "2026-12-03T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-04T12:00:00+01:00",
+     "end": "2026-12-04T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T11:00:00+01:00",
+     "end": "2026-12-05T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T11:00:00+01:00",
+     "end": "2026-12-06T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-07T12:00:00+01:00",
+     "end": "2026-12-07T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-08T12:00:00+01:00",
+     "end": "2026-12-08T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-09T12:00:00+01:00",
+     "end": "2026-12-09T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-10T12:00:00+01:00",
+     "end": "2026-12-10T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-11T12:00:00+01:00",
+     "end": "2026-12-11T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T11:00:00+01:00",
+     "end": "2026-12-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-14T12:00:00+01:00",
+     "end": "2026-12-14T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-15T12:00:00+01:00",
+     "end": "2026-12-15T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T12:00:00+01:00",
+     "end": "2026-12-16T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-17T12:00:00+01:00",
+     "end": "2026-12-17T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T12:00:00+01:00",
+     "end": "2026-12-18T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T11:00:00+01:00",
+     "end": "2026-12-19T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00+01:00",
+     "end": "2026-12-20T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-21T12:00:00+01:00",
+     "end": "2026-12-21T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-22T12:00:00+01:00",
+     "end": "2026-12-22T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-23T12:00:00+01:00",
+     "end": "2026-12-23T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-24T12:00:00+01:00",
+     "end": "2026-12-24T22:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.noel-au-quai.ch/",
+   "description": "Marché de Noël au bord du lac avec chalets, carrousel et yourte des enfants (concerts, ateliers bricolage).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "noel-au-quai-geneve-2026",
+    "url": "https://www.noel-au-quai.ch/",
+    "licenseUrl": "https://www.noel-au-quai.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-carouge-2026",
+   "title": "Marché de Noël de Carouge",
+   "category": "christmas",
+   "venue": "Vieille ville de Carouge",
+   "city": "Carouge",
+   "canton": "GE",
+   "address": "Rue St-Joseph, Rue Victor-Amé, Place du Temple, Place du Marché, Esplanade du Théâtre de Carouge",
+   "slots": [
+    {
+     "start": "2026-12-04T14:00:00+01:00",
+     "end": "2026-12-04T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00+01:00",
+     "end": "2026-12-05T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T18:30:00+01:00"
+    }
+   ],
+   "officialUrl": "https://commerces-carouge.ch/noel-a-carouge/",
+   "description": "Environ 150 échoppes d'artisans et de commerçants dans les rues et places de la vieille ville de Carouge.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-carouge-2026",
+    "url": "https://commerces-carouge.ch/noel-a-carouge/",
+    "licenseUrl": "https://commerces-carouge.ch/noel-a-carouge/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-estavayer-2026",
+   "title": "Marché de Noël d'Estavayer-le-Lac",
+   "category": "christmas",
+   "venue": "Vieille ville",
+   "city": "Estavayer-le-Lac",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-12-04T15:00:00+01:00",
+     "end": "2026-12-04T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-05T09:00:00+01:00",
+     "end": "2026-12-05T19:00:00+01:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00+01:00",
+     "end": "2026-12-06T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://fribourg.ch/fr/estavayer-payerne/evenements/marche-de-noel-a-estavayer-le-lac/",
+   "description": "Plus de 70 stands d'artisans et produits locaux dans la cité médiévale, avec chants de Noël, concerts et animations familiales.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-estavayer-2026",
+    "url": "https://fribourg.ch/fr/estavayer-payerne/evenements/marche-de-noel-a-estavayer-le-lac/",
+    "licenseUrl": "https://fribourg.ch/fr/estavayer-payerne/evenements/marche-de-noel-a-estavayer-le-lac/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-morat-2026",
+   "title": "Marché de Noël de Morat",
+   "category": "christmas",
+   "venue": "Vieille ville de Morat",
+   "city": "Morat",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-12-11T16:00:00+01:00",
+     "end": "2026-12-11T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00+01:00",
+     "end": "2026-12-13T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://fribourg.ch/en/regionmurtensee/events/christmas-market-murten/",
+   "description": "Plus de 90 stands; carrousel gratuit, visite du Père Noël, contes et ateliers bougies et biscuits pour les enfants.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-morat-2026",
+    "url": "https://fribourg.ch/en/regionmurtensee/events/christmas-market-murten/",
+    "licenseUrl": "https://fribourg.ch/en/regionmurtensee/events/christmas-market-murten/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-noel-enfants-bastions-2026",
+   "title": "Marché de Noël des enfants",
+   "category": "swap_market",
+   "venue": "Parc des Bastions",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Promenade des Bastions 1, 1204 Genève",
+   "slots": [
+    {
+     "start": "2026-12-09T14:00:00+01:00",
+     "end": "2026-12-09T17:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.geneve.ch/themes/structures-accueil-enfance-activites-extrascolaires/activites-extrascolaires-manifestations/marche-noel-enfants",
+   "description": "Sous une grande tente, les enfants vendent, achètent ou échangent livres, jouets, DVD et articles de sport en bon état.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-noel-enfants-bastions-2026",
+    "url": "https://www.geneve.ch/themes/structures-accueil-enfance-activites-extrascolaires/activites-extrascolaires-manifestations/marche-noel-enfants",
+    "licenseUrl": "https://www.geneve.ch/themes/structures-accueil-enfance-activites-extrascolaires/activites-extrascolaires-manifestations/marche-noel-enfants",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:grandeur-nature-am-stram-gram-2026",
+   "title": "Grandeur nature (Am Stram Gram)",
+   "category": "show",
+   "venue": "Théâtre Am Stram Gram",
+   "city": "Genève",
+   "canton": "GE",
+   "address": "Route de Frontenex 56, 1207 Genève",
+   "slots": [
+    {
+     "start": "2026-11-28"
+    },
+    {
+     "start": "2026-11-29"
+    }
+   ],
+   "minAge": 4,
+   "officialUrl": "https://www.amstramgram.ch/en/6",
+   "description": "Spectacle jeune public du Théâtre Am Stram Gram, de 4 à 104 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "grandeur-nature-am-stram-gram-2026",
+    "url": "https://www.amstramgram.ch/en/6",
+    "licenseUrl": "https://www.amstramgram.ch/en/6",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:pour-qui-tu-te-prends-nuithonie-2026",
+   "title": "Pour qui tu te prends ? (Le Magnifique Théâtre)",
+   "category": "show",
+   "venue": "Nuithonie",
+   "city": "Villars-sur-Glâne",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-11-20T19:00:00+01:00"
+    },
+    {
+     "start": "2026-11-21T17:00:00+01:00"
+    },
+    {
+     "start": "2026-11-22T11:00:00+01:00"
+    },
+    {
+     "start": "2026-11-25T15:00:00+01:00"
+    },
+    {
+     "start": "2026-11-28T17:00:00+01:00"
+    },
+    {
+     "start": "2026-11-29T11:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.equilibre-nuithonie.ch/fr/spectacles",
+   "description": "Création théâtrale « En famille » du Magnifique Théâtre à Nuithonie, avec matinées le week-end.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "pour-qui-tu-te-prends-nuithonie-2026",
+    "url": "https://www.equilibre-nuithonie.ch/fr/spectacles",
+    "licenseUrl": "https://www.equilibre-nuithonie.ch/fr/spectacles",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:grain-de-genie-nuithonie-2027",
+   "title": "Grain de génie (Cie Jusqu'à m'y fondre)",
+   "category": "show",
+   "venue": "Nuithonie",
+   "city": "Villars-sur-Glâne",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2027-01-09T17:00:00+01:00"
+    },
+    {
+     "start": "2027-01-10T15:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.equilibre-nuithonie.ch/fr/spectacles",
+   "description": "Pièce de théâtre « En famille » de Mali Van Valenberg, à voir à Nuithonie.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "grain-de-genie-nuithonie-2027",
+    "url": "https://www.equilibre-nuithonie.ch/fr/spectacles",
+    "licenseUrl": "https://www.equilibre-nuithonie.ch/fr/spectacles",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:hallomania-geneve-2026",
+   "title": "Hallomania – festival d'Halloween",
+   "category": "halloween",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-10-24"
+    },
+    {
+     "start": "2026-10-25"
+    },
+    {
+     "start": "2026-10-26"
+    },
+    {
+     "start": "2026-10-27"
+    },
+    {
+     "start": "2026-10-28"
+    },
+    {
+     "start": "2026-10-29"
+    },
+    {
+     "start": "2026-10-30"
+    },
+    {
+     "start": "2026-10-31"
+    },
+    {
+     "start": "2026-11-01"
+    }
+   ],
+   "officialUrl": "https://www.hallomania.com/",
+   "description": "18 événements d'Halloween dans le canton: chasses aux bonbons dès 2 ans, chasse aux momies, rallyes, ateliers chocolat (payant).",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "hallomania-geneve-2026",
+    "url": "https://www.hallomania.com/",
+    "licenseUrl": "https://www.hallomania.com/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:semaine-eveil-culturel-geneve-2026",
+   "title": "Semaine de l'éveil culturel dès la naissance",
+   "category": "culture",
+   "city": "Genève",
+   "canton": "GE",
+   "slots": [
+    {
+     "start": "2026-10-10"
+    },
+    {
+     "start": "2026-10-11"
+    },
+    {
+     "start": "2026-10-12"
+    },
+    {
+     "start": "2026-10-13"
+    },
+    {
+     "start": "2026-10-14"
+    },
+    {
+     "start": "2026-10-15"
+    },
+    {
+     "start": "2026-10-16"
+    },
+    {
+     "start": "2026-10-17"
+    },
+    {
+     "start": "2026-10-18"
+    },
+    {
+     "start": "2026-10-19"
+    },
+    {
+     "start": "2026-10-20"
+    },
+    {
+     "start": "2026-10-21"
+    }
+   ],
+   "officialUrl": "https://www.geneve.ch/public/enfants-famille/semaine-eveil-culturel",
+   "description": "Ateliers parents-enfants, initiation théâtrale, danse, marionnettes et spectacles de 0 à 12 ans dans de nombreux lieux genevois.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "semaine-eveil-culturel-geneve-2026",
+    "url": "https://www.geneve.ch/public/enfants-famille/semaine-eveil-culturel",
+    "licenseUrl": "https://www.geneve.ch/public/enfants-famille/semaine-eveil-culturel",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:benichon-chatel-st-denis-2026",
+   "title": "Bénichon de Châtel-St-Denis",
+   "category": "food",
+   "city": "Châtel-St-Denis",
+   "canton": "FR",
+   "slots": [
+    {
+     "start": "2026-10-17T10:00:00+02:00",
+     "end": "2026-10-17T17:00:00+02:00"
+    },
+    {
+     "start": "2026-10-18T15:00:00+02:00",
+     "end": "2026-10-18T17:00:00+02:00"
+    }
+   ],
+   "officialUrl": "https://www.benichonchatel.ch/blank",
+   "description": "Marché artisanal avec balades à poney et lutte suisse le samedi; grand cortège folklorique le dimanche; fête foraine tout le week-end.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "benichon-chatel-st-denis-2026",
+    "url": "https://www.benichonchatel.ch/blank",
+    "licenseUrl": "https://www.benichonchatel.ch/blank",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:tu-comprendras-quand-tu-seras-grand-neuchatel-2026",
+   "title": "Tu comprendras quand tu seras grand (Théâtre du Passage)",
+   "category": "show",
+   "venue": "Théâtre du Passage, Grande salle",
+   "city": "Neuchâtel",
+   "canton": "NE",
+   "slots": [
+    {
+     "start": "2026-10-25T11:00:00+01:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.theatredupassage.ch/programme/detail/162-tu-comprendras-quand-tu-seras-grand",
+   "description": "Théâtre d'ombres et musique live (50 min) : Isidore, enfant de cirque, découvre l'école. Aussi à 17h le même jour. Dès 6 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "tu-comprendras-quand-tu-seras-grand-neuchatel-2026",
+    "url": "https://www.theatredupassage.ch/programme/detail/162-tu-comprendras-quand-tu-seras-grand",
+    "licenseUrl": "https://www.theatredupassage.ch/programme/detail/162-tu-comprendras-quand-tu-seras-grand",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:entranas-le-pommier-neuchatel-2026",
+   "title": "Entrañas (Entrailles) – Le Pommier",
+   "category": "show",
+   "venue": "Le Pommier",
+   "city": "Neuchâtel",
+   "canton": "NE",
+   "address": "Rue du Pommier 9, 2000 Neuchâtel",
+   "slots": [
+    {
+     "start": "2026-11-11T17:00:00+01:00"
+    },
+    {
+     "start": "2026-11-12T17:00:00+01:00"
+    }
+   ],
+   "minAge": 9,
+   "officialUrl": "https://lepommier.ch/event/1019-entranas-entrailles",
+   "description": "Théâtre de marionnettes (45 min) : une leçon d'anatomie poétique sur la beauté et la fragilité du corps. En espagnol surtitré français. Dès 9 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "entranas-le-pommier-neuchatel-2026",
+    "url": "https://lepommier.ch/event/1019-entranas-entrailles",
+    "licenseUrl": "https://lepommier.ch/event/1019-entranas-entrailles",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:petite-balade-aux-enfers-neuchatel-2026",
+   "title": "Petite balade aux enfers (Théâtre du Passage)",
+   "category": "show",
+   "venue": "Théâtre du Passage, Grande salle",
+   "city": "Neuchâtel",
+   "canton": "NE",
+   "slots": [
+    {
+     "start": "2026-11-15T14:00:00+01:00"
+    }
+   ],
+   "minAge": 6,
+   "officialUrl": "https://www.theatredupassage.ch/programme/detail/164-petite-balade-aux-enfers",
+   "description": "Opéra pour marionnettes hybrides : Orphée descend aux enfers pour sauver Eurydice. Représentations à 14h et 17h. Dès 6 ans.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "petite-balade-aux-enfers-neuchatel-2026",
+    "url": "https://www.theatredupassage.ch/programme/detail/164-petite-balade-aux-enfers",
+    "licenseUrl": "https://www.theatredupassage.ch/programme/detail/164-petite-balade-aux-enfers",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:la-noce-d-alfonse-neuchatel-2026",
+   "title": "La Noce d'Alfonse (Théâtre du Passage)",
+   "category": "show",
+   "venue": "Théâtre du Passage",
+   "city": "Neuchâtel",
+   "canton": "NE",
+   "slots": [
+    {
+     "start": "2026-12-02"
+    },
+    {
+     "start": "2026-12-03"
+    }
+   ],
+   "officialUrl": "https://www.theatredupassage.ch/programme/detail/181-la-noce-dalfonse",
+   "description": "Spectacle de cirque plein d'humour classé « Famille » par le Théâtre du Passage. Il reste peu de places.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "la-noce-d-alfonse-neuchatel-2026",
+    "url": "https://www.theatredupassage.ch/programme/detail/181-la-noce-dalfonse",
+    "licenseUrl": "https://www.theatredupassage.ch/programme/detail/181-la-noce-dalfonse",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-de-noel-monthey-2026",
+   "title": "Marché de Noël de Monthey",
+   "category": "christmas",
+   "city": "Monthey",
+   "canton": "VS",
+   "slots": [
+    {
+     "start": "2026-12-11T15:00:00+01:00",
+     "end": "2026-12-11T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-12T11:00:00+01:00",
+     "end": "2026-12-12T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-14T15:00:00+01:00",
+     "end": "2026-12-14T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-15T15:00:00+01:00",
+     "end": "2026-12-15T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16"
+    },
+    {
+     "start": "2026-12-17T15:00:00+01:00",
+     "end": "2026-12-17T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T15:00:00+01:00",
+     "end": "2026-12-18T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T11:00:00+01:00",
+     "end": "2026-12-19T22:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00+01:00",
+     "end": "2026-12-20T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-21T15:00:00+01:00",
+     "end": "2026-12-21T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-22T15:00:00+01:00",
+     "end": "2026-12-22T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-23T15:00:00+01:00",
+     "end": "2026-12-23T21:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.noelmonthey.ch/",
+   "description": "Une cinquantaine de chalets au centre-ville, avec ateliers et animations gratuits pour les enfants et spectacles déambulatoires.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-de-noel-monthey-2026",
+    "url": "https://www.noelmonthey.ch/",
+    "licenseUrl": "https://www.noelmonthey.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:marche-de-noel-martigny-2026",
+   "title": "Marché de Noël de Martigny (Village de Noël)",
+   "category": "christmas",
+   "venue": "Place Centrale",
+   "city": "Martigny",
+   "canton": "VS",
+   "slots": [
+    {
+     "start": "2026-12-11"
+    },
+    {
+     "start": "2026-12-12"
+    },
+    {
+     "start": "2026-12-13"
+    },
+    {
+     "start": "2026-12-14"
+    },
+    {
+     "start": "2026-12-15"
+    },
+    {
+     "start": "2026-12-16"
+    },
+    {
+     "start": "2026-12-17"
+    },
+    {
+     "start": "2026-12-18"
+    },
+    {
+     "start": "2026-12-19"
+    },
+    {
+     "start": "2026-12-20"
+    },
+    {
+     "start": "2026-12-21"
+    },
+    {
+     "start": "2026-12-22"
+    },
+    {
+     "start": "2026-12-23"
+    }
+   ],
+   "officialUrl": "https://myhameau.ch/",
+   "description": "Le Village de Noël illumine la Place Centrale de Martigny pendant près de deux semaines avant Noël.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "marche-de-noel-martigny-2026",
+    "url": "https://myhameau.ch/",
+    "licenseUrl": "https://myhameau.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:noel-des-montagnes-la-chaux-de-fonds-2026",
+   "title": "Noël des Montagnes – marché de Noël",
+   "category": "christmas",
+   "venue": "Place du Marché",
+   "city": "La Chaux-de-Fonds",
+   "canton": "NE",
+   "slots": [
+    {
+     "start": "2026-12-12T10:00:00+01:00",
+     "end": "2026-12-12T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00+01:00",
+     "end": "2026-12-13T18:00:00+01:00"
+    },
+    {
+     "start": "2026-12-14T17:00:00+01:00",
+     "end": "2026-12-14T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-15T17:00:00+01:00",
+     "end": "2026-12-15T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-16T14:00:00+01:00",
+     "end": "2026-12-16T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-17T17:00:00+01:00",
+     "end": "2026-12-17T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-18T17:00:00+01:00",
+     "end": "2026-12-18T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00+01:00",
+     "end": "2026-12-19T21:00:00+01:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00+01:00",
+     "end": "2026-12-20T18:00:00+01:00"
+    }
+   ],
+   "officialUrl": "https://www.noeldesmontagnes.ch/",
+   "description": "Marché de Noël de la place du Marché : une quinzaine de chalets, artisans et animations pour petits et grands.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "noel-des-montagnes-la-chaux-de-fonds-2026",
+    "url": "https://www.noeldesmontagnes.ch/",
+    "licenseUrl": "https://www.noeldesmontagnes.ch/",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
+   }
+  },
+  {
+   "id": "curated:fusees-theatre-du-passage-neuchatel-2027",
+   "title": "Fusées (Théâtre du Passage)",
+   "category": "show",
+   "venue": "Théâtre du Passage",
+   "city": "Neuchâtel",
+   "canton": "NE",
+   "slots": [
+    {
+     "start": "2027-01-16"
+    }
+   ],
+   "officialUrl": "https://www.theatredupassage.ch/programme/detail/158-fusees",
+   "description": "Spectacle de théâtre classé « Famille » dans la saison 2026-2027 du Théâtre du Passage.",
+   "source": {
+    "sourceId": "famigo-curated",
+    "name": "Sélection Lupetti (source : organisateur)",
+    "agendaId": "famigo-curated",
+    "recordId": "fusees-theatre-du-passage-neuchatel-2027",
+    "url": "https://www.theatredupassage.ch/programme/detail/158-fusees",
+    "licenseUrl": "https://www.theatredupassage.ch/programme/detail/158-fusees",
+    "collectedAt": "2026-10-05T12:00:00+02:00",
+    "familyEvidence": "Événement familial vérifié sur la page de l’organisateur le 05.10.2026"
    }
   }
  ]

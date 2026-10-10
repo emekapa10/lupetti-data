@@ -1,0 +1,10 @@
+name: Essai Fidou (temporaire)
+on: { push: { branches: [essai-fidou] } }
+jobs:
+  e:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node essai/explore.mjs

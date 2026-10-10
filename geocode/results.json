@@ -1,1039 +1,357 @@
 {
  "results": [
   {
-   "id": "lac-de-champex",
-   "q": "Lac de Champex, Orsières",
-   "name": "Lac de Champex",
-   "city": "Orsières",
-   "results": [
-    {
-     "lat": "46.0284449",
-     "lon": "7.1163339",
-     "name": "Lac de Champex",
-     "display": "Lac de Champex, Prassurny, Champex-Lac, Orsières, Entremont, Bas-Valais, Valais/Wallis, 1937, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/1067492",
-     "type": "lake"
-    }
-   ]
-  },
-  {
    "id": "bains-thermaux-d-ovronnaz",
-   "q": "Bains thermaux d'Ovronnaz, Leytron",
-   "name": "Bains thermaux d'Ovronnaz",
+   "q": "Thermalp, Ovronnaz",
+   "name": "Thermalp, Ovronnaz",
    "city": "Leytron",
    "results": []
-  },
-  {
-   "id": "palladium-de-champery",
-   "q": "Palladium de Champéry, Champéry",
-   "name": "Palladium de Champéry",
-   "city": "Champéry",
-   "results": [
-    {
-     "lat": "46.1770570",
-     "lon": "6.8718080",
-     "name": "Palladium",
-     "display": "Palladium, 5, Route du Centre Sportif, Champery, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1870, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/1409841574",
-     "type": "sports_centre"
-    }
-   ]
-  },
-  {
-   "id": "mont-blanc-express",
-   "q": "Avenue de la Gare 66, 1920 Martigny",
-   "name": "Mont-Blanc Express",
-   "city": "Martigny",
-   "results": [
-    {
-     "lat": "46.1056210",
-     "lon": "7.0790236",
-     "name": "TMR Voyages",
-     "display": "TMR Voyages, 66, Avenue de la Gare, Le Guercet, Martigny, Bas-Valais, Valais/Wallis, 1920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9621645017",
-     "type": "travel_agency"
-    },
-    {
-     "lat": "46.1055406",
-     "lon": "7.0790662",
-     "name": "",
-     "display": "66, Avenue de la Gare, Le Guercet, Martigny, Bas-Valais, Valais/Wallis, 1920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9337536775",
-     "type": "house"
-    }
-   ]
-  },
-  {
-   "id": "sentier-des-sens",
-   "q": "Maison de la Forêt, La Tzoumaz",
-   "name": "Sentier des Sens",
-   "city": "Riddes",
-   "results": [
-    {
-     "lat": "46.1363930",
-     "lon": "7.2428226",
-     "name": "Maison de la Forêt",
-     "display": "Maison de la Forêt, Route de la Croix de Coeur, La Tzoumaz, Riddes, Martigny, Bas-Valais, Valais/Wallis, 1918, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/12701840480",
-     "type": "bus_stop"
-    },
-    {
-     "lat": "46.1358034",
-     "lon": "7.2433977",
-     "name": "Maison de la forêt",
-     "display": "Maison de la forêt, Route de la Croix de Coeur, La Tzoumaz, Riddes, Martigny, Bas-Valais, Valais/Wallis, 1918, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/1960441347",
-     "type": "attraction"
-    }
-   ]
-  },
-  {
-   "id": "lac-de-taney",
-   "q": "Lac de Taney, Vouvry",
-   "name": "Lac de Taney",
-   "city": "Vouvry",
-   "results": [
-    {
-     "lat": "46.3454761",
-     "lon": "6.8404748",
-     "name": "Lac de Taney",
-     "display": "Lac de Taney, Taney, Miex, Vouvry, Monthey, Bas-Valais, Valais/Wallis, 1896, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/3105927",
-     "type": "lake"
-    }
-   ]
   },
   {
    "id": "mini-zoo-de-jorasse",
-   "q": "Mini Zoo de Jorasse, Leytron",
-   "name": "Mini Zoo de Jorasse",
+   "q": "Jorasse, Leytron",
+   "name": "Jorasse, Leytron",
    "city": "Leytron",
-   "results": []
-  },
-  {
-   "id": "sentier-la-legende-de-frachette",
-   "q": "Couvert de Frâchette, 1873 Champoussin",
-   "name": "Sentier La Légende de Frâchette",
-   "city": "Val-d'Illiez",
    "results": [
     {
-     "lat": "46.2064306",
-     "lon": "6.8738470",
-     "name": "Couvert de Frâchette",
-     "display": "Couvert de Frâchette, Route de Champoussin, Champoussin, Val-d'Illiez, Monthey, Bas-Valais, Valais/Wallis, 1873, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/69465961",
-     "type": "shelter"
-    }
-   ]
-  },
-  {
-   "id": "passerelle-a-farinet",
-   "q": "Passerelle à Farinet, Saillon",
-   "name": "Passerelle à Farinet",
-   "city": "Saillon",
-   "results": [
-    {
-     "lat": "46.1836843",
-     "lon": "7.1834543",
-     "name": "Passerelle à Farinet",
-     "display": "Passerelle à Farinet, Route de la Passerelle, Dugny, Ovronnaz, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1913, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/6538146298",
-     "type": "guidepost"
-    }
-   ]
-  },
-  {
-   "id": "parc-de-loisirs-de-verbier",
-   "q": "Parc de loisirs de Verbier, Val de Bagnes",
-   "name": "Parc de loisirs de Verbier",
-   "city": "Val de Bagnes",
-   "results": []
-  },
-  {
-   "id": "sentier-didactique-de-la-chataigneraie",
-   "q": "Sentier didactique de la Châtaigneraie, Fully",
-   "name": "Sentier didactique de la Châtaigneraie",
-   "city": "Fully",
-   "results": []
-  },
-  {
-   "id": "lac-de-salanfe",
-   "q": "Camping Van d'en Haut, Salvan (départ)",
-   "name": "Lac de Salanfe",
-   "city": "Evionnaz",
-   "results": [
-    {
-     "lat": "46.1403246",
-     "lon": "6.9565780",
-     "name": "Lac de Salanfe",
-     "display": "Lac de Salanfe, Evionnaz, Saint-Maurice, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/157401",
-     "type": "reservoir"
-    }
-   ]
-  },
-  {
-   "id": "chemin-de-la-corniche-poussettes",
-   "q": "Départ : office du tourisme d'Ovronnaz",
-   "name": "Chemin de la Corniche (poussettes)",
-   "city": "Leytron",
-   "results": []
-  },
-  {
-   "id": "sorties-nature-en-famille-a-la-fouly",
-   "q": "Rte de Ferret 53, 1944 La Fouly",
-   "name": "Sorties nature en famille à La Fouly",
-   "city": "Orsières",
-   "results": [
-    {
-     "lat": "45.9317823",
-     "lon": "7.0988714",
-     "name": "",
-     "display": "53, Route de Ferret, Le Clou, La Fouly, Orsières, Entremont, Bas-Valais, Valais/Wallis, 1944, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/158753344",
-     "type": "office"
+     "lat": "46.2041902",
+     "lon": "7.1512178",
+     "name": "Jorasse",
+     "display": "Jorasse, Route du Pré de Bougnonne, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1911, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/29560908",
+     "type": "chair_lift"
     },
     {
-     "lat": "45.9317899",
-     "lon": "7.0987920",
-     "name": "",
-     "display": "53, Route de Ferret, Le Clou, La Fouly, Orsières, Entremont, Bas-Valais, Valais/Wallis, 1944, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9931715194",
-     "type": "atm"
-    }
-   ]
-  },
-  {
-   "id": "bains-de-geronde",
-   "q": "Chemin du Grand Lac, 3960 Sierre",
-   "name": "Bains de Géronde",
-   "city": "Sierre",
-   "results": [
-    {
-     "lat": "46.2906361",
-     "lon": "7.5400500",
-     "name": "Chemin du Grand-Lac",
-     "display": "Chemin du Grand-Lac, Géronde, Sierre, Valais central, Valais/Wallis, 3960, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/244299438",
-     "type": "residential"
+     "lat": "46.2037405",
+     "lon": "7.1419212",
+     "name": "Jorasse",
+     "display": "Jorasse, Route de Jorasse, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1911, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/325771443",
+     "type": "station"
     },
     {
-     "lat": "46.2857659",
-     "lon": "7.5403508",
-     "name": "Chemin du Grand-Lac",
-     "display": "Chemin du Grand-Lac, Géronde, Sierre, Valais central, Valais/Wallis, 3965, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/1348490213",
-     "type": "residential"
-    }
-   ]
-  },
-  {
-   "id": "etang-long",
-   "q": "Étang Long, Crans-Montana",
-   "name": "Étang Long",
-   "city": "Crans-Montana",
-   "results": [
-    {
-     "lat": "46.3026985",
-     "lon": "7.4678436",
-     "name": "Etang-Long",
-     "display": "Etang-Long, Plans-Mayens, Lens, Sierre, Valais central, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/5303435",
-     "type": "water"
+     "lat": "46.2046430",
+     "lon": "7.1605142",
+     "name": "Jorasse",
+     "display": "Jorasse, Route d'Odonne, Ovronnaz, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1911, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/325771466",
+     "type": "station"
     },
     {
-     "lat": "46.3028193",
-     "lon": "7.4696420",
-     "name": "Etang-Long",
-     "display": "Etang-Long, Route Touristique, Les Briesses, Chermignon, Crans-Montana, Sierre, Valais central, Valais/Wallis, 3971, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/355702145",
+     "lat": "46.2024506",
+     "lon": "7.1701147",
+     "name": "Jorasse",
+     "display": "Jorasse, Route des Bains, Tzou, Ovronnaz, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1911, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/325787030",
      "type": "bus_stop"
-    }
-   ]
-  },
-  {
-   "id": "lac-grenon",
-   "q": "Lac Grenon, Crans-Montana",
-   "name": "Lac Grenon",
-   "city": "Crans-Montana",
-   "results": [
-    {
-     "lat": "46.3099792",
-     "lon": "7.4758314",
-     "name": "Lac Grenon",
-     "display": "Lac Grenon, Montana, Crans-Montana, Sierre, Valais central, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/2992203",
-     "type": "water"
-    }
-   ]
-  },
-  {
-   "id": "tour-du-lac-de-tseuzier",
-   "q": "Barrage de Tseuzier",
-   "name": "Tour du lac de Tseuzier",
-   "city": "Ayent",
-   "results": [
-    {
-     "lat": "46.3353305",
-     "lon": "7.4363200",
-     "name": "Les Rousses - Barrage de Tseuzier",
-     "display": "Les Rousses - Barrage de Tseuzier, Les Rousses, Ayent, Hérens, Valais central, Valais/Wallis, 1966, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/234190724",
-     "type": "path"
     },
     {
-     "lat": "46.3455903",
-     "lon": "7.4343234",
-     "name": "Restaurant du barrage de Tseuzier",
-     "display": "Restaurant du barrage de Tseuzier, Chemin de Bisse d'Ayent, Les Rousses, Ayent, Hérens, Valais central, Valais/Wallis, 1966, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/1416708826",
-     "type": "restaurant"
-    },
-    {
-     "lat": "46.3463770",
-     "lon": "7.4351560",
-     "name": "Anzère, Barrage de Tseuzier",
-     "display": "Anzère, Barrage de Tseuzier, Route du Rawil, Ayent, Hérens, Valais central, Valais/Wallis, 1966, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/983827378",
-     "type": "bus_stop"
-    }
-   ]
-  },
-  {
-   "id": "derborence",
-   "q": "Derborence, Conthey",
-   "name": "Derborence",
-   "city": "Conthey",
-   "results": [
-    {
-     "lat": "46.2797389",
-     "lon": "7.2141592",
-     "name": "Derborence",
-     "display": "Derborence, Conthey, Valais central, Valais/Wallis, 1964, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/2367987752",
-     "type": "hamlet"
-    },
-    {
-     "lat": "46.2790796",
-     "lon": "7.2169455",
-     "name": "Lac de Derborence",
-     "display": "Lac de Derborence, Derborence, Conthey, Valais central, Valais/Wallis, 1964, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/3932349",
-     "type": "lake"
-    }
-   ]
-  },
-  {
-   "id": "foret-de-l-aventure-vercorin",
-   "q": "3967 Vercorin",
-   "name": "Forêt de l'Aventure Vercorin",
-   "city": "Chalais",
-   "results": [
-    {
-     "lat": "46.2571655",
-     "lon": "7.5307040",
-     "name": "Vercorin",
-     "display": "Vercorin, Chalais, Sierre, Valais central, Valais/Wallis, 3967, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/1299415203",
-     "type": "village"
-    }
-   ]
-  },
-  {
-   "id": "anzere-family-fun-park",
-   "q": "Centre du village, 1972 Anzère",
-   "name": "Anzère Family Fun Park",
-   "city": "Ayent",
-   "results": [
-    {
-     "lat": "46.2980585",
-     "lon": "7.3978845",
-     "name": "Family Fun Park",
-     "display": "Family Fun Park, Les Bochonès, Anzère, Ayent, Hérens, Valais central, Valais/Wallis, 1972, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/1128953857",
-     "type": "recreation_ground"
-    }
-   ]
-  },
-  {
-   "id": "parc-a-marmota",
-   "q": "Place de la Chapelle 2, 1972 Anzère",
-   "name": "Parc à Marmota",
-   "city": "Ayent",
-   "results": [
-    {
-     "lat": "46.2979248",
-     "lon": "7.4048938",
-     "name": "Hôtel Restaurant La Poste",
-     "display": "Hôtel Restaurant La Poste, 2, Place de la Chapelle, Pralan, Anzère, Ayent, Hérens, Valais central, Valais/Wallis, 1972, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/1147309892",
-     "type": "restaurant"
-    },
-    {
-     "lat": "46.2979334",
-     "lon": "7.4048547",
-     "name": "",
-     "display": "2, Place de la Chapelle, Pralan, Anzère, Ayent, Hérens, Valais central, Valais/Wallis, 1972, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9384147506",
-     "type": "house"
-    }
-   ]
-  },
-  {
-   "id": "anzere-spa-wellness",
-   "q": "Place du Village 2A, 1972 Anzère",
-   "name": "Anzère Spa & Wellness",
-   "city": "Ayent",
-   "results": [
-    {
-     "lat": "46.2964606",
-     "lon": "7.3980716",
-     "name": "",
-     "display": "2a, Place du Village, Les Bochonès, Anzère, Ayent, Hérens, Valais central, Valais/Wallis, 1972, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9384146855",
-     "type": "house"
-    }
-   ]
-  },
-  {
-   "id": "lac-d-arbey",
-   "q": "Lac d'Arbey, Evolène",
-   "name": "Lac d'Arbey",
-   "city": "Evolène",
-   "results": []
-  },
-  {
-   "id": "lac-bleu-d-arolla",
-   "q": "Lac Bleu d'Arolla, Evolène",
-   "name": "Lac Bleu d'Arolla",
-   "city": "Evolène",
-   "results": [
-    {
-     "lat": "46.0459098",
-     "lon": "7.4821468",
-     "name": "Sentier du Lac Bleu",
-     "display": "Sentier du Lac Bleu, Pramousse, Arolla, Evolène, Hérens, Valais central, Valais/Wallis, 1983, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/1415529671",
-     "type": "path"
-    }
-   ]
-  },
-  {
-   "id": "bisse-du-milieu-et-bisse-vieux",
-   "q": "Haute-Nendaz / Les Clèves",
-   "name": "Bisse du Milieu et Bisse Vieux – chasse au trésor",
-   "city": "Nendaz",
-   "results": [
-    {
-     "lat": "46.1759783",
-     "lon": "7.2865951",
-     "name": "Bistro Les Clèves",
-     "display": "Bistro Les Clèves, 2, Chemin du Torrent, Haute Nendaz, Nendaz, Conthey, Valais central, Valais/Wallis, 1997, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/250129751",
-     "type": "restaurant"
-    }
-   ]
-  },
-  {
-   "id": "passerelles-du-bisse-du-torrent-neuf",
-   "q": "Passerelles du Bisse du Torrent-Neuf, Savièse",
-   "name": "Passerelles du Bisse du Torrent-Neuf",
-   "city": "Savièse",
-   "results": []
-  },
-  {
-   "id": "sentier-des-marmottes-crans-montana",
-   "q": "Cry d'Er",
-   "name": "Sentier des Marmottes",
-   "city": "Crans-Montana",
-   "results": [
-    {
-     "lat": "46.3349082",
-     "lon": "7.4783728",
-     "name": "Cry d'Er",
-     "display": "Cry d'Er, Randogne, Crans-Montana, Sierre, Valais central, Valais/Wallis, 3963, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/470573950",
-     "type": "locality"
-    },
-    {
-     "lat": "46.3355206",
-     "lon": "7.4759938",
-     "name": "Cry-d'Er",
-     "display": "Cry-d'Er, Chemin de Cry d'Er, Plans-Mayens, Lens, Sierre, Valais central, Valais/Wallis, 3963, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/31748633",
-     "type": "platter"
-    },
-    {
-     "lat": "46.3346628",
-     "lon": "7.4784897",
-     "name": "Cry d'Er",
-     "display": "Cry d'Er, mtb_red_freeride, Plans-Mayens, Lens, Sierre, Valais central, Valais/Wallis, 3963, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/436389227",
-     "type": "restaurant"
-    },
-    {
-     "lat": "46.3348228",
-     "lon": "7.4777222",
-     "name": "Cry d'Er",
-     "display": "Cry d'Er, 24, Chemin de Cry d'Er, Plans-Mayens, Crans-Montana, Sierre, Valais central, Valais/Wallis, 3963, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/461908364",
-     "type": "station"
-    },
-    {
-     "lat": "46.3367237",
-     "lon": "7.4787174",
-     "name": "Cry d'Er",
-     "display": "Cry d'Er, Chemin de Cry d'Er, Plans-Mayens, Lens, Sierre, Valais central, Valais/Wallis, 3963, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/3978166270",
-     "type": "station"
-    }
-   ]
-  },
-  {
-   "id": "funiculaire-sierre-montana-crans",
-   "q": "Rue du Pradec 2, 3960 Sierre",
-   "name": "Funiculaire Sierre–Montana–Crans",
-   "city": "Sierre",
-   "results": []
-  },
-  {
-   "id": "piscine-en-plein-air-de-vissoie",
-   "q": "Vissoie",
-   "name": "Piscine en plein air de Vissoie",
-   "city": "Anniviers",
-   "results": [
-    {
-     "lat": "46.2153165",
-     "lon": "7.5853597",
-     "name": "Vissoie",
-     "display": "Vissoie, Anniviers, Sierre, Valais central, Valais/Wallis, 3961, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/240085078",
-     "type": "village"
-    }
-   ]
-  },
-  {
-   "id": "piscine-couverte-et-spa-de-zinal",
-   "q": "Zinal",
-   "name": "Piscine couverte et Spa de Zinal",
-   "city": "Anniviers",
-   "results": [
-    {
-     "lat": "46.1362870",
-     "lon": "7.6267982",
-     "name": "Zinal",
-     "display": "Zinal, Anniviers, Sierre, Valais central, Valais/Wallis, 3961, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/308504436",
-     "type": "village"
-    },
-    {
-     "lat": "46.0272094",
-     "lon": "7.6304632",
-     "name": "Pointe de Zinal",
-     "display": "Pointe de Zinal, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/393169563",
-     "type": "peak"
-    }
-   ]
-  },
-  {
-   "id": "chateau-de-tourbillon",
-   "q": "1950 Sion",
-   "name": "Château de Tourbillon",
-   "city": "Sion",
-   "results": [
-    {
-     "lat": "46.2302875",
-     "lon": "7.3569955",
-     "name": "1950",
-     "display": "1950, Sion, Valais central, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/None/None",
-     "type": "postcode"
-    }
-   ]
-  },
-  {
-   "id": "alaia-bay",
-   "q": "Alaïa Bay, Sion",
-   "name": "Alaïa Bay",
-   "city": "Sion",
-   "results": [
-    {
-     "lat": "46.2141484",
-     "lon": "7.3238509",
-     "name": "Alaïa Bay",
-     "display": "Alaïa Bay, 65, Route d'Aproz, Sion, Valais central, Valais/Wallis, 1950, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/966220130",
-     "type": "sports_centre"
-    },
-    {
-     "lat": "46.2136790",
-     "lon": "7.3232027",
-     "name": "Alaïa Bay",
-     "display": "Alaïa Bay, 65, Route d'Aproz, Sion, Valais central, Valais/Wallis, 1950, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/929129591",
-     "type": "yes"
-    }
-   ]
-  },
-  {
-   "id": "wolli-erlebnispark-sunnegga",
-   "q": "Wolli-Erlebnispark Sunnegga, Zermatt",
-   "name": "Wolli-Erlebnispark Sunnegga",
-   "city": "Zermatt",
-   "results": []
-  },
-  {
-   "id": "train-du-gornergrat",
-   "q": "Train du Gornergrat (Gornergrat Bahn), Zermatt",
-   "name": "Train du Gornergrat (Gornergrat Bahn)",
-   "city": "Zermatt",
-   "results": []
-  },
-  {
-   "id": "gorges-du-gorner",
-   "q": "Gorges du Gorner (Gornerschlucht), Zermatt",
-   "name": "Gorges du Gorner (Gornerschlucht)",
-   "city": "Zermatt",
-   "results": []
-  },
-  {
-   "id": "train-a-vapeur-de-la-furka",
-   "q": "Train à vapeur de la Furka (Dampfbahn Furka-Bergstrecke), Obergoms",
-   "name": "Train à vapeur de la Furka (Dampfbahn Furka-Bergstrecke)",
-   "city": "Obergoms",
-   "results": []
-  },
-  {
-   "id": "forest-fun-park-zermatt",
-   "q": "Forest Fun Park Zermatt, Zermatt",
-   "name": "Forest Fun Park Zermatt",
-   "city": "Zermatt",
-   "results": []
-  },
-  {
-   "id": "leukerbad-therme",
-   "q": "Leukerbad Therme, Loèche-les-Bains",
-   "name": "Leukerbad Therme",
-   "city": "Loèche-les-Bains",
-   "results": [
-    {
-     "lat": "46.3779998",
-     "lon": "7.6255020",
-     "name": "Leukerbad Therme",
-     "display": "Leukerbad Therme, 32, Thermenstrasse, Leukerbad, Leuk, Oberwallis, Valais/Wallis, 3954, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/23106089",
-     "type": "public_bath"
-    },
-    {
-     "lat": "46.3779601",
-     "lon": "7.6254007",
-     "name": "Leukerbad-Therme",
-     "display": "Leukerbad-Therme, Thermenstrasse, Leukerbad, Leuk, Oberwallis, Valais/Wallis, 3954, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/531815534",
-     "type": "yes"
-    }
-   ]
-  },
-  {
-   "id": "col-de-la-gemmi",
-   "q": "Col de la Gemmi et lac de Dauben, Loèche-les-Bains",
-   "name": "Col de la Gemmi et lac de Dauben",
-   "city": "Loèche-les-Bains",
-   "results": []
-  },
-  {
-   "id": "matterhorn-glacier-paradise",
-   "q": "Matterhorn Glacier Paradise, Zermatt",
-   "name": "Matterhorn Glacier Paradise",
-   "city": "Zermatt",
-   "results": [
-    {
-     "lat": "45.9384024",
-     "lon": "7.7295381",
-     "name": "Matterhorn Glacier Paradise",
-     "display": "Matterhorn Glacier Paradise, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/22341541",
-     "type": "footway"
-    },
-    {
-     "lat": "45.9374052",
-     "lon": "7.7294485",
-     "name": "Matterhorn Glacier Paradise",
-     "display": "Matterhorn Glacier Paradise, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/1047387205",
-     "type": "steps"
-    },
-    {
-     "lat": "45.9384214",
-     "lon": "7.7291957",
-     "name": "Matterhorn Glacier Paradise",
-     "display": "Matterhorn Glacier Paradise, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/5069111999",
-     "type": "station"
-    },
-    {
-     "lat": "46.0151614",
-     "lon": "7.7427185",
-     "name": "Matterhorn Glacier Paradise",
-     "display": "Matterhorn Glacier Paradise, Schluhmattstrasse, Blatten, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/2111493581",
-     "type": "bus_stop"
-    }
-   ]
-  },
-  {
-   "id": "hohsi-land-kreuzboden",
-   "q": "Bergbahnen Hohsaas AG, Seilbahnstrasse 18, 3910 Saas-Grund",
-   "name": "Hohsi-Land Kreuzboden",
-   "city": "Saas-Grund",
-   "results": []
-  },
-  {
-   "id": "sentier-des-marmottes-spielboden",
-   "q": "Sentier des marmottes de Spielboden, Saas-Fee",
-   "name": "Sentier des marmottes de Spielboden",
-   "city": "Saas-Fee",
-   "results": []
-  },
-  {
-   "id": "hannig-saas-fee",
-   "q": "Hannig (Saas-Fee), Saas-Fee",
-   "name": "Hannig (Saas-Fee)",
-   "city": "Saas-Fee",
-   "results": [
-    {
-     "lat": "46.1125877",
-     "lon": "7.9219867",
-     "name": "Hannig",
-     "display": "Hannig, Hannigweg, Honeggu, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/155478239",
-     "type": "gondola"
-    },
-    {
-     "lat": "46.1151529",
-     "lon": "7.9163285",
-     "name": "Hannig",
-     "display": "Hannig, Hannigweg, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/7988055338",
-     "type": "guidepost"
-    },
-    {
-     "lat": "46.1101577",
-     "lon": "7.9273298",
-     "name": "Hannig",
-     "display": "Hannig, Hannigstrasse, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/1678698735",
-     "type": "station"
-    },
-    {
-     "lat": "46.1150177",
-     "lon": "7.9166435",
-     "name": "Hannig",
-     "display": "Hannig, Hannigweg, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/1678698638",
-     "type": "station"
-    },
-    {
-     "lat": "46.1199183",
-     "lon": "7.9291100",
-     "name": "Hannigweg",
-     "display": "Hannigweg, Schliechte, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/127872292",
+     "lat": "46.2040725",
+     "lon": "7.1386721",
+     "name": "Route de Jorasse",
+     "display": "Route de Jorasse, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1911, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/257559447",
      "type": "track"
     }
    ]
   },
   {
-   "id": "sentier-de-l-alpe-lauchernalp",
-   "q": "Sentier découverte de l'alpe (Lauchernalp), Wiler (Lötschen)",
-   "name": "Sentier découverte de l'alpe (Lauchernalp)",
-   "city": "Wiler (Lötschen)",
-   "results": []
-  },
-  {
-   "id": "sentier-des-legendes-du-lotschental",
-   "q": "Sentier des légendes du Lötschental, Wiler (Lötschen)",
-   "name": "Sentier des légendes du Lötschental",
-   "city": "Wiler (Lötschen)",
-   "results": []
-  },
-  {
-   "id": "sentier-des-nains-gogwargiweg",
-   "q": "Sentier des nains Gogwärgiweg, Fiesch",
-   "name": "Sentier des nains Gogwärgiweg",
-   "city": "Fiesch",
-   "results": []
-  },
-  {
-   "id": "parc-de-cordes-baschweri",
-   "q": "Parc de cordes Baschweri, Bettmeralp",
-   "name": "Parc de cordes Baschweri",
-   "city": "Bettmeralp",
-   "results": []
-  },
-  {
-   "id": "lac-de-grachen",
-   "q": "Lac de Grächen (Grächnersee), Grächen",
-   "name": "Lac de Grächen (Grächnersee)",
-   "city": "Grächen",
-   "results": []
-  },
-  {
-   "id": "chateau-stockalper",
-   "q": "Alte Simplonstrasse 28, 3900 Brig",
-   "name": "Château Stockalper",
-   "city": "Brigue-Glis",
-   "results": [
-    {
-     "lat": "46.3151774",
-     "lon": "7.9907029",
-     "name": "Stockalperschloss",
-     "display": "Stockalperschloss, 28, Alte Simplonstrasse, Brig, Brig-Glis, Brig, Oberwallis, Valais/Wallis, 3900, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/relation/6682526",
-     "type": "government"
-    }
-   ]
-  },
-  {
-   "id": "schwarzsee-zermatt",
-   "q": "3920 Zermatt",
-   "name": "Lac Noir (Schwarzsee) de Zermatt",
-   "city": "Zermatt",
-   "results": [
-    {
-     "lat": "46.0178190",
-     "lon": "7.7471749",
-     "name": "3920",
-     "display": "3920, Zermatt, Visp, Oberwallis, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/None/None",
-     "type": "postcode"
-    }
-   ]
-  },
-  {
-   "id": "dick-waldji-saas-fee",
-   "q": "Dick Waldji, Saas-Fee",
-   "name": "Dick Waldji",
-   "city": "Saas-Fee",
-   "results": []
-  },
-  {
-   "id": "curated:familien-bergrestaurant-hannigalp-graechen",
-   "q": "Hannigalp, 3925 Grächen",
-   "name": "Berg-Familienrestaurant Hannigalp",
-   "city": "Grächen",
-   "results": [
-    {
-     "lat": "46.2065453",
-     "lon": "7.8679331",
-     "name": "Hannigalp",
-     "display": "Hannigalp, Grächen, Visp, Oberwallis, Valais/Wallis, 3925, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/7402752050",
-     "type": "isolated_dwelling"
-    },
-    {
-     "lat": "46.2069734",
-     "lon": "7.8671739",
-     "name": "Hannigalp",
-     "display": "Hannigalp, 783, Flowtrail Grächen, Bodo, Grächen, Visp, Oberwallis, Valais/Wallis, 3925, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/400660511",
-     "type": "restaurant"
-    },
-    {
-     "lat": "46.2081902",
-     "lon": "7.8704443",
-     "name": "Hannigalp",
-     "display": "Hannigalp, Flowtrail Grächen, Bodo, Grächen, Visp, Oberwallis, Valais/Wallis, 3925, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9855722429",
-     "type": "firepit"
-    }
-   ]
-  },
-  {
-   "id": "curated:restaurant-moosalp-torbel",
-   "q": "Moosalp, 3923 Törbel",
-   "name": "Restaurant Moosalp",
-   "city": "Törbel",
-   "results": [
-    {
-     "lat": "46.2515854",
-     "lon": "7.8301577",
-     "name": "Moosalp",
-     "display": "Moosalp, Törbel, Visp, Oberwallis, Valais/Wallis, 3923, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/492181848",
-     "type": "locality"
-    },
-    {
-     "lat": "46.2508293",
-     "lon": "7.8297466",
-     "name": "Moosalp",
-     "display": "Moosalp, 357, Moosalpstrasse, Törbel, Visp, Oberwallis, Valais/Wallis, 3923, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/321341276",
-     "type": "restaurant"
-    },
-    {
-     "lat": "46.2512760",
-     "lon": "7.8297070",
-     "name": "Moosalp",
-     "display": "Moosalp, Moosalpstrasse, Törbel, Visp, Oberwallis, Valais/Wallis, 3923, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/428612609",
-     "type": "bus_stop"
-    }
-   ]
-  },
-  {
-   "id": "curated:relais-des-chasseurs-fully",
-   "q": "Relais des Chasseurs, Fully",
-   "name": "Relais des Chasseurs",
-   "city": "Fully",
-   "results": [
-    {
-     "lat": "46.1660422",
-     "lon": "7.1384987",
-     "name": "Relais des Chasseurs",
-     "display": "Relais des Chasseurs, 101, Route de Chibo, Chiboz d'en Bas, Mazembroz, Fully, Martigny, Bas-Valais, Valais/Wallis, 1926, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/12703984112",
-     "type": "restaurant"
-    }
-   ]
-  },
-  {
-   "id": "curated:la-marmotte-savoleyres-verbier",
-   "q": "La Marmotte, Val de Bagnes",
-   "name": "La Marmotte",
+   "id": "parc-de-loisirs-de-verbier",
+   "q": "Verbier",
+   "name": "Verbier",
    "city": "Val de Bagnes",
    "results": [
     {
-     "lat": "46.1147219",
-     "lon": "7.2305714",
-     "name": "La Marmotte",
-     "display": "La Marmotte, Les Planards, Val de Bagnes, Entremont, Bas-Valais, Valais/Wallis, 1934, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/304058580",
-     "type": "restaurant"
+     "lat": "46.0961011",
+     "lon": "7.2286765",
+     "name": "Verbier",
+     "display": "Verbier, Val de Bagnes, Entremont, Bas-Valais, Valais/Wallis, 1934, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/310532759",
+     "type": "village"
+    }
+   ]
+  },
+  {
+   "id": "sentier-didactique-de-la-chataigneraie",
+   "q": "Fully",
+   "name": "Fully",
+   "city": "Fully",
+   "results": [
+    {
+     "lat": "46.1390008",
+     "lon": "7.1146544",
+     "name": "Fully",
+     "display": "Fully, Martigny, Bas-Valais, Valais/Wallis, 1926, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/relation/1685308",
+     "type": "administrative"
+    }
+   ]
+  },
+  {
+   "id": "chemin-de-la-corniche-poussettes",
+   "q": "Ovronnaz",
+   "name": "Ovronnaz",
+   "city": "Leytron",
+   "results": [
+    {
+     "lat": "46.1989846",
+     "lon": "7.1723377",
+     "name": "Ovronnaz",
+     "display": "Ovronnaz, Leytron, Martigny, Bas-Valais, Valais/Wallis, 1911, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/325810324",
+     "type": "village"
     },
     {
-     "lat": "46.0989261",
-     "lon": "7.2313059",
-     "name": "La Marmotte",
-     "display": "La Marmotte, 22, Rue de Ransou, Le Hameau, Clambin, Verbier, Val de Bagnes, Entremont, Bas-Valais, Valais/Wallis, 1936, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/1722257114",
-     "type": "house"
+     "lat": "46.2015460",
+     "lon": "7.1780864",
+     "name": "Ovronnaz",
+     "display": "Ovronnaz, Chamoson, Conthey, Valais central, Valais/Wallis, 1964, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/9743646590",
+     "type": "yes"
+    },
+    {
+     "lat": "46.2027794",
+     "lon": "7.1371606",
+     "name": "Ovronnaz",
+     "display": "Ovronnaz, Leytron, Martigny, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/1226016225",
+     "type": "winter_sports"
     }
    ]
   },
   {
-   "id": "curated:restaurant-drapeau-suisse-martigny",
-   "q": "Restaurant du Drapeau Suisse, Martigny",
-   "name": "Restaurant du Drapeau Suisse",
-   "city": "Martigny",
-   "results": []
-  },
-  {
-   "id": "curated:espaces-terroir-laiterie-orsieres",
-   "q": "Espaces Terroir – Laiterie d'Orsières, Orsières",
-   "name": "Espaces Terroir – Laiterie d'Orsières",
-   "city": "Orsières",
-   "results": []
-  },
-  {
-   "id": "curated:refuge-du-lac-de-derborence-conthey",
-   "q": "Refuge du Lac de Derborence, Conthey",
-   "name": "Refuge du Lac de Derborence",
-   "city": "Conthey",
+   "id": "lac-d-arbey",
+   "q": "Arbey, Evolène",
+   "name": "Arbey, Evolène",
+   "city": "Evolène",
    "results": [
     {
-     "lat": "46.2798371",
-     "lon": "7.2144607",
-     "name": "Refuge du lac de Derborence",
-     "display": "Refuge du lac de Derborence, Route de Derborence, Derborence, Conthey, Valais central, Valais/Wallis, 1964, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/6920281757",
+     "lat": "46.1136449",
+     "lon": "7.4766988",
+     "name": "Arbey",
+     "display": "Arbey, Evolène, Hérens, Valais central, Valais/Wallis, 1983, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/2413457085",
+     "type": "hamlet"
+    },
+    {
+     "lat": "46.1085575",
+     "lon": "7.4621342",
+     "name": "Râz d'Arbey",
+     "display": "Râz d'Arbey, Evolène, Hérens, Valais central, Valais/Wallis, 1983, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/3347448084",
+     "type": "peak"
+    }
+   ]
+  },
+  {
+   "id": "passerelles-du-bisse-du-torrent-neuf",
+   "q": "Bisse du Torrent-Neuf, Savièse",
+   "name": "Bisse du Torrent-Neuf, Savièse",
+   "city": "Savièse",
+   "results": []
+  },
+  {
+   "id": "funiculaire-sierre-montana-crans",
+   "q": "Sierre SMC",
+   "name": "Sierre SMC",
+   "city": "Sierre",
+   "results": []
+  },
+  {
+   "id": "wolli-erlebnispark-sunnegga",
+   "q": "Sunnegga, Zermatt",
+   "name": "Sunnegga, Zermatt",
+   "city": "Zermatt",
+   "results": [
+    {
+     "lat": "46.0171665",
+     "lon": "7.7697586",
+     "name": "Sunnegga",
+     "display": "Sunnegga, Eggen, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/4338405329",
+     "type": "locality"
+    },
+    {
+     "lat": "46.0173588",
+     "lon": "7.7699819",
+     "name": "Sunnegga",
+     "display": "Sunnegga, Sunnegga Trail Zermatt, Tufteren, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/217951135",
+     "type": "yes"
+    },
+    {
+     "lat": "46.0173784",
+     "lon": "7.7699137",
+     "name": "Sunnegga",
+     "display": "Sunnegga, Sunnegga Trail Zermatt, Tufteren, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/632377709",
+     "type": "station"
+    },
+    {
+     "lat": "46.0171001",
+     "lon": "7.7699860",
+     "name": "Sunnegga",
+     "display": "Sunnegga, Sunnegga Trail Zermatt, Tufteren, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/241069447",
      "type": "restaurant"
     }
    ]
   },
   {
-   "id": "curated:restaurant-la-croix-de-coeur-la-tzoumaz",
-   "q": "Restaurant La Croix-de-Cœur, Riddes",
-   "name": "Restaurant La Croix-de-Cœur",
-   "city": "Riddes",
-   "results": []
-  },
-  {
-   "id": "curated:la-taverne-evolenarde-evolene",
-   "q": "La Taverne Évolénarde, Évolène",
-   "name": "La Taverne Évolénarde",
-   "city": "Évolène",
+   "id": "train-du-gornergrat",
+   "q": "Zermatt GGB",
+   "name": "Zermatt GGB",
+   "city": "Zermatt",
    "results": [
     {
-     "lat": "46.1144668",
-     "lon": "7.4926329",
-     "name": "Taverne Evolénarde",
-     "display": "Taverne Evolénarde, Rue Centrale, La Fauchère, Villa (Evolène), Evolène, Hérens, Valais central, Valais/Wallis, 1983, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/851495416",
-     "type": "restaurant"
+     "lat": "46.0239843",
+     "lon": "7.7485722",
+     "name": "Bahnhof Zermatt Gornergratbahn",
+     "display": "Bahnhof Zermatt Gornergratbahn, Getwingstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/30952470",
+     "type": "train_station"
+    },
+    {
+     "lat": "46.0237992",
+     "lon": "7.7490821",
+     "name": "Zermatt GGB",
+     "display": "Zermatt GGB, Getwingstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/240999126",
+     "type": "stop"
+    },
+    {
+     "lat": "46.0239354",
+     "lon": "7.7486214",
+     "name": "Zermatt GGB",
+     "display": "Zermatt GGB, Getwingstrasse, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/13306669016",
+     "type": "station"
     }
    ]
   },
   {
-   "id": "curated:bodmenstubli-leukerbad",
-   "q": "Bodmenstübli, Loèche-les-Bains",
-   "name": "Bodmenstübli",
+   "id": "gorges-du-gorner",
+   "q": "Gornerschlucht, Zermatt",
+   "name": "Gornerschlucht, Zermatt",
+   "city": "Zermatt",
+   "results": [
+    {
+     "lat": "46.0088218",
+     "lon": "7.7391020",
+     "name": "Gornerschlucht",
+     "display": "Gornerschlucht, Blatten, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/362660993",
+     "type": "path"
+    },
+    {
+     "lat": "46.0083015",
+     "lon": "7.7386523",
+     "name": "Gornerschlucht",
+     "display": "Gornerschlucht, Blatten, Zermatt, Visp, Oberwallis, Valais/Wallis, 3920, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/362660992",
+     "type": "steps"
+    }
+   ]
+  },
+  {
+   "id": "train-a-vapeur-de-la-furka",
+   "q": "Oberwald, Obergoms",
+   "name": "Oberwald, Obergoms",
+   "city": "Obergoms",
+   "results": [
+    {
+     "lat": "46.5328571",
+     "lon": "8.3520502",
+     "name": "Oberwald",
+     "display": "Oberwald, Obergoms, Goms, Oberwallis, Valais/Wallis, 3999, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/118313843",
+     "type": "village"
+    },
+    {
+     "lat": "46.5309174",
+     "lon": "8.3429252",
+     "name": "Oberwald",
+     "display": "Oberwald, Furkastrasse, Schrote, Oberwald, Obergoms, Goms, Oberwallis, Valais/Wallis, 3999, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/3019498808",
+     "type": "station"
+    }
+   ]
+  },
+  {
+   "id": "forest-fun-park-zermatt",
+   "q": "Forest Fun Park, Zermatt",
+   "name": "Forest Fun Park, Zermatt",
+   "city": "Zermatt",
+   "results": []
+  },
+  {
+   "id": "col-de-la-gemmi",
+   "q": "Gemmipass",
+   "name": "Gemmipass",
    "city": "Loèche-les-Bains",
    "results": [
     {
-     "lat": "46.3599664",
-     "lon": "7.6113992",
-     "name": "Bodmenstübli",
-     "display": "Bodmenstübli, Römerweg, Bodmen, Leukerbad, Leuk, Oberwallis, Valais/Wallis, 3954, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/way/208719673",
-     "type": "restaurant"
+     "lat": "46.3962756",
+     "lon": "7.6114655",
+     "name": "Gemmipass",
+     "display": "Gemmipass, Leukerbad, Leuk, Oberwallis, Valais/Wallis, 3954, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/5099136718",
+     "type": "saddle"
+    },
+    {
+     "lat": "46.3977872",
+     "lon": "7.6161838",
+     "name": "Gemmipass",
+     "display": "Gemmipass, Leukerbad, Leuk, Oberwallis, Valais/Wallis, 3954, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/12894600216",
+     "type": "locality"
     }
    ]
   },
   {
-   "id": "curated:restaurant-coquoz-champery",
-   "q": "Restaurant Coquoz, Champéry",
-   "name": "Restaurant Coquoz",
-   "city": "Champéry",
+   "id": "hohsi-land-kreuzboden",
+   "q": "Kreuzboden, Saas-Grund",
+   "name": "Kreuzboden, Saas-Grund",
+   "city": "Saas-Grund",
    "results": [
     {
-     "lat": "46.1722406",
-     "lon": "6.8443679",
-     "name": "Coquoz",
-     "display": "Coquoz, 107, Route de Planachaux, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1874, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/361465593",
-     "type": "restaurant"
-    }
-   ]
-  },
-  {
-   "id": "curated:relais-de-la-sarvaz-saillon",
-   "q": "Relais de la Sarvaz, Saillon",
-   "name": "Relais de la Sarvaz",
-   "city": "Saillon",
-   "results": [
+     "lat": "46.1378635",
+     "lon": "7.9642494",
+     "name": "Kreuzboden",
+     "display": "Kreuzboden, Saas-Grund, Visp, Oberwallis, Valais/Wallis, 3910, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/299759886",
+     "type": "locality"
+    },
     {
-     "lat": "46.1596386",
-     "lon": "7.1671867",
-     "name": "Relais de la Sarvaz",
-     "display": "Relais de la Sarvaz, 102, Route de Fully, Saillon, Martigny, Bas-Valais, Valais/Wallis, 1913, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/9202400148",
-     "type": "restaurant"
+     "lat": "46.1404945",
+     "lon": "7.9697643",
+     "name": "Kreuzboden",
+     "display": "Kreuzboden, Bike Skills Park rot, Triftalp, Saas-Grund, Visp, Oberwallis, Valais/Wallis, 3910, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/235635452",
+     "type": "t-bar"
+    },
+    {
+     "lat": "46.1383011",
+     "lon": "7.9640043",
+     "name": "Kreuzboden",
+     "display": "Kreuzboden, Gsponer Höhenweg, Triftalp, Saas-Grund, Visp, Oberwallis, Valais/Wallis, 3910, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/2481680954",
+     "type": "station"
+    },
+    {
+     "lat": "46.1385385",
+     "lon": "7.9649914",
+     "name": "Kreuzboden",
+     "display": "Kreuzboden, Bike Skill Park grün + Uphill, Triftalp, Saas-Grund, Visp, Oberwallis, Valais/Wallis, 3910, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/851187283",
+     "type": "guidepost"
     }
    ]
   },
   {
-   "id": "curated:alpage-lapisa-champery",
-   "q": "Alpage Lapisa, 1874 Champéry",
-   "name": "Alpage Lapisa",
-   "city": "Champéry",
-   "results": []
-  },
-  {
-   "id": "curated:bergrestaurant-spielboden-saas-fee",
-   "q": "Spielboden, 3906 Saas-Fee",
-   "name": "Bergrestaurant Spielboden",
+   "id": "sentier-des-marmottes-spielboden",
+   "q": "Spielboden, Saas-Fee",
+   "name": "Spielboden, Saas-Fee",
    "city": "Saas-Fee",
    "results": [
     {
@@ -1053,20 +371,292 @@
      "type": "station"
     },
     {
-     "lat": "46.0924238",
-     "lon": "7.8997862",
-     "name": "Spielboden",
-     "display": "Spielboden, Spielbodenweg, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
-     "osm": "https://www.openstreetmap.org/node/288316707",
-     "type": "restaurant"
-    },
-    {
      "lat": "46.0919750",
      "lon": "7.8996703",
      "name": "Spielboden",
      "display": "Spielboden, Spielbodenweg, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
      "osm": "https://www.openstreetmap.org/node/3041898208",
      "type": "station"
+    },
+    {
+     "lat": "46.0924238",
+     "lon": "7.8997862",
+     "name": "Spielboden",
+     "display": "Spielboden, Spielbodenweg, Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/288316707",
+     "type": "restaurant"
+    }
+   ]
+  },
+  {
+   "id": "sentier-de-l-alpe-lauchernalp",
+   "q": "Lauchernalp",
+   "name": "Lauchernalp",
+   "city": "Wiler (Lötschen)",
+   "results": [
+    {
+     "lat": "46.4131389",
+     "lon": "7.7764321",
+     "name": "Lauchernalp",
+     "display": "Lauchernalp, Wiler (Lötschen), Westlich Raron, Oberwallis, Valais/Wallis, 3918, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/372624724",
+     "type": "village"
+    },
+    {
+     "lat": "46.4208079",
+     "lon": "7.7627691",
+     "name": "Lauchernalp",
+     "display": "Lauchernalp, Wiler (Lötschen), Westlich Raron, Oberwallis, Valais/Wallis, 3918, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/1225709007",
+     "type": "winter_sports"
+    }
+   ]
+  },
+  {
+   "id": "sentier-des-legendes-du-lotschental",
+   "q": "Lauchernalp",
+   "name": "Lauchernalp",
+   "city": "Wiler (Lötschen)",
+   "results": [
+    {
+     "lat": "46.4131389",
+     "lon": "7.7764321",
+     "name": "Lauchernalp",
+     "display": "Lauchernalp, Wiler (Lötschen), Westlich Raron, Oberwallis, Valais/Wallis, 3918, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/372624724",
+     "type": "village"
+    },
+    {
+     "lat": "46.4208079",
+     "lon": "7.7627691",
+     "name": "Lauchernalp",
+     "display": "Lauchernalp, Wiler (Lötschen), Westlich Raron, Oberwallis, Valais/Wallis, 3918, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/1225709007",
+     "type": "winter_sports"
+    }
+   ]
+  },
+  {
+   "id": "sentier-des-nains-gogwargiweg",
+   "q": "Fiescheralp",
+   "name": "Fiescheralp",
+   "city": "Fiesch",
+   "results": [
+    {
+     "lat": "46.4121788",
+     "lon": "8.1019926",
+     "name": "Fiescheralp",
+     "display": "Fiescheralp, Goms, Oberwallis, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/295091534",
+     "type": "village"
+    },
+    {
+     "lat": "46.4136200",
+     "lon": "8.1029775",
+     "name": "Fiescheralp",
+     "display": "Fiescheralp, 85, Fiescherstafel, Fiesch, Goms, Oberwallis, Valais/Wallis, 3984, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/253197046",
+     "type": "station"
+    }
+   ]
+  },
+  {
+   "id": "parc-de-cordes-baschweri",
+   "q": "Bettmeralp",
+   "name": "Bettmeralp",
+   "city": "Bettmeralp",
+   "results": [
+    {
+     "lat": "46.3905924",
+     "lon": "8.0627954",
+     "name": "Bettmeralp",
+     "display": "Bettmeralp, Östlich Raron, Oberwallis, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/relation/3411183",
+     "type": "administrative"
+    },
+    {
+     "lat": "46.3887931",
+     "lon": "8.0620401",
+     "name": "Bettmeralp",
+     "display": "Bettmeralp, Betten, Bettmeralp, Östlich Raron, Oberwallis, Valais/Wallis, 3991, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/236593460",
+     "type": "residential"
+    }
+   ]
+  },
+  {
+   "id": "lac-de-grachen",
+   "q": "Grächen",
+   "name": "Grächen",
+   "city": "Grächen",
+   "results": [
+    {
+     "lat": "46.1960178",
+     "lon": "7.8421612",
+     "name": "Grächen",
+     "display": "Grächen, Visp, Oberwallis, Valais/Wallis, 3925, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/relation/1685313",
+     "type": "administrative"
+    }
+   ]
+  },
+  {
+   "id": "dick-waldji-saas-fee",
+   "q": "Saas-Fee",
+   "name": "Saas-Fee",
+   "city": "Saas-Fee",
+   "results": [
+    {
+     "lat": "46.1073420",
+     "lon": "7.9247055",
+     "name": "Saas-Fee",
+     "display": "Saas-Fee, Visp, Oberwallis, Valais/Wallis, 3906, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/relation/1685362",
+     "type": "administrative"
+    }
+   ]
+  },
+  {
+   "id": "curated:restaurant-drapeau-suisse-martigny",
+   "q": "Restaurant du Drapeau Suisse, Martigny",
+   "name": "Martigny",
+   "city": "Martigny",
+   "results": [
+    {
+     "lat": "46.1031150",
+     "lon": "7.0727354",
+     "name": "Martigny",
+     "display": "Martigny, Bas-Valais, Valais/Wallis, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/relation/1685332",
+     "type": "administrative"
+    }
+   ]
+  },
+  {
+   "id": "curated:espaces-terroir-laiterie-orsieres",
+   "q": "Espaces Terroir – Laiterie d'Orsières, Orsières",
+   "name": "Orsières",
+   "city": "Orsières",
+   "results": [
+    {
+     "lat": "46.0280460",
+     "lon": "7.1436963",
+     "name": "Orsières",
+     "display": "Orsières, 34, Route de la Gare, Maligue, Le Biolley, Orsières, Entremont, Bas-Valais, Valais/Wallis, 1937, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/9543361429",
+     "type": "station"
+    },
+    {
+     "lat": "46.0275130",
+     "lon": "7.1454080",
+     "name": "Orsières",
+     "display": "Orsières, Route de Podemainge, Reppaz, Le Biolley, Orsières, Entremont, Bas-Valais, Valais/Wallis, 1937, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/9774661096",
+     "type": "guidepost"
+    },
+    {
+     "lat": "46.0278519",
+     "lon": "7.1436415",
+     "name": "Orsières",
+     "display": "Orsières, Route de la Gare, Maligue, Le Biolley, Orsières, Entremont, Bas-Valais, Valais/Wallis, 1937, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/12192122566",
+     "type": "stop"
+    }
+   ]
+  },
+  {
+   "id": "curated:restaurant-la-croix-de-coeur-la-tzoumaz",
+   "q": "Restaurant La Croix-de-Cœur, Riddes",
+   "name": "Riddes",
+   "city": "Riddes",
+   "results": [
+    {
+     "lat": "46.1718974",
+     "lon": "7.2227718",
+     "name": "Riddes",
+     "display": "Riddes, Martigny, Bas-Valais, Valais/Wallis, 1908, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/1490368128",
+     "type": "village"
+    },
+    {
+     "lat": "46.1723966",
+     "lon": "7.2177443",
+     "name": "Riddes",
+     "display": "Riddes, Rue des Caves, Riddes, Martigny, Bas-Valais, Valais/Wallis, 1908, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/2881817100",
+     "type": "halt"
+    },
+    {
+     "lat": "46.1728546",
+     "lon": "7.2182014",
+     "name": "Riddes",
+     "display": "Riddes, Rue du Canal, Riddes, Martigny, Bas-Valais, Valais/Wallis, 1908, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/way/260129224",
+     "type": "platform"
+    },
+    {
+     "lat": "46.1730291",
+     "lon": "7.2187999",
+     "name": "Riddes",
+     "display": "Riddes, Rue Pré Giroud, Riddes, Martigny, Bas-Valais, Valais/Wallis, 1908, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/10671604286",
+     "type": "guidepost"
+    },
+    {
+     "lat": "46.1693463",
+     "lon": "7.2094727",
+     "name": "Riddes",
+     "display": "Riddes, A9, Riddes, Martigny, Bas-Valais, Valais/Wallis, 1913, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/281283102",
+     "type": "motorway_junction"
+    }
+   ]
+  },
+  {
+   "id": "curated:alpage-lapisa-champery",
+   "q": "Alpage Lapisa, Champéry",
+   "name": "Champéry",
+   "city": "Champéry",
+   "results": [
+    {
+     "lat": "46.1750001",
+     "lon": "6.8713721",
+     "name": "Champéry",
+     "display": "Champéry, Route du Centre Sportif, Champery, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1874, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/339478753",
+     "type": "station"
+    },
+    {
+     "lat": "46.1749886",
+     "lon": "6.8715194",
+     "name": "Champéry",
+     "display": "Champéry, Route du Centre Sportif, Champery, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1874, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/8904778518",
+     "type": "stop"
+    },
+    {
+     "lat": "46.1758769",
+     "lon": "6.8670438",
+     "name": "Champéry",
+     "display": "Champéry, Chemin de la Larze, Champery, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1874, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/12918519118",
+     "type": "bank"
+    },
+    {
+     "lat": "46.1749207",
+     "lon": "6.8704190",
+     "name": "Champéry",
+     "display": "Champéry, Route de la Fin, Champery, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1874, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/617941",
+     "type": "guidepost"
+    },
+    {
+     "lat": "46.1749921",
+     "lon": "6.8713078",
+     "name": "Champéry",
+     "display": "Champéry, Route de la Fin, Champery, Champéry, Monthey, Bas-Valais, Valais/Wallis, 1874, Schweiz/Suisse/Svizzera/Svizra",
+     "osm": "https://www.openstreetmap.org/node/5313410364",
+     "type": "vending_machine"
     }
    ]
   }

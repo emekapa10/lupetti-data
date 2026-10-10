@@ -1,0 +1,23 @@
+name: Valais - lieux OSM
+on:
+  workflow_dispatch:
+  push:
+    paths: [scripts/valais_osm.cjs, .github/workflows/valais-osm.yml]
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/valais_osm.cjs
+      - name: Enregistrer
+        run: |
+          git config user.name lupetti-bot
+          git config user.email lupetti-bot@users.noreply.github.com
+          git add valais
+          git diff --cached --quiet || git commit -m "Valais : lieux OpenStreetMap"
+          git pull --rebase && git push

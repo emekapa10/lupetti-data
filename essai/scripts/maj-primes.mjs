@@ -55,7 +55,7 @@ async function main() {
   if (!urlPrimes || !urlTarifs) throw new Error("Fichiers Prämien_CH.csv ou Tarife.csv introuvables sur opendata.swiss");
 
   const primes = lireCsv((await telecharger(urlPrimes)).toString("utf8"));
-  const annee = Math.max(...primes.map((p) => Number(p["Geschäftsjahr"])).filter(Number.isFinite));
+  const annee = primes.reduce((max, p) => Math.max(max, Number(p["Geschäftsjahr"]) || 0), 0);
   console.log(`Primes ${annee} : ${primes.length} lignes`);
 
   // Régions de primes et assureurs admis (priminfo), avec repli sur l'année précédente si le fichier n'existe pas encore

@@ -1,0 +1,617 @@
+[
+ {
+  "name": "Saint-Gingolph",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Agarn",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Albinen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Anniviers",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Arbaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ardon",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ausserberg",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ayent",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Val de Bagnes",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Baltschieder",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Bellwald",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Binn",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Bister",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Bitsch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Blatten",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Bourg-Saint-Pierre",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Bovernier",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Brig-Glis",
+  "nameFr": "Brigue-Glis",
+  "nameDe": null
+ },
+ {
+  "name": "Bürchen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Chalais",
+  "nameFr": "Chalais",
+  "nameDe": "Schalei"
+ },
+ {
+  "name": "Chamoson",
+  "nameFr": null,
+  "nameDe": "Tschamboss"
+ },
+ {
+  "name": "Champéry",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Chippis",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Collombey-Muraz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Collonges",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Conthey",
+  "nameFr": null,
+  "nameDe": "Gundis"
+ },
+ {
+  "name": "Dorénaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Eggerberg",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Eischoll",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Eisten",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Embd",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ergisch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ernen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Evionnaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Evolène",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ferden",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Fiesch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Fieschertal",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Finhaut",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Fully",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Gampel-Bratsch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Grengiols",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Grimisuat",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Grächen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Grône",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Guttet-Feschel",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Hérémence",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Icogne",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Inden",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Isérables",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Kippel",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Lalden",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Lax",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Lens",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Leuk",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Leukerbad",
+  "nameFr": "Loèche-les-Bains",
+  "nameDe": null
+ },
+ {
+  "name": "Leytron",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Liddes",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Martigny",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Martigny-Combe",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Massongex",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Mont-Noble",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Monthey",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Mörel-Filet",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Naters",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Nendaz",
+  "nameFr": null,
+  "nameDe": "Neind"
+ },
+ {
+  "name": "Niedergesteln",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Goms",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Oberems",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Obergoms",
+  "nameFr": "Conches-les-haut",
+  "nameDe": null
+ },
+ {
+  "name": "Orsières",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Port-Valais",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Randa",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Raron",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Riddes",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Ried-Brig",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Riederalp",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saas-Almagell",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saas-Balen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saas-Fee",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saas-Grund",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saillon",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saint-Gingolph",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saint-Léonard",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saint-Martin (VS)",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Salgesch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Salvan",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Savièse",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saxon",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Sembrancher",
+  "nameFr": null,
+  "nameDe": "Sankt Branschier"
+ },
+ {
+  "name": "Sierre",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Simplon",
+  "nameFr": "Simplon",
+  "nameDe": null
+ },
+ {
+  "name": "St. Niklaus",
+  "nameFr": "Saint-Nicolas",
+  "nameDe": null
+ },
+ {
+  "name": "Stalden (VS)",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Staldenried",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Steg-Hohtenn",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Termen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Trient",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Troistorrents",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Täsch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Törbel",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Unterbäch",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Val-d'Illiez",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Varen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Vernayaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Vex",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Noble-Contrée",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Veysonnaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Vionnaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Visp",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Visperterminen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Vouvry",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Vérossaz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Vétroz",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Wiler (Lötschen)",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Zeneggen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Zermatt",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Zwischbergen",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Turtmann-Unterems",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Saint-Maurice",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Sion",
+  "nameFr": null,
+  "nameDe": "Sitten"
+ },
+ {
+  "name": "Bettmeralp",
+  "nameFr": null,
+  "nameDe": null
+ },
+ {
+  "name": "Crans-Montana",
+  "nameFr": null,
+  "nameDe": null
+ }
+]

@@ -1,0 +1,23 @@
+name: Chercher des photos (2e passe)
+on:
+  workflow_dispatch:
+  push:
+    paths: [photo-search/places2.json, scripts/find_photos2.cjs, .github/workflows/find-photos2.yml]
+permissions:
+  contents: write
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/find_photos2.cjs
+      - name: Enregistrer
+        run: |
+          git config user.name lupetti-bot
+          git config user.email lupetti-bot@users.noreply.github.com
+          git add photo-search
+          git diff --cached --quiet || git commit -m "Photos candidates, 2e passe (Commons)"
+          git pull --rebase && git push
